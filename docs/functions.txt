@@ -1,0 +1,26 @@
+
+
+main						def	( list ) 
+	|							|
+	|							|
+	loadAllItems				o	def	( stream, linenr, item )
+	|	|						|			|		|		|
+	|	|						|			|		|		|
+	|	loadSingleItem			|			o		o		o	def	( line, eltnr }
+	|	|	|					|			|		|		|			|		|
+	|	|	|					|			|		|		|			|		|
+	|	|	getLine				|			o		o		|			o		|
+	|	|	getHead				|					|		|			o		|
+	|	|	parseName			|					o		o			o		|
+	|	|	parseID				|					o		o			o		|
+	|	|	parseCompound		|					o		o			o		|
+	|	|	parseElement		|					o		o			o		o
+	|	|						|							|
+	|	|						|							|
+	|	addItem					o							o
+	|							|
+	|							|
+	showAllItems				o
+		|						
+		|
+		showItem

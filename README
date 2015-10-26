@@ -1,0 +1,12 @@
+Copyright: (c) 2015  Gerrard de Jonge development.gdj@netvisit.nl
+License:   GPLv2 (see file COPYING)
+
+
+el-calc: program to calculate needed resources for specific recipe
+
+
+el-calc < -i item > [ -a amount ]
+	item	name or id of item to calculate
+	amount	amount of item to calculate (default is 1)
+
+

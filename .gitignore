@@ -1,0 +1,10 @@
+*~
+*.o
+*.ihex
+*.map
+*.i
+*.s
+*swp
+
+el-calc
+
