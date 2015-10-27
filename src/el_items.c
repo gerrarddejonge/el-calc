@@ -74,7 +74,7 @@ elState loadAllItems(List * list)
 elState loadSingleItem(FILE * stream, Item * item, int * linenumber)
 {
 	char    line[LINESIZE];
-	elState res;
+	elState res = EL_SUCCESS;
 	int     elementcount = 0;
 	elState state;
 	
@@ -213,7 +213,22 @@ char getHead(char * line)
 }
     
 
+void lookup(List * list, char name[])
+{
+	Item * item;
+	
+	if (strcmp("Unknown", name) != 0) {
+		item = findItemName(list->head, name);
+		if ( item != NULL ) {
+			showItem(item);
+		} else {
+			printf("Can't find item: %s\n", name);
+		}
+	} else {
+		printItems(list);
+	}
+}
 
     
         
-        
+// end of el_items.c        

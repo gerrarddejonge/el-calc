@@ -40,8 +40,8 @@ HEADERS =
 LIBS    = 
 INCLIB  =  
 
-#CC	= gcc
-CC	= clang
+CC	= gcc
+#CC	= clang
 OC	= objcopy 
 TOUCH   = touch
 
@@ -50,10 +50,10 @@ CM     = chmod
 
 STANDARD= --std=c99
 
-CPFLAGS = -g -Os -save-temps $(STANDARD) -Wall -pedantic -Wextra -Wstrict-prototypes
+CPFLAGS = -g -O0 -save-temps $(STANDARD) -Wall -pedantic -Wextra -Wstrict-prototypes -fno-builtin
 LDFLAGS = 
 DEFINES = 
-DEBUG = -DDEBUG		# Enable debug mode
+#DEBUG = -DDEBUG		# Enable debug mode
 
 .PHONY: elcalc clean distclean
 

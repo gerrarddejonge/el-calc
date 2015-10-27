@@ -21,6 +21,8 @@
 elState loadSingleItem(FILE * stream, Item * item, int * linenumber);
 elState loadAllItems(List * list);
 
+void lookup(List * list, char name[]);
+
 void   initItem(Item * item);
 Item * addItem(List * list, Item * item);
 Item * findItemId(Item * head, int id);

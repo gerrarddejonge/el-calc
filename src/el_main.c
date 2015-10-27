@@ -33,7 +33,7 @@ int main(int argc, char * argv[])
 			exit(EXIT_FAILURE);
 		}
 		if (pstate.lookup) {
-			printItems(&itemlist);
+			lookup(&itemlist, pstate.itemname);
 			exit(EXIT_SUCCESS);
 		}
 		
