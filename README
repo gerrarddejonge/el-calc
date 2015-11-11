@@ -2,11 +2,23 @@ Copyright: (c) 2015  Gerrard de Jonge development.gdj@netvisit.nl
 License:   GPLv2 (see file COPYING)
 
 
-el-calc: program to calculate needed resources for specific recipe
+el-calc: Resource calculator for game Eternal Lands "eternal-lands.com"
 
 
-el-calc < -i item > [ -a amount ] [-d itemdir]
-	item		name or id of item to calculate
-	amount		amount of item(s) to calculate (default is 1)
-	itemdir		Directory with the item file (item.lst)
+Usage: el-calc [OPTION...]
+el-calc  Calculator for el recipies
+
+  -a, --amount=value         amount of items; default = 1
+  -d, --directory="directory/<filename>"
+                             path to item list; default = items.lst
+  -i, --item="itemname"      item name.
+  -l, --lookup               lookup item
+  -n, --number=ID number     item ID
+  -s, --search               Search for items containing item
+  -?, --help                 Give this help list
+      --usage                Give a short usage message
+  -V, --version              Print program version
+
+Mandatory or optional arguments to long options are also mandatory or optional
+for any corresponding short options.
 
