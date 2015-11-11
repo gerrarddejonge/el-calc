@@ -1,0 +1,1151 @@
+    1019 |      492 |      1 | 10% Shop Coupon
+    1022 |      492 |      1 | 5% Coupon
+     738 |      493 |      2 | Accuracy/Magic Indicator
+     745 |      494 |      2 | Accuracy predictor
+     736 |      493 |      2 | A/D Indicator
+      34 |       53 |      1 | Air Essence
+      24 |        7 |      3 | Ale
+     626 |      451 |     30 | Alembic
+     631 |       20 |      2 | Alembic Building
+    1069 |      294 |      5 | Amber
+     650 |      486 |      2 | Animal Removal Stone
+     391 |       20 |      2 | Anitora Ring Building
+     927 |      485 |      2 | Antisocial removal
+     993 |      492 |      1 | Archery Arena Ticket
+     555 |        4 |      2 | Arctic Chimeran Summoning
+     584 |      147 |      2 | Arctic Chim Stone Construction
+     574 |      380 |      1 | Arctic Chim Summoning Stone
+     587 |      147 |      2 | Armed Orc Stone Construction
+     577 |      383 |      1 | Armed Orc Summoning Stone
+     178 |       21 |      2 | Armor Construction
+     896 |      605 |      1 | Arrow/bolt head
+     895 |      604 |      4 | Arrow/bolt head mold
+    1031 |      485 |      2 | Artificer removal
+     653 |      486 |      2 | Artificial Removal Stone
+     716 |      470 |      2 | Ashes
+     741 |      494 |      2 | Attack predictor
+    1155 |      485 |      2 | Attribute reset stone
+     503 |      372 |     10 | Augmented Leather Armor
+     540 |      373 |      4 | Augmented Leather Pants
+     374 |      344 |     12 | Axe of freezing
+    1035 |      637 |      2 | Bad Day Removal
+      59 |       69 |      9 | Bear Fur
+     580 |      147 |      2 | Bear Stone Construction
+     570 |      376 |      1 | Bear Summoning Stone
+     145 |      145 |      1 | Beaver fur
+     393 |       20 |      2 | Bethel Ring Building
+    1016 |       22 |      2 | Big Book of Crafting
+    1018 |       20 |      2 | Big Book of Engineering
+    1014 |       21 |      2 | Big Book of Manufacturing
+    1017 |       20 |      2 | Big Book of Potions
+    1015 |       23 |      2 | Big Book of Tailoring
+     407 |      340 |      3 | Binding Stone
+     659 |      446 |      1 | Black Adventurer's cap
+    1011 |      615 |      2 | Black and White Whistle
+     801 |      520 |      3 | Black Baggy Pants
+     670 |      444 |      1 | Black Bandana
+     800 |      519 |      3 | Black Blue Striped Baggy Pants
+    1092 |      638 |      4 | Black boots
+     810 |      549 |      2 | Black Buccaneer Hat
+     814 |      553 |      2 | Black Cavalier Hat
+     811 |      550 |      2 | Black Cavalier Peacock Hat
+    1105 |      663 |      3 | Black doublet
+     819 |      580 |      6 | Black Dragon Cuisses
+     820 |      581 |      4 | Black Dragon Greave
+     817 |      578 |      2 | Black Dragon Helm
+     818 |      579 |      8 | Black Dragon Mail
+     709 |      463 |      1 | Black Dragon Scale
+     827 |      574 |      2 | Black Dye
+     829 |      561 |      2 | Black Fabric
+     996 |      613 |      2 | Black Horse Whistle
+    1111 |      669 |      3 | Black jacket
+     442 |      250 |      2 | Black panther fur
+     710 |      464 |      1 | Blackpowder
+     799 |      518 |      3 | Black Purple Striped Baggy Pants
+     797 |      516 |      3 | Black Red Striped Baggy Pants
+     782 |      527 |      3 | Black Robe
+     787 |      532 |      3 | Black Robe Skirt
+       7 |       32 |      1 | Black Rose
+     804 |      543 |      2 | Black Scarf
+     806 |      545 |      2 | Black Tricorn Hat
+     764 |      503 |      3 | Black Tunic
+     775 |      513 |      3 | Black Tunic Black Shirt
+     772 |      510 |      3 | Black Tunic Green Shirt
+     773 |      511 |      3 | Black Tunic Purple Shirt
+     774 |      512 |      3 | Black Tunic Red Shirt
+     771 |      514 |      3 | Black Tunic White Shirt
+    1053 |      627 |      3 | Black vest
+    1057 |      631 |      3 | Black white dress
+    1061 |      635 |      3 | Black white skirt
+    1096 |      642 |      2 | Black Wizard Hat
+    1071 |      332 |      1 | Blank paper
+     656 |      449 |      1 | Blue Adventurer's cap
+     668 |      441 |      1 | Blue Bandana
+     516 |      301 |      1 | Blue Berries
+     813 |      552 |      2 | Blue Cavalier Hat
+    1087 |      646 |      6 | Blue Dragon Cuisses
+    1086 |      647 |      4 | Blue Dragon Greave
+    1091 |      644 |      2 | Blue Dragon Helm
+    1088 |      645 |      8 | Blue Dragon Mail
+    1124 |      670 |      5 | Blue Dragon Scale
+    1089 |      648 |      8 | Blue Dragon Shield
+    1090 |      649 |     23 | Blue dragon sword
+     825 |      572 |      2 | Blue Dye
+     834 |      566 |      2 | Blue Fabric
+    1051 |      625 |      3 | Blue green vest
+       9 |       34 |      1 | Blue Lupine
+      15 |       39 |      2 | Blue Quartz
+     200 |       20 |      2 | Blue Quartz Mining
+     781 |      526 |      3 | Blue Robe
+     791 |      536 |      3 | Blue Robe Skirt
+       1 |       26 |      1 | Blue Star Flower
+     808 |      547 |      2 | Blue Tricorn Hat
+     766 |      505 |      3 | Blue Tunic
+     769 |      508 |      3 | Blue Tunic White Shirt
+    1013 |      490 |      0 | Boat Ticket
+     134 |      130 |      3 | Body Piercing Cloak
+    1037 |      485 |      2 | Body Piercing removal
+     372 |      337 |      1 | Bone of Death
+      54 |       63 |      1 | Bones
+      63 |       71 |      1 | Bones Powder
+     878 |       22 |      2 | Book High Explosive Mine
+     532 |       24 |      2 | Book of Accuracy
+     755 |       22 |      2 | Book of Accuracy/Magic Indicator Building
+    1044 |       24 |      2 | Book of AC Fighting
+     753 |       22 |      2 | Book of A/D Indicator Building
+     238 |       23 |      2 | Book of Advanced Alchemy
+     239 |        4 |      2 | Book of Advanced Potions
+     253 |       23 |      2 | Book of Advanced Summoning
+     237 |       23 |      2 | Book of Anatomy
+     431 |       22 |      2 | Book of Armed Female Orc Sum.
+     427 |       22 |      2 | Book of Armed Male Goblin Sum.
+     432 |       22 |      2 | Book of Armed Male Orc Sum.
+     428 |       22 |      2 | Book of Armed Skeleton Sum.
+     911 |       20 |      2 | Book of Arrow/Bolt head
+     901 |       20 |      2 | Book of Arrows and bolts
+     910 |       20 |      2 | Book of Arrows/Bolts head mold
+     752 |       22 |      2 | Book of Astrology Indicators
+     983 |       21 |      2 | Book of Attack Reduction
+     324 |       22 |      2 | Book of Axe Construction
+     853 |       21 |      2 | Book of Baggy Pants
+     727 |       24 |      2 | Book of Barricade
+     267 |       21 |      2 | Book of Bear Fighting
+     260 |      147 |      2 | Book of Bear Summoning
+     235 |       21 |      2 | Book of Biochemistry
+     234 |       20 |      2 | Book of Biology
+     861 |       21 |      2 | Book of Black Dragon Cuisses
+     735 |       24 |      2 | Book of Black Dragon Fighting
+     862 |       21 |      2 | Book of Black Dragon Greaves
+     859 |       21 |      2 | Book of Black Dragon Helm
+     860 |       21 |      2 | Book of Black Dragon Torso Armor
+     847 |       21 |      2 | Book of Black Dye
+     698 |       23 |      2 | Book of Blackpowder
+    1120 |       21 |      2 | Book of Blue Dragon Cuisses Armor
+    1119 |       21 |      2 | Book of Blue Dragon Greaves Armor
+    1121 |       21 |      2 | Book of Blue Dragon Helm Armor
+    1135 |       24 |      2 | Book of Blue Dragons Fighting
+    1122 |       21 |      2 | Book of Blue Dragon Shield
+    1123 |       21 |      2 | Book of Blue Dragon Sword
+    1118 |       21 |      2 | Book of Blue Dragon Torso Armor
+     845 |       21 |      2 | Book of Blue Dye
+     256 |       22 |      2 | Book of Boar Summoning
+    1072 |       20 |      2 | Book of Books
+    1125 |       21 |      2 | Book of Boots Making
+     236 |       23 |      2 | Book of Botanics
+     900 |       20 |      2 | Book of Bows and Crossbows
+     686 |       21 |      2 | Book of Bronze Sword
+     856 |       21 |      2 | Book of Buccaneer Hat
+    1136 |       24 |      2 | Book of Bulangiu Fighting
+     697 |       23 |      2 | Book of Caltrops
+     699 |       23 |      2 | Book of Camouflage Cape
+    1043 |       24 |      2 | Book of Cockatrice Fighting
+     953 |       24 |      2 | Book of Cold Protection
+     261 |       22 |      2 | Book of Combat Tactics
+     358 |       21 |      2 | Book of Crafting Potion
+     958 |       24 |      2 | Book of Creature Food
+     754 |       22 |      2 | Book of Criticals Indicator Building
+     497 |       21 |      2 | Book of Cutlass
+     269 |       24 |      2 | Book of Cyclops Fighting
+     433 |       22 |      2 | Book of Cyclop Sum.
+     241 |        4 |      2 | Book of Death Essence
+     984 |       24 |      2 | Book of Defense Reduction
+    1130 |       21 |      2 | Book of Doublets Making
+     693 |       21 |      2 | Book of Dragon Blade
+    1077 |       24 |      2 | Book of Dresses
+     270 |       24 |      2 | Book of Dwarf Fighting
+     500 |       20 |      2 | Book of Eagle Wing
+     271 |       24 |      2 | Book of Elf Fighting
+     496 |       21 |      2 | Book of Emerald Claymore
+     964 |       23 |      2 | Book of Enhanced Armor
+     963 |       23 |      2 | Book of Enhanced Items
+    1080 |       24 |      2 | Book of Enhanced Sun Medallion
+    1079 |       24 |      2 | Book of Enhanced Unicorn Medallion
+     965 |       23 |      2 | Book of Enhanced Weapons
+     533 |       24 |      2 | Book of Evasion
+     848 |       21 |      2 | Book of Fabric Dyeing
+     840 |       21 |      2 | Book of Fabric Weaving
+     725 |       24 |      2 | Book of Falcon Summoning
+     426 |       22 |      2 | Book of Female Goblin Sum.
+     429 |       22 |      2 | Book of Female Orc Sum.
+     904 |       20 |      2 | Book of Fire arrows
+     908 |       20 |      2 | Book of Fire bolts
+     412 |       22 |      2 | Book of Fire sword
+     731 |       24 |      2 | Book of Fluffy Fighting
+     330 |       22 |      2 | Book of Fluffy Summoning
+     695 |       22 |      2 | Book of Frying Pan
+     264 |       22 |      2 | Book of Gargoyle Fighting
+     258 |       24 |      2 | Book of Gargoyles Summoning
+     733 |       24 |      2 | Book of Giant Fighting
+     262 |       22 |      2 | Book of Goblin Fighting
+     694 |       22 |      2 | Book of Golden Star Mace
+     160 |       21 |      2 | Book of Gold Mining
+     165 |       21 |      2 | Book of Gold Molding
+     155 |       21 |      2 | Book of Gold Smelting
+     844 |       21 |      2 | Book of Green Dye
+     564 |       24 |      2 | Book of Gypsum Harvesting
+     565 |       24 |      2 | Book of Gypsum Molding
+     692 |       21 |      2 | Book of Halberd
+     756 |       22 |      2 | Book of Harvest/Degrade Indicator Building
+     724 |       24 |      2 | Book of Hawk Summoning
+     242 |        4 |      2 | Book of Health Essence
+     954 |       24 |      2 | Book of Heat Protection
+     858 |       21 |      2 | Book of Hood
+     272 |       24 |      2 | Book of Humans Fighting
+     273 |       24 |      2 | Book of Humans Fighting
+     437 |       22 |      2 | Book of Hydrogenium mining
+     438 |       22 |      2 | Book of Hydrogenium molding
+     439 |       22 |      2 | Book of Hydrogenium smelting
+     903 |       20 |      2 | Book of Ice arrows
+     907 |       20 |      2 | Book of Ice bolts
+     945 |       21 |      2 | Book of Ice Dragon Cuisses Armor
+     944 |       21 |      2 | Book of Ice Dragon Greaves Armor
+     946 |       21 |      2 | Book of Ice Dragon Helm Armor
+    1134 |       24 |      2 | Book of Ice Dragons Fighting
+     943 |       21 |      2 | Book of Ice Dragon Torso Armor
+     413 |       22 |      2 | Book of Ice sword
+     936 |       21 |      2 | Book of Immunity Removal Ward
+     885 |       22 |      2 | Book of Invasionmeter
+     526 |       24 |      2 | Book of Invisibility
+     935 |       21 |      2 | Book of Invisibility Removal Ward
+     325 |       22 |      2 | Book of Iron Axe Construction
+     417 |       22 |      2 | Book of Iron Broad sword of fire
+     418 |       22 |      2 | Book of Iron Broad sword of ice
+     161 |       23 |      2 | Book of Iron Mining
+     166 |       22 |      2 | Book of Iron Molding
+     156 |       22 |      2 | Book of Iron Smelting
+     416 |       22 |      2 | Book of Iron sword of fire
+    1131 |       21 |      2 | Book of Jackets Making
+     502 |       20 |      2 | Book of Jagged Saber
+     240 |        4 |      2 | Book of Life Essence
+     759 |       22 |      2 | Book of Lightmeter
+    1001 |       20 |      2 | Book of Mage Robes
+     905 |       20 |      2 | Book of Magic arrows
+     909 |       20 |      2 | Book of Magic bolts
+     243 |        4 |      2 | Book of Magic Essence
+     359 |       21 |      2 | Book of Magic Potion
+     414 |       22 |      2 | Book of Magic sword
+     430 |       22 |      2 | Book of Male Orc Sum.
+     934 |       21 |      2 | Book of Mana Burn Ward
+     933 |       21 |      2 | Book of Mana Drain Ward
+    1137 |       24 |      2 | Book of Mare Bulangiu Fighting
+    1000 |       20 |      2 | Book of Medallion of Mana
+     998 |       20 |      2 | Book of Medallion of the Gatherer
+     877 |       22 |      2 | Book of Medium Landmine
+     151 |       20 |      2 | Book of Metallurgy
+     153 |       21 |      2 | Book of Metal Mining
+     154 |       21 |      2 | Book of Metal Molding
+     152 |       21 |      2 | Book of Metal Smelting
+     959 |       24 |      2 | Book of Mule Glyph
+     702 |       23 |      2 | Book of Nails
+     696 |       22 |      2 | Book of Night Visor
+     876 |       22 |      2 | Book of No More Warlock
+     729 |       24 |      2 | Book of Ogre Fighting
+     842 |       21 |      2 | Book of Orange Dye
+     266 |      147 |      2 | Book of Orc Fighting
+     499 |       21 |      2 | Book of Orc Slayer
+    1140 |       24 |      2 | Book of Pear finder
+    1128 |       21 |      2 | Book of Peasant Dress Making
+    1133 |       21 |      2 | Book of Peasant Skirts Making
+     730 |       24 |      2 | Book of Phantom Warrior Fighting
+     902 |       20 |      2 | Book of PK arrows
+     906 |       20 |      2 | Book of PK bolts
+     524 |       21 |      2 | Book of Poison Antidote
+     703 |       23 |      2 | Book of Poisoned Caltrops
+     434 |       22 |      2 | Book of Polar Bear Sum.
+    1143 |       24 |      2 | Book of Potion of Action Points
+     244 |        8 |      2 | Book of Potion of Body Restoration
+     247 |        8 |      2 | Book of Potion of Coordination
+     726 |       24 |      2 | Book of Potion of Engineering
+     250 |       21 |      2 | Book of Potion of Feasting
+     251 |       20 |      2 | Book of Potion of Manufacturing
+     249 |       21 |      2 | Book of Potion of Physique
+     252 |       20 |      2 | Book of Potion of Summoning
+     246 |        8 |      2 | Book of Potion of Vitality
+     245 |        8 |      2 | Book of Potion of Wildness
+     248 |       21 |      2 | Book of Potion of Will
+     265 |       20 |      2 | Book of Puma Fighting
+     259 |      146 |      2 | Book of Puma Summoning
+     846 |       21 |      2 | Book of Purple Dye
+     955 |       24 |      2 | Book of Radiation Protection
+     999 |       20 |      2 | Book of Radioactive Rapier
+     501 |       20 |      2 | Book of Rapier
+     757 |       22 |      2 | Book of Rare/Fail Indicator Building
+     931 |       21 |      2 | Book of RC Detonator
+     930 |       21 |      2 | Book of RC Mine
+     689 |       21 |      2 | Book of Red Dragon Cuisses Armor
+     734 |       24 |      2 | Book of Red Dragon Fighting
+     688 |       21 |      2 | Book of Red Dragon Greaves Armor
+     690 |       21 |      2 | Book of Red Dragon Helm Armor
+     751 |       22 |      2 | Book of Red Dragon Summoning
+     687 |       21 |      2 | Book of Red Dragon Torso Armor
+     841 |       21 |      2 | Book of Red Dye
+    1159 |       24 |      2 | Book of RHoLM
+     851 |       21 |      2 | Book of Robe
+     852 |       21 |      2 | Book of Robe Skirts
+     700 |       23 |      2 | Book of Rope
+     705 |       23 |      2 | Book of Saltpetre
+     857 |       21 |      2 | Book of Santa Hat
+     706 |       23 |      2 | Book of Saving Stone
+     854 |       21 |      2 | Book of Scarves
+     947 |       21 |      2 | Book of Scythe
+     871 |       22 |      2 | Book of Serpent Sword of Fire
+     872 |       22 |      2 | Book of Serpent Sword of Ice
+     873 |       22 |      2 | Book of Serpent Sword of Magic
+     874 |       22 |      2 | Book of Serpent Sword of Thermal
+     162 |       22 |      2 | Book of Silver Mining
+     167 |       23 |      2 | Book of Silver Molding
+     157 |       22 |      2 | Book of Silver Smelting
+     263 |       22 |      2 | Book of Skeleton Fighting
+     257 |       22 |      2 | Book of Skeleton Summoning
+    1076 |       24 |      2 | Book of Skirts
+     704 |       23 |      2 | Book of Small Landmine
+     254 |       23 |      2 | Book of Snakes Summoning
+     701 |       23 |      2 | Book of Snare
+     691 |       21 |      2 | Book of Spear
+     411 |       22 |      2 | Book of special swords
+     980 |       20 |      2 | Book of Speed Hax
+     326 |       22 |      2 | Book of Steel Axe Construction
+     488 |       23 |      2 | Book of Steel Cuisses
+     487 |       23 |      2 | Book of Steel Greaves
+     490 |       21 |      2 | Book of Steel Helmet
+     419 |       22 |      2 | Book of Steel long sword of fire
+     420 |       22 |      2 | Book of Steel long sword of ice
+     421 |       22 |      2 | Book of Steel long sword of magic
+     164 |       20 |      2 | Book of Steel Molding
+     494 |       21 |      2 | Book of Steel Plate Mail
+     158 |       22 |      2 | Book of Steel Smelting
+     422 |       22 |      2 | Book of Steel two edged sword of fire
+     423 |       22 |      2 | Book of Steel two edged sword of ice
+     424 |       22 |      2 | Book of Steel two edged sword of magic
+     425 |       22 |      2 | Book of Steel two edged sword of thermal
+     498 |       21 |      2 | Book of Sunbreaker
+     415 |       22 |      2 | Book of Thermal sword
+     327 |       22 |      2 | Book of Titanium Axe Construction
+     493 |       21 |      2 | Book of Titanium Cuisses
+     492 |       21 |      2 | Book of Titanium Greaves
+     491 |       21 |      2 | Book of Titanium Helmet
+     163 |       20 |      2 | Book of Titanium Mining
+     168 |      146 |      2 | Book of Titanium Molding
+     495 |       21 |      2 | Book of Titanium Plate Mail
+     489 |       23 |      2 | Book of Titanium Shield
+     159 |       24 |      2 | Book of Titanium Smelting
+     867 |       22 |      2 | Book of Titanium/Steel Long Sword of Fire
+     868 |       22 |      2 | Book of Titanium/Steel Long Sword of Ice
+     869 |       22 |      2 | Book of Titanium/Steel Long Sword of Magic
+     870 |       22 |      2 | Book of Titanium/Steel Long Sword of Thermal
+     863 |       22 |      2 | Book of Titanium/Steel Short Sword of Fire
+     864 |       22 |      2 | Book of Titanium/Steel Short Sword of Ice
+     865 |       22 |      2 | Book of Titanium/Steel Short Sword of Magic
+     866 |       22 |      2 | Book of Titanium/Steel Short Sword of Thermal
+    1139 |       24 |      2 | Book of Treasure finder
+     855 |       21 |      2 | Book of Tricorn Hat
+     268 |       24 |      2 | Book of Troll Fighting
+     525 |       22 |      2 | Book of True Sight
+     849 |       21 |      2 | Book of Tunic
+    1002 |       20 |      2 | Book of Tunic of the Ninja
+     850 |       21 |      2 | Book of Tunic/Shirt
+    1078 |       24 |      2 | Book of Vests
+    1127 |       21 |      2 | Book of Wedding Dress Making
+    1132 |       21 |      2 | Book of Wedding Skirts Making
+    1126 |       21 |      2 | Book of Wizard Hats Making
+     485 |       24 |      2 | Book of Wolframite Mining
+     484 |       24 |      2 | Book of Wolframite Smelting
+     486 |       24 |      2 | Book of Wolfram Molding
+     255 |       22 |      2 | Book of Wolf Summoning
+     843 |       21 |      2 | Book of Yellow Dye
+     732 |       24 |      2 | Book of Yeti Fighting
+    1021 |      492 |      1 | Bot Blessing Coupon
+     371 |      338 |      2 | Branch Of Destruction
+      21 |        0 |      2 | Bread
+     611 |      279 |     20 | Bronze Bar
+     592 |      418 |     25 | Bronze Cuisses
+     603 |      148 |      2 | Bronze Cuisses Construction
+     593 |      419 |     20 | Bronze Greave
+     604 |      148 |      2 | Bronze Greaves Construction
+     594 |      415 |      8 | Bronze Helm
+     605 |      148 |      2 | Bronze Helm Construction
+     591 |      417 |     35 | Bronze Plate Mail
+     602 |      148 |      2 | Bronze Plate Mail Construction
+     595 |      416 |     20 | Bronze Shield
+     606 |      148 |      2 | Bronze Shield Construction
+     679 |      413 |     30 | Bronze Sword
+     657 |      445 |      1 | Brown Adventurer's cap
+     802 |      521 |      3 | Brown Baggy Pants
+     667 |      440 |      1 | Brown Bandana
+    1102 |      658 |      3 | Brown blue peasant dress
+    1116 |      659 |      3 | Brown Blue Peasant skirt
+    1093 |      639 |      4 | Brown boots
+     809 |      548 |      2 | Brown Buccaneer Hat
+    1107 |      665 |      3 | Brown doublet
+     837 |      575 |      2 | Brown Fabric
+     960 |      585 |      2 | Brown Horse Whistle
+    1108 |      666 |      3 | Brown jacket
+      67 |       73 |      1 | Brown rabbit fur
+     784 |      529 |      3 | Brown Robe
+     789 |      534 |      3 | Brown Robe Skirt
+      84 |       77 |      3 | Brown Snake Skin
+     807 |      546 |      2 | Brown Tricorn Hat
+     761 |      500 |      3 | Brown Tunic
+     776 |      515 |      3 | Brown Tunic Blue Shirt
+     770 |      509 |      3 | Brown Tunic White Shirt
+    1054 |      628 |      3 | Brown vest
+     720 |      474 |     10 | Bucket
+      53 |       64 |      4 | Cactus
+     712 |      466 |      3 | Caltrop
+     337 |      227 |      4 | Cape of No More Warlock
+     338 |      226 |      4 | Cape of passive camouflage
+     340 |      128 |     20 | Cape of The Unbreakable
+     898 |      330 |      2 | Carving Knife
+     974 |      351 |     23 | Cheap Cutlass
+     331 |       22 |      2 | Chimeran Mountain Wolf Summoning
+       3 |       28 |      1 | Chrysanthemum
+     627 |      284 |      2 | Cinnabar
+     628 |       20 |      2 | Cinnabar Mining
+      47 |       46 |      2 | Coal
+     721 |      462 |      1 | Cockatrice Feather
+    1160 |      485 |      2 | Collateral Damage removal
+    1025 |      487 |      2 | Color change stone
+     137 |      127 |      3 | Conjurer Cloak
+    1149 |      485 |      2 | Conjurer removal
+      81 |       74 |      1 | Cooked Meat
+     643 |      485 |      2 | Coordination Removal Stone
+     609 |      276 |     15 | Copper Bar
+     596 |      148 |      2 | Copper Mining
+     600 |      148 |      2 | Copper Molding
+     607 |      275 |      5 | Copper Ore
+     598 |      148 |      2 | Copper Smelting
+     504 |      303 |      1 | Cotton
+     956 |      584 |      1 | Creature food
+     737 |      493 |      2 | Criticals Indicator
+     882 |      592 |      7 | Crossbow
+     883 |      672 |      1 | Crossbow training bolts
+     367 |      323 |      3 | Crown of Life
+     558 |        4 |      2 | Crown of Life Building
+     368 |      324 |      3 | Crown of Mana
+     559 |        4 |      2 | Crown of Mana Building
+     211 |       22 |      2 | Crystal embedding
+     197 |       22 |      2 | Crystal Mining
+     205 |       23 |      2 | Crystal Processing
+     196 |       23 |      2 | Crystal Technology
+     678 |      366 |      4 | Custom Cape
+     680 |      450 |     20 | Custom Shield
+     458 |      351 |     23 | Cutlass
+     543 |      351 |     23 | Cutlass of the mage
+     507 |      304 |      1 | Daffodils
+    1154 |      491 |      1 | Daily cooldown reducer
+     921 |      580 |      6 | Damaged Black Dragon Cuisses
+     922 |      581 |      4 | Damaged Black Dragon Greave
+     920 |      579 |      8 | Damaged Black Dragon Mail
+     915 |      418 |     25 | Damaged Bronze Cuisses
+     916 |      419 |     20 | Damaged Bronze Greave
+     914 |      417 |     35 | Damaged Bronze Plate Mail
+     435 |      323 |      3 | Damaged Crown of Life
+     436 |      324 |      3 | Damaged Crown of Mana
+     972 |      609 |      6 | Damaged Ice Dragon Cuisses
+     973 |      610 |      4 | Damaged Ice Dragon Greave
+     970 |      607 |      2 | Damaged Ice Dragon Helm
+     971 |      608 |      8 | Damaged Ice Dragon Mail
+     332 |      179 |     16 | Damaged Iron Cuisses
+     333 |      180 |      8 | Damaged Iron Greave
+     328 |      178 |     25 | Damaged Iron Plate Mail
+     918 |      432 |      6 | Damaged Red Dragon Cuisses
+     917 |      433 |      4 | Damaged Red Dragon Greave
+     919 |      431 |      8 | Damaged Red Dragon Mail
+     512 |      305 |      1 | Dandelion
+    1009 |      614 |      2 | Dapple Gray Whistle
+    1067 |      637 |      2 | Day of Alfred Nobel Stone
+    1064 |      637 |      2 | Day of Faster respawns Stone
+    1065 |      637 |      2 | Day of Half cooldowns Stone
+    1049 |      637 |      2 | Day of Magic Stone
+    1047 |      637 |      2 | Day of Non Stop Stone
+    1153 |      637 |      2 | Day of Reconstruction
+    1161 |      637 |      2 | Day of Recycling
+    1045 |      637 |      2 | Day of Robin Tell Stone
+    1048 |      637 |      2 | Day of Schools Stone
+    1046 |      637 |      2 | Day of Stakhanov Stone
+    1066 |      637 |      2 | Day of Summoners Stone
+      39 |       58 |      1 | Death Essence
+    1156 |      485 |      2 | Dedicated Harvester removal
+      62 |       70 |      3 | Deer Antlers
+      60 |       67 |      6 | Deer Fur
+     742 |      494 |      2 | Defense predictor
+     748 |      494 |      2 | Degrade predictor
+     233 |      146 |      2 | Desert Pines Ring Building
+      51 |      237 |      3 | Diamond
+     214 |       20 |      2 | Diamond embedding
+     204 |       22 |      2 | Diamond Mining
+     206 |       21 |      2 | Diamond Processing
+     228 |      148 |      2 | Disengagement Ring Building
+     683 |      429 |     15 | Dragon Blade
+     719 |      473 |      3 | Dung
+    1152 |      473 |      1 | Dung teleporter
+     990 |      291 |     10 | Dvarium Bar
+     986 |       24 |      2 | Dvarium Mining
+     987 |       24 |      2 | Dvarium Molding
+     989 |      290 |      5 | Dvarium Ore
+     985 |       24 |      2 | Dvarium Smelting
+     461 |      354 |     25 | Eagle Wing
+     545 |      354 |     25 | Eagle Wing of Extra Damage
+      33 |       52 |      1 | Earth Essence
+     397 |       20 |      2 | Egratia Ring Building
+     887 |      594 |      7 | Elven Bow
+      48 |       47 |      3 | Emerald
+     457 |      350 |     20 | Emerald Claymore
+     547 |      350 |     20 | Emerald Claymore of Life and Mana
+     216 |       20 |      2 | Emerald embedding
+     202 |       21 |      2 | Emerald Mining
+     208 |       20 |      2 | Emerald Processing
+     406 |       20 |      2 | Emerald Valley Ring Building
+      25 |        9 |      1 | Empty Vial
+      37 |       56 |      1 | Energy Essence
+     967 |      179 |     16 | Enhanced Iron Cuisses
+     966 |      180 |      8 | Enhanced Iron Greave
+     968 |      178 |     25 | Enhanced Iron Plate Mail
+    1074 |       95 |      1 | Enhanced Sun Medallion
+    1073 |       94 |      1 | Enhanced Unicorn Medallion
+     130 |      122 |     10 | Enhanced Wooden Shield
+     566 |      414 |      1 | Enriched Death Essence
+    1151 |       56 |      1 | Enriched Energy Essence
+     282 |      210 |      1 | Enriched Fire Essence
+     329 |      241 |      1 | Enriched Life Essence
+     286 |      209 |      1 | Enriched Magic Essence
+     283 |      211 |      1 | Enriched Water Essence
+     408 |      339 |      3 | Enrichment Stone
+    1040 |      485 |      2 | Ethereal Ranger removal
+    1026 |      485 |      2 | Evanescence removal
+     135 |      125 |      3 | Excavator Cape
+    1075 |      485 |      2 | Excavator removal
+     750 |      494 |      2 | Failure predictor
+     708 |      472 |      1 | Falcon Feather
+     138 |      131 |      3 | Fast Regeneration Cape
+     961 |      485 |      2 | Fast Regeneration Removal
+    1033 |      485 |      2 | Fatal Man removal
+     180 |       20 |      2 | Feet Armor Construction
+     447 |      251 |      3 | Feran Horn
+     889 |      596 |      2 | Fire arrows
+     892 |      600 |      2 | Fire bolts
+      31 |       50 |      1 | Fire Essence
+     586 |      147 |      2 | Fluffy Stone Construction
+     576 |      382 |      1 | Fluffy Summoning Stone
+      85 |       78 |      2 | Fox Fur
+      90 |       83 |      2 | Fox Scarf
+      43 |        1 |      1 | Fruits
+     685 |      425 |     14 | Frying Pan
+     321 |      149 |      3 | Fur Boots
+      92 |       85 |      4 | Fur Cloak
+      91 |       84 |      2 | Fur Hat
+     343 |      213 |      3 | Fur Pants
+     342 |      212 |      3 | Fur Torso
+     997 |      422 |      1 | Gatherer Medallion
+     924 |      485 |      2 | Gelatine Bones removal
+     114 |      170 |      1 | Gem Sanding Paper
+     274 |      169 |      2 | Gemstone hammer & chisel
+     213 |       21 |      2 | Generic Medallions Building
+     212 |       21 |      2 | Generic Rings Building
+     583 |      147 |      2 | Giant Spider Stone Construction
+     573 |      379 |      1 | Giant Spider Summoning Stone
+     588 |      147 |      2 | Giant Stone Construction
+     557 |        4 |      2 | Giant Summoning
+     578 |      384 |      1 | Giant Summoning Stone
+     405 |       20 |      2 | Glacmor Ring Building
+     992 |      485 |      2 | Godless removal
+     110 |      116 |      3 | Gold Bar
+     661 |      434 |      1 | Gold Circlet
+      20 |        3 |      0 | Gold Coins
+     665 |      437 |      1 | Gold Crown
+     684 |      426 |      8 | Golden Star Mace
+      96 |      167 |      1 | Gold Medallion
+     221 |       21 |      2 | Gold Medallions Building
+      45 |       44 |      3 | Gold Ore
+      94 |       99 |      1 | Gold Ring
+     219 |       23 |      2 | Gold Rings Building
+     663 |      435 |      1 | Gold Tiara
+    1063 |      404 |      1 | Grapes
+     836 |      576 |      2 | Gray Fabric
+     783 |      528 |      3 | Gray Robe
+     788 |      533 |      3 | Gray Robe Skirt
+    1095 |      641 |      2 | Gray Wizard Hat
+     658 |      447 |      1 | Green Adventurer's cap
+     671 |      443 |      1 | Green Bandana
+     812 |      551 |      2 | Green Cavalier Peacock Hat
+     824 |      571 |      2 | Green Dye
+     833 |      565 |      2 | Green Fabric
+    1109 |      667 |      3 | Green jacket
+     778 |      523 |      3 | Green Robe
+     793 |      538 |      3 | Green Robe Skirt
+      82 |       75 |      2 | Green Snake Skin
+     763 |      502 |      3 | Green Tunic
+    1056 |      630 |      3 | Green white dress
+    1060 |      634 |      3 | Green white skirt
+     534 |      289 |     10 | Gypsum
+    1068 |      490 |      0 | Haidir pass
+     682 |      427 |      6 | Halberd
+    1158 |      427 |      6 | Halberd of action
+     125 |      109 |      6 | Hammer
+     739 |      493 |      2 | Harvest/Degrade Indicator
+     620 |      421 |      1 | Harvester Medallion
+     623 |      146 |      2 | Harvester Medallion Building
+    1012 |      485 |      2 | Harvester of Sorrow removal
+     747 |      494 |      2 | Harvest predictor
+     707 |      462 |      1 | Hawk Feather
+     182 |       23 |      2 | Head Armor Construction
+      40 |       59 |      1 | Health Essence
+     619 |      420 |      1 | Heavenspawn Medallion
+     622 |       20 |      2 | Heavenspawn Medallion Building
+     925 |      485 |      2 | Hellspawn removal
+     517 |      308 |      1 | Henbane
+     760 |      497 |      8 | High Explosive Mine
+     535 |      297 |      5 | Honey Comb
+     400 |       20 |      2 | Hulda Ring Building
+     649 |      486 |      2 | Human Removal Stone
+     404 |       20 |      2 | Hurquin Ring Building
+     441 |      283 |      1 | Hydrogenium Bar
+     440 |      282 |      1 | Hydrogenium Ore
+     926 |      485 |      2 | I can't Dance removal
+     890 |      597 |      2 | Ice arrows
+     893 |      601 |      2 | Ice bolts
+     940 |      609 |      6 | Ice Dragon Cuisses
+     941 |      610 |      4 | Ice Dragon Greave
+     938 |      607 |      2 | Ice Dragon Helm
+     939 |      608 |      8 | Ice Dragon Mail
+     897 |      606 |      5 | Ice Dragon Scale
+     392 |       20 |      2 | Idaloran Ring Building
+     962 |      485 |      2 | I Eat Dead People Removal
+    1024 |      485 |      2 | I glow in the dark removal
+     403 |       20 |      2 | Imbroglio Islands Ring Building
+       2 |       27 |      1 | Impatiens
+     652 |      486 |      2 | Inorganic Removal Stone
+     647 |      485 |      2 | Instinct Removal Stone
+     884 |      488 |      2 | Invasionmeter
+     923 |      491 |      1 | Invasion Token
+     522 |      371 |     10 | Invisibility Potion
+     949 |      557 |      6 | Invisibility Removal Ward
+     399 |       20 |      2 | Irinveron Ring Building
+     316 |      175 |     12 | Iron Axe
+     108 |      119 |      2 | Iron Bar
+     139 |      135 |      6 | Iron Battle Hammer
+     116 |      102 |      7 | Iron Broad Sword
+     172 |       20 |      2 | Iron Broad Sword Construction
+     295 |      174 |      7 | Iron Broad Sword of Fire
+     296 |      182 |      7 | Iron Broad Sword of Ice
+      98 |       91 |     20 | Iron Chain Mail
+     188 |       20 |      2 | Iron Chainmail Torso Construction
+     320 |      179 |     16 | Iron Cuisses
+     186 |       21 |      2 | Iron Cuisses Construction
+     322 |      180 |      8 | Iron Greave
+     185 |       23 |      2 | Iron Greaves Construction
+     140 |      136 |      3 | Iron Helm
+     184 |       20 |      2 | Iron Helmet Construction
+      46 |       45 |      4 | Iron Ore
+     319 |      178 |     25 | Iron Plate Mail
+     189 |       24 |      2 | Iron Plate Mail Construction
+     131 |      123 |     16 | Iron Shield
+     194 |       21 |      2 | Iron Shield Construction
+     115 |      101 |      7 | Iron Sword
+     171 |       23 |      2 | Iron Sword Construction
+     294 |      173 |      7 | Iron Sword of Fire
+     398 |       20 |      2 | Iscarlith Ring Building
+     230 |       21 |      2 | Isla Prima Ring Building
+     402 |       20 |      2 | Isle of the Forgotten Ring Building
+     463 |      356 |     20 | Jagged Saber
+     546 |      356 |     20 | Jagged Saber of Cooling
+     210 |       20 |      2 | Jewlery Technology
+    1039 |      637 |      2 | Joules Stone
+     396 |       20 |      2 | Kusamura Ring Building
+     762 |      501 |      3 | Lavender Tunic
+     126 |       92 |      1 | Leather
+     143 |       93 |      3 | Leather Boots
+      93 |       86 |      2 | Leather Gloves
+     323 |      181 |      3 | Leather Helm
+     183 |       20 |      2 | Leather Helmet Construction
+     142 |      137 |      4 | Leather Pants
+     181 |       23 |      2 | Legs Armor Construction
+     978 |      253 |      3 | Leonard fur
+     443 |      253 |      2 | Leopard fur
+      38 |       57 |      1 | Life Essence
+     779 |      524 |      3 | Light Blue Robe
+     794 |      539 |      3 | Light Blue Robe Skirt
+     758 |      489 |      2 | Lightmeter
+      11 |       36 |      1 | Lilacs
+    1150 |      384 |      1 | Little Dragon Blue Summoning Stone
+     879 |      590 |      7 | Long Bow
+     838 |      410 |      2 | Loom
+     976 |      620 |      4 | Mage Robe Pants
+     975 |      621 |      3 | Mage Robe Shirt
+     888 |      595 |      2 | Magic arrows
+     891 |      599 |      2 | Magic bolts
+      41 |       60 |      1 | Magic Essence
+     357 |      242 |      1 | Magic Potion
+     746 |      494 |      2 | Magic predictor
+     654 |      486 |      2 | Magic Removal Stone
+     740 |      493 |      2 | Make Rare/Fail Indicator
+     749 |      494 |      2 | Make Rare predictor
+     942 |      556 |      6 | Mana Burn Ward
+     932 |      555 |      6 | Mana Drain Ward
+     612 |      405 |     30 | Matter Conglomerate
+      36 |       55 |      1 | Matter Essence
+      22 |        5 |      3 | Mead
+     276 |      172 |      2 | Medallion Mold
+     633 |       97 |      1 | Medallion of Life
+     632 |       20 |      2 | Medallion of Life Building
+    1006 |       96 |      1 | Medallion of Mana
+     718 |      496 |      5 | Medium Mine
+      16 |       41 |      3 | Mercury
+     629 |       20 |      2 | Mercury Extraction
+     948 |      558 |      6 | MI Removal Ward
+     148 |      133 |      4 | Mirror Cloak
+    1032 |      485 |      2 | Mirror Skin removal
+     642 |      476 |      1 | Mixture of Power
+     288 |      203 |      7 | Modable Iron Broad Sword
+     287 |      202 |      7 | Modable Iron Sword
+     289 |      204 |      6 | Modable Steel Long Sword
+     290 |      205 |      7 | Modable Steel Two Edged Sword
+     293 |      208 |      2 | Modable Titanium Serpent Sword
+     292 |      207 |      4 | Modable Titanium/Steel Alloy Long Sword
+     291 |      206 |      3 | Modable Titanium/Steel Alloy Short Sword
+     136 |      129 |      3 | Monster Magnetism Cloak
+    1007 |      485 |      2 | Monster Magnetism removal
+     106 |      233 |      1 | Moon Medallion
+     224 |        8 |      2 | Moon Medallion Building
+      52 |       62 |      4 | Mortar & Pestle
+     508 |      309 |      1 | Mugwort
+     957 |      624 |      1 | Mule Glyph
+      57 |       66 |      4 | Mule Skin
+     518 |      310 |      1 | Mullein
+     722 |      335 |      1 | Nail
+     227 |       24 |      2 | Naralik Ring Building
+    1106 |      664 |      3 | Navy doublet
+    1110 |      668 |      3 | Navy jacket
+      87 |       80 |      1 | Needle
+    1038 |      486 |      2 | Nexus transfer stone
+     519 |      311 |      1 | Nightshade
+     635 |      454 |      1 | Nightshade - Mullein - Dandelion Extract
+     672 |      452 |      1 | Night Visor
+    1029 |      485 |      2 | NMT removal
+     341 |      134 |      4 | No More Tears Cape
+     538 |      318 |      1 | Ogre Toes
+    1004 |      485 |      2 | One removal
+    1028 |      403 |      1 | Orange
+     822 |      569 |      2 | Orange Dye
+     831 |      563 |      2 | Orange Fabric
+     460 |      353 |     30 | Orc Slayer
+     544 |      353 |     30 | Orc Slayer of Mana Nullification
+    1020 |      492 |      1 | P2P Shop Coupon
+      97 |       90 |     10 | Padded Leather Armor
+     187 |       22 |      2 | Padded Leather Pants Construction
+    1010 |      616 |      2 | Painted Whistle
+    1008 |      617 |      2 | Palomino Whistle
+     395 |       20 |      2 | Palon Vertas Ring Building
+    1050 |      400 |      1 | Pear
+    1141 |      406 |      1 | Pear finder
+     585 |      147 |      2 | Phantom Warrior Stone Construction
+     575 |      381 |      1 | Phantom Warrior Summoning Stone
+      56 |      619 |      6 | Phoenix Feather
+    1023 |      623 |      1 | Phoenix Glyph
+     644 |      485 |      2 | Physique Removal Stone
+     113 |      108 |      5 | Pickaxe
+     912 |      589 |      2 | Pking arrows
+     913 |      588 |      1 | Pking bolts
+     133 |      100 |      0 | Platinum Coins
+    1034 |      485 |      1 | Point Defense
+     523 |      368 |      5 | Poison Antidote
+     713 |      467 |      3 | Poisoned Caltrop
+     513 |      302 |      1 | Poison Ivy
+     636 |      455 |      1 | Poison Ivy - Henbane - Poppies Extract
+     366 |      252 |      9 | Polar Bear Fur
+      30 |       61 |      3 | Polished Diamond
+      26 |       87 |      3 | Polished Emerald
+      19 |       89 |      3 | Polished Ruby
+      29 |       88 |      3 | Polished Sapphire
+     511 |      306 |      1 | Poppies
+     231 |       24 |      2 | Portland Ring Building
+     530 |      158 |      5 | Potion of Accuracy
+    1142 |      370 |      1 | Potion of Action Points
+     567 |      369 |      1 | Potion of Alchemy
+     589 |      147 |      2 | Potion of Alchemy Construction
+     988 |      483 |      5 | Potion of Archery AP
+      73 |       14 |      1 | Potion of Attack
+     981 |      481 |      2 | Potion of Attack Reduction
+      27 |      155 |      1 | Potion of Body Restoration
+     950 |      477 |      1 | Potion of Cold Protection
+      64 |       12 |      1 | Potion of Coordination
+     356 |      243 |      1 | Potion of Crafting
+      74 |       13 |      1 | Potion of Defense
+     982 |      482 |      2 | Potion of Defense Reduction
+     728 |      475 |      1 | Potion of Engineering
+     531 |      480 |      5 | Potion of Evasion
+     284 |      245 |     10 | Potion of Extra Mana
+      77 |      152 |      5 | Potion of Feasting
+     285 |      244 |      1 | Potion of Great Healing
+      72 |       11 |      1 | Potion of Harvesting
+     951 |      478 |      1 | Potion of Heat Protection
+      76 |       15 |      1 | Potion of Mana
+     147 |      151 |      1 | Potion of Manufacturing
+      75 |       16 |      1 | Potion of Minor Healing
+      71 |       17 |      1 | Potion of Physique
+     568 |      367 |      1 | Potion of Potion
+     590 |      147 |      2 | Potion of Potion Construction
+     952 |      479 |      1 | Potion of Radiation Protection
+      69 |      156 |      1 | Potion of Reasoning
+     979 |      158 |      5 | Potion of Speed Hax
+      28 |      150 |      5 | Potion of Spirit Restoration
+      79 |      157 |      1 | Potion of Summoning
+      65 |       19 |      1 | Potion of Vitality
+      68 |       10 |      1 | Potion of Wildness
+      70 |       18 |      1 | Potion of Will
+    1084 |      485 |      2 | Power Hungry removal
+     149 |      132 |      4 | Powersaving Cloak
+    1129 |      485 |      2 | Powersaving removal
+     277 |      107 |      2 | Pre-owned Serpent Sword
+     352 |      177 |      6 | Pre-owned Titanium Axe
+     279 |      105 |      3 | Pre-Owned Titanium/Steel Alloy Short Sword
+      86 |       79 |      4 | Puma Fur
+     826 |      573 |      2 | Purple Dye
+     835 |      567 |      2 | Purple Fabric
+    1103 |      660 |      3 | Purple peasant dress
+    1117 |      661 |      3 | Purple Peasant skirt
+     777 |      522 |      3 | Purple Robe
+     792 |      537 |      3 | Purple Robe Skirt
+     677 |      461 |      4 | Purple Royal Cape
+    1055 |      629 |      3 | Purple white dress
+    1059 |      633 |      3 | Purple white skirt
+     124 |      112 |      6 | Quarterstaff
+      13 |       38 |      2 | Quartz
+     198 |       23 |      2 | Quartz Mining
+    1070 |      333 |      1 | Quill and ink
+     362 |      246 |      1 | Raccoon fur
+     364 |      247 |      2 | Raccoon hat
+    1003 |      355 |     20 | Radioactive Rapier
+     994 |      355 |     20 | Radioactive Rapier From the Shop
+     991 |      106 |      4 | Radioactive Titanium Long Sword
+     462 |      355 |     20 | Rapier
+     541 |      355 |     20 | Rapier of death
+     146 |      144 |      1 | Rat tail
+      55 |       65 |      1 | Raw Meat
+     928 |      498 |      6 | RC Mine
+     929 |      499 |      2 | RC Mine Detonator
+     645 |      485 |      2 | Reasoning Removal Stone
+     886 |      593 |      7 | Recurve Bow
+     660 |      448 |      1 | Red Adventurer's cap
+     669 |      442 |      1 | Red Bandana
+     515 |      300 |      1 | Red Currents
+     637 |      456 |      1 | Red Currents - Blue Berries - Rue Extract
+     674 |      432 |      6 | Red Dragon Cuisses
+     673 |      433 |      4 | Red Dragon Greave
+     655 |      430 |      2 | Red Dragon Helm
+     969 |      430 |      2 | Red Dragon Helm Of Life and Mana
+     675 |      431 |      8 | Red Dragon Mail
+     624 |      374 |      5 | Red Dragon Scale
+     821 |      568 |      2 | Red Dye
+     830 |      562 |      2 | Red Fabric
+    1058 |      632 |      3 | Red pink dress
+    1062 |      636 |      3 | Red pink skirt
+     785 |      530 |      3 | Red Robe
+     795 |      540 |      3 | Red Robe Skirt
+       6 |       31 |      1 | Red Rose
+     676 |      460 |      4 | Red Royal Cape
+     805 |      544 |      2 | Red Scarf
+      83 |       76 |      2 | Red Snake Skin
+      10 |       35 |      1 | Red Snapdragons
+     765 |      504 |      3 | Red Tunic
+     768 |      507 |      3 | Red Tunic White Shirt
+    1052 |      626 |      3 | Red vest
+     641 |      153 |      1 | Refined Vegetal Mixture
+     275 |      171 |      2 | Ring Mold
+     375 |      257 |      1 | Ring of Anitora
+     377 |      259 |      1 | Ring of Bethel
+     128 |      142 |      1 | Ring of Damage
+     229 |      147 |      2 | Ring of Damage Building
+     101 |      141 |      1 | Ring of Desert Pines
+     127 |      163 |      1 | Ring of Disengagement
+     381 |      263 |      1 | Ring of Egratia
+     390 |      268 |      1 | Ring of Emerald Valley
+     389 |      271 |      1 | Ring of Glacmor
+     384 |      266 |      1 | Ring of Hulda
+     388 |      270 |      1 | Ring of Hurquin
+     376 |      258 |      1 | Ring of Idaloran
+     387 |      269 |      1 | Ring of Imbroglio Islands
+     383 |      265 |      1 | Ring of Irinveron
+     382 |      264 |      1 | Ring of Iscarlith
+     100 |      160 |      1 | Ring of Isla Prima
+     386 |      272 |      1 | Ring of Isle of the Forgotten
+     380 |      262 |      1 | Ring of Kusamura
+     562 |      228 |      1 | Ring of Mana Destruction
+     560 |        4 |      2 | Ring of Mana Destruction Building
+     563 |      229 |      1 | Ring of Massive Mana Destruction
+     561 |        8 |      2 | Ring of Massive Mana Destruction Building
+    1083 |      166 |      1 | Ring of Melinis
+    1081 |      164 |      1 | Ring of Morcraven Marsh
+      44 |      161 |      1 | Ring of Naralik
+     379 |      261 |      1 | Ring of Palon Vertas
+     102 |      165 |      1 | Ring of Portland
+     354 |      230 |      1 | Ring of Power
+     378 |      260 |      1 | Ring of Sedicolis
+    1082 |      274 |      1 | Ring of SRM
+     385 |      267 |      1 | Ring of Trassian
+     103 |      162 |      1 | Ring of Valley of the Dwarves
+      99 |      159 |      1 | Ring of White Stone
+     714 |      469 |      3 | Rope
+     977 |      622 |      1 | Rose Bouquet
+      14 |       40 |      2 | Rose Quartz
+     199 |       21 |      2 | Rose Quartz Mining
+     355 |      239 |      1 | Rostogol Stone
+      50 |       49 |      3 | Ruby
+     217 |       20 |      2 | Ruby embedding
+     201 |       20 |      2 | Ruby Mining
+     209 |       22 |      2 | Ruby Processing
+     510 |      312 |      1 | Rue
+     717 |      471 |      2 | Saltpeter
+     815 |      554 |      2 | Santa Hat
+      49 |       48 |      3 | Sapphire
+     215 |       20 |      2 | Sapphire embedding
+     203 |       21 |      2 | Sapphire Mining
+     207 |       20 |      2 | Sapphire Processing
+     711 |      465 |      1 | Saving Stone
+     899 |      331 |      2 | Saw
+     839 |      577 |      2 | Scissor
+    1157 |      485 |      2 | Scotty Died removal
+     937 |      611 |     15 | Scythe
+     351 |      176 |      8 | Second Hand Steel Axe
+     281 |      139 |     10 | Second Hand Titanium Chain Mail
+     278 |      106 |      4 | Second Hand Titanium Long Sword
+     394 |       20 |      2 | Sedicolis Ring Building
+     618 |      286 |     15 | Seridium Bar
+     616 |      148 |      2 | Seridium Medallion Building
+     613 |      148 |      2 | Seridium Mining
+     615 |      148 |      2 | Seridium Molding
+     617 |      285 |      5 | Seridium Ore
+     614 |      148 |      2 | Seridium Smelting
+     150 |      238 |      3 | Serpent Stone
+     193 |       20 |      2 | Shields Construction
+     881 |      591 |      7 | Short Bow
+     109 |      115 |      2 | Silver Bar
+     662 |      439 |      1 | Silver Circlet
+     666 |      438 |      1 | Silver Crown
+      95 |      168 |      1 | Silver Medallion
+     220 |       23 |      2 | Silver Medallions Building
+      18 |       43 |      2 | Silver Ore
+      80 |       98 |      1 | Silver Ring
+     218 |       22 |      2 | Silver Rings Building
+     664 |      436 |      1 | Silver Tiara
+     410 |      220 |      3 | Skeleton key
+    1027 |      485 |      2 | Skeptic removal
+     803 |      542 |      2 | Skull Crossbones Scarf
+     409 |      223 |      3 | Skull key
+     363 |      248 |      1 | Skunk fur
+     365 |      249 |      2 | Skunk hat
+      58 |      618 |      3 | Small Dragon Scale
+     723 |      495 |      3 | Small Mine
+     715 |      468 |      2 | Snare
+     444 |      254 |      3 | Snow Leopard fur
+     681 |      428 |      6 | Spear
+      35 |       54 |      1 | Spirit Essence
+     875 |      322 |      1 | Square Vial
+     579 |      147 |      2 | Sslessar Stone Construction
+     569 |      375 |      1 | Sslessar Summoning Stone
+     373 |      113 |      6 | Staff of Protection
+     370 |      114 |      6 | Staff of the mage
+     107 |      231 |      1 | Stars Medallion
+     225 |       21 |      2 | Stars Medallion Building
+     317 |      176 |      8 | Steel Axe
+     111 |      118 |      2 | Steel Bar
+     141 |      138 |     18 | Steel Chain Mail
+     190 |       21 |      2 | Steel Chainmail Torso Construction
+     449 |      358 |     10 | Steel Cuisses
+     551 |      358 |     10 | Steel Cuisses of Mana Drain
+     448 |      359 |      8 | Steel Greave
+     552 |      359 |      8 | Steel Greave of Ubber Defense
+     451 |      360 |      2 | Steel Helm
+     481 |      360 |      2 | Steel Helm of Mana
+     117 |      103 |      6 | Steel Long Sword
+     173 |       21 |      2 | Steel Long Sword Construction
+     297 |      183 |      6 | Steel Long Sword of Fire
+     298 |      184 |      6 | Steel Long Sword of Ice
+     299 |      185 |      6 | Steel Long Sword of Magic
+     455 |      357 |     18 | Steel Plate Mail
+     550 |      357 |     18 | Steel Plate Mail of Healing
+     132 |      124 |     14 | Steel Shield
+     195 |       21 |      2 | Steel Shield Construction
+     118 |      104 |      7 | Steel Two Edged Sword
+     300 |      187 |      7 | Steel Two Edged Sword of Fire
+     301 |      186 |      7 | Steel Two Edged Sword of Ice
+     302 |      188 |      7 | Steel Two Edged Sword of Magic
+     303 |      189 |      7 | Steel Two Edged Sword of Thermal
+      17 |       42 |      2 | Sulfur
+     459 |      352 |     25 | Sunbreaker
+     542 |      352 |     25 | Sunbreaker of destruction
+       0 |       25 |      1 | Sunflower
+     105 |       95 |      1 | Sun Medallion
+     222 |       21 |      2 | Sun Medallion Building
+    1036 |      637 |      2 | Sun Tzu Stone
+      12 |       37 |      1 | Swamp Candles
+     170 |       23 |      2 | Sword Construction
+     336 |      225 |      4 | The artificer cape
+    1042 |      485 |      2 | There is no fork removal
+    1085 |      485 |      2 | The summoner removal
+      88 |       81 |      1 | Thread
+     445 |      255 |      2 | Tiger fur
+       4 |       29 |      1 | Tiger Lilly
+     581 |      147 |      2 | Tiger Stone Construction
+     571 |      377 |      1 | Tiger Summoning Stone
+     610 |      278 |     15 | Tin Bar
+     597 |      148 |      2 | Tin Mining
+     601 |      148 |      2 | Tin Molding
+     608 |      277 |      5 | Tin Ore
+     599 |      148 |      2 | Tin Smelting
+     318 |      177 |      6 | Titanium Axe
+     112 |      117 |      1 | Titanium Bar
+     144 |      139 |     10 | Titanium Chain Mail
+     191 |      147 |      2 | Titanium Chainmail Torso Construction
+     454 |      363 |      6 | Titanium Cuisses
+     553 |      363 |      6 | Titanium Cuisses of Cooldown Removal
+     453 |      364 |      4 | Titanium Greave
+     554 |      364 |      4 | Titanium Greave of Mirroring
+     452 |      365 |      1 | Titanium Helm
+     480 |      365 |      1 | Titanium Helm of Life
+     176 |      147 |      2 | Titanium Long Construction
+      78 |      120 |      1 | Titanium Ore
+     456 |      362 |      8 | Titanium Plate Mail
+     549 |      362 |      8 | Titanium Plate Mail of Freezing
+     121 |      107 |      2 | Titanium Serpent Sword
+     177 |      148 |      2 | Titanium Serpent Sword Construction
+     312 |      198 |      2 | Titanium Serpent Sword of Fire
+     313 |      199 |      2 | Titanium Serpent Sword of Ice
+     314 |      200 |      2 | Titanium Serpent Sword of Magic
+     315 |      201 |      2 | Titanium Serpent Sword of Thermal
+     450 |      361 |      7 | Titanium Shield
+     548 |      361 |      7 | Titanium Shield of Life Drain
+     175 |       21 |      2 | Titanium Short Construction
+     120 |      106 |      4 | Titanium/Steel Alloy Long Sword
+     308 |      194 |      4 | Titanium/Steel Alloy Long Sword of Fire
+     309 |      195 |      4 | Titanium/Steel Alloy Long Sword of Ice
+     310 |      196 |      4 | Titanium/Steel Alloy Long Sword of Magic
+     311 |      197 |      4 | Titanium/Steel Alloy Long Sword of Thermal
+     119 |      105 |      3 | Titanium/Steel Alloy Short Sword
+     304 |      190 |      3 | Titanium/Steel Alloy Short Sword of Fire
+     305 |      191 |      3 | Titanium/Steel Alloy Short Sword of Ice
+     306 |      192 |      3 | Titanium/Steel Alloy Short Sword of Magic
+     307 |      193 |      3 | Titanium/Steel Alloy Short Sword of Thermal
+     505 |      316 |      2 | Toadstool
+     744 |      494 |      2 | To Damage predictor
+     743 |      494 |      2 | To Hit predictor
+     179 |       20 |      2 | Torso Armor Construction
+     192 |       20 |      2 | Torso Padded Leather Construction
+     880 |      671 |      2 | Training arrows
+     401 |       20 |      2 | Trassian Ring Building
+    1138 |      407 |      1 | Treasure finder
+     539 |      319 |      1 | Tree Mushroom
+     506 |      154 |      4 | True Sight Potion
+     514 |      307 |      1 | Tulips
+    1005 |      503 |      3 | Tunic of the Ninja
+     621 |      293 |      5 | Turqoise
+     174 |       21 |      2 | Two Edged Steel Sword Construction
+    1041 |      485 |      2 | Underworlder removal
+    1162 |      473 |      3 | Unicorn Dung
+     104 |       94 |      1 | Unicorn Medallion
+     223 |       21 |      2 | Unicorn Medallion Building
+     816 |      582 |      2 | Universal Hood
+    1145 |      646 |      6 | Used Blue Dragon Cuisses
+    1144 |      647 |      4 | Used Blue Dragon Greave
+    1148 |      644 |      2 | Used Blue Dragon Helm
+    1146 |      645 |      8 | Used Blue Dragon Mail
+    1147 |      648 |      8 | Used Blue Dragon Shield
+     474 |      351 |     23 | Used Cutlass
+     477 |      354 |     25 | Used Eagle Wing
+     473 |      350 |     20 | Used Emerald Claymore
+     350 |      175 |     12 | Used Iron Axe
+     479 |      356 |     20 | Used Jagged Saber
+     476 |      353 |     30 | Used Orc Slayer
+     478 |      355 |     20 | Used Rapier
+     465 |      358 |     10 | Used Steel Cuisses
+     464 |      359 |      8 | Used Steel Greave
+     467 |      360 |      2 | Used Steel Helm
+     471 |      357 |     18 | Used Steel Plate Mail
+     280 |      104 |      7 | Used Steel Two Edged Sword
+     475 |      352 |     25 | Used Sunbreaker
+     470 |      363 |      6 | Used Titanium Cuisses
+     469 |      364 |      4 | Used Titanium Greave
+     468 |      365 |      1 | Used Titanium Helm
+     472 |      362 |     10 | Used Titanium Plate Mail
+     466 |      361 |      7 | Used Titanium Shield
+     509 |      313 |      1 | Valerian
+      42 |        2 |      1 | Vegetables
+     651 |      486 |      2 | Vegetal Removal Stone
+     625 |      408 |     30 | Vial Mold
+     630 |       20 |      2 | Vial Mold Building
+     648 |      485 |      2 | Vitality Removal Stone
+     226 |        4 |      2 | VOTD Ring Building
+     339 |      126 |      4 | Warlock's Cloak
+      89 |       82 |      1 | Warm Fur Gloves
+      32 |       51 |      1 | Water Essence
+     169 |       23 |      2 | Weapon Construction
+     536 |      320 |      1 | Wheat
+     640 |      459 |      1 | Wheat - Daffodils - Feran Horn Extract
+     639 |      458 |      1 | Wheat - Valerian - Mugwort Extract
+    1030 |      485 |      2 | Whilhelm Hood removal
+       8 |       33 |      1 | White Asiatic Lilly
+    1101 |      656 |      3 | White blue peasant dress
+    1115 |      657 |      3 | White Blue Peasant skirt
+    1094 |      640 |      4 | White boots
+     537 |      317 |      1 | White Chanterelle
+     638 |      457 |      1 | White Chanterelle - Ogre Toes - Tree Mushroom Extract
+    1104 |      662 |      3 | White doublet
+     828 |      560 |      2 | White Fabric
+    1098 |      650 |      3 | White gold wedding dress
+    1112 |      651 |      3 | White Gold wedding skirt
+     995 |      612 |      2 | White Horse Whistle
+      66 |       72 |      1 | White rabbit fur
+    1100 |      654 |      3 | White red peasant dress
+    1114 |      655 |      3 | White Red Peasant skirt
+     798 |      517 |      3 | White Red Striped Baggy Pants
+     780 |      525 |      3 | White Robe
+     790 |      535 |      3 | White Robe Skirt
+    1099 |      652 |      3 | White silver wedding dress
+    1113 |      653 |      3 | White Silver wedding skirt
+     232 |       24 |      2 | WhiteStone Ring Building
+     446 |      256 |      3 | White Tiger fur
+     767 |      506 |      3 | White Tunic
+    1097 |      643 |      2 | White Wizard Hat
+     646 |      485 |      2 | Will Removal Stone
+      23 |        6 |      2 | Wine
+      61 |       68 |      4 | Wolf Fur
+     483 |      281 |     30 | Wolfram Bar
+     482 |      280 |     10 | Wolframite
+     334 |      140 |      2 | Wood Branches
+     122 |      110 |      8 | Wooden Battle Hammer
+     129 |      121 |      8 | Wooden Shield
+     123 |      111 |      6 | Wooden Staff
+     353 |      236 |      5 | Wood Handle
+     335 |      214 |      3 | Wood Logs
+     521 |      315 |      1 | Wormwood
+     520 |      314 |      1 | Yarrow
+     634 |      453 |      1 | Yarrow - Wormwood - Tulips Extract
+     823 |      570 |      2 | Yellow Dye
+     832 |      564 |      2 | Yellow Fabric
+     786 |      531 |      3 | Yellow Robe
+     796 |      541 |      3 | Yellow Robe Skirt
+       5 |       30 |      1 | Yellow Rose
+     582 |      147 |      2 | Yeti Stone Construction
+     556 |        4 |      2 | Yeti Summoning
+     572 |      378 |      1 | Yeti Summoning Stone
+     894 |      603 |      2 | Yew

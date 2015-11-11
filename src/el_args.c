@@ -17,7 +17,7 @@
 
 
 const char * argp_program_version = 
-	"el-calc v0.1";
+	"el-calc v0.2";
 
 const char * argp_program_bug_address = 
 	"<development.gdj@netvisit.nl>";
@@ -26,11 +26,14 @@ static char pdoc[] =
 	"el-calc  Calculator for el recipies";
 
 static struct argp_option options[] = {
-// long option, short option, option argument, option flags, help info, group idenifier
+// long option, short option, option argument, option flags, help info, group identifier
 	
-	{"item", 'i', "\"itemname\"", 0, "item name or id.", 0},
+	{"item", 'i', "\"itemname\"", 0, "item name.", 0},
 	{"amount", 'a', "value", 0, "amount of items; default = 1", 0},
 	{"lookup", 'l', NULL, 0, "lookup item", 0},
+	{"directory", 'd', "\"directory/<filename>\"", 0, "path to item list; default = items.lst", 0},
+	{"search", 's', NULL, 0, "Search for items containing item", 0},
+	{"number", 'n', "ID number", 0, "item ID", 0},
 	{NULL, 0, NULL, 0, NULL, 0}
 };
 
@@ -39,20 +42,31 @@ static struct argp argp = {options, el_arg_parser, NULL, pdoc, NULL, NULL, NULL}
 
 error_t el_arg_parser(int key, char * arg, struct argp_state * state)
 {
-	pstate_t * pstate = state->input;
-
+	PState * pstate = state->input;
+	int size;
+	
 	switch (key) {
 		case 'i':
-//			printf("arg is %s\n", arg);
-			strcpy(pstate->itemname, arg);
-//			upperCase(pstate->itemname);
+			strncpy(pstate->itemname, arg, LINESIZE);
+			pstate->itemname[LINESIZE - 1] = '\0';
+			
 			break;
 		case 'a':
-//			printf("arg is %s\n", arg);
 			pstate->amount = strtol(arg, NULL, 10);
 			break;
 		case 'l':
 			pstate->lookup = true;
+			break;
+		case 'd':
+			size = strlen(arg);
+			strncpy(pstate->path, arg, size);
+			pstate->path[size] = '\0';
+			break;
+		case 's':
+			pstate->search = true;
+			break;
+		case 'n':
+			pstate->itemid = strtol(arg, NULL, 10);
 			break;
 		default:
 			break;
@@ -61,7 +75,7 @@ error_t el_arg_parser(int key, char * arg, struct argp_state * state)
 }
 
 
-int get_args(int argc, char ** argv, pstate_t * pstate)
+int get_args(int argc, char ** argv, PState * pstate)
 {
 	argp_parse(&argp, argc, argv, 0, 0, pstate);
 	return 0;
@@ -69,11 +83,5 @@ int get_args(int argc, char ** argv, pstate_t * pstate)
 
 
 
-
-
-
-
-
-
-/*  end of a65_args.c  */
+/*  end of el_args.c  */
 

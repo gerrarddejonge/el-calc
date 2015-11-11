@@ -185,5 +185,9 @@ void strTransform(char * line)
 }
 
 
+bool isEmpty(const char line[])
+{
+	return line[0] == '\0' ? true : false;
+}
 
 // end of el_string.c

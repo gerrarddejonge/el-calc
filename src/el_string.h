@@ -8,6 +8,8 @@
 #ifndef EL_STRING_H
 #define EL_STRING_H
 
+#include <stdbool.h>
+
 void   clearMarker(char * s, char marker);
 char * leftTrim(char * str);
 char * rightTrim(char * str);
@@ -19,6 +21,7 @@ char   upCase(const char c);
 char   loCase(const char c);
 void   upperCase(char * str);
 void   lowerCase(char * str);
+bool   isEmpty(const char line[]);
 
 
 #endif  // EL_STRING_H

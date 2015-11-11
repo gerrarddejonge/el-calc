@@ -13,7 +13,7 @@
 
 #include "el_defs.h"
 
-int get_args(int argc, char ** argv, pstate_t * pstate);
+int get_args(int argc, char ** argv, PState * pstate);
 error_t el_arg_parser(int key, char * arg, struct argp_state * state);
 int parse_args(int argc, char ** argv);
 

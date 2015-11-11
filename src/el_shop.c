@@ -24,12 +24,11 @@ elState buildShoppingList(List * list, ShoppingCart * cart, char itemname[], int
 		return EL_FAIL;
 	}
 	
-//	printf("SL: Adding %d %s to shopping list.\n", amount, itemname);
-	
 	if ( !found->compound ) {
 		addToShoppingList(cart, found, amount);
 		return EL_SUCCESS;
 	} else {
+//		addTONeededList(NeededItems, found);
 		for (int i = 0; i < MAXITEMS && found->element[i].id != 0; i++) {
 			part = findItemId(list->head, found->element[i].id);
 			if (part) {
@@ -42,6 +41,20 @@ elState buildShoppingList(List * list, ShoppingCart * cart, char itemname[], int
 	return EL_SUCCESS;
 }
 
+/*
+NeededItems * isInNeeded(NeededItems * item, int id)
+{
+	for ( ; item && item->id != id; item = item->next)
+		;
+	return item;
+}
+
+
+elState addToNeededList(NeededItems * list, NeededItems * item)
+{
+	return EL_SUCCESS;
+}
+*/
 
 ShoppingList * isInCart(ShoppingList * item, int id)
 {
@@ -49,6 +62,7 @@ ShoppingList * isInCart(ShoppingList * item, int id)
 		;
 	return item;
 }
+
 
 elState addToShoppingList(ShoppingCart * cart, Item * item, int amount)
 {

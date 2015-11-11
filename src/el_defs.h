@@ -21,49 +21,60 @@
 #endif
 	
 #define MAXITEMS 6
-#define LINESIZE 100
+#define LINESIZE 256
+#define PATHSIZE 1024
+#define LINKSIZE 4092
+#define ITEMFILENAME "items.lst"
+#define ENVNAME "ELCALC"
 
 
 #define IDMARKER       0x01
 #define NAMEMARKER     0x02
 #define COMPOUNDMARKER 0x04
 
+
 // structure is filled with CLI parameters
 struct pstate {
 	char  itemname[LINESIZE];
 	int   amount;
 	bool  lookup;
+	char  path[PATHSIZE];
+	bool  search;
+	int   itemid;
 };
-typedef struct pstate pstate_t;
+typedef struct pstate PState;
 
 
 struct recipe {
 	int    id;
 	int    amount;
 };
-
 typedef struct recipe Recipe;
 
-
+struct neededitems {
+	struct neededitems * next;
+	int  id;
+	char name[LINESIZE];
+	int  amount;
+};
+typedef struct neededitems NeededItems;
+	
 struct shoppinglist {
 	struct shoppinglist * next;	
 	int  id;
 	char name[LINESIZE];
 	int  amount;
 };
-
 typedef struct shoppinglist ShoppingList;
 
 struct shoppingcart {
 	ShoppingList * head;
 	ShoppingList * tail;
 };
-
 typedef struct shoppingcart ShoppingCart;
 
 
 struct item {
-	struct item * left;
 	struct item * right;
 	int      marker;				// Keeps flags about which information has` been read from file id: 0x01, name: 0x02, compound: 0x04
 	int      id;
@@ -71,7 +82,6 @@ struct item {
 	bool     compound;
 	Recipe   element[MAXITEMS];
 };
-
 typedef struct item   Item;
 
 
@@ -80,7 +90,6 @@ struct list {
 	Item * head;
 	Item * tail;
 };
-
 typedef struct list List;
 
 
@@ -92,7 +101,6 @@ enum elstate {
 	EL_EOF,
 	EL_CMPLTD
 };
-
 typedef enum elstate elState;
 
 

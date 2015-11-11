@@ -27,13 +27,15 @@ SOURCES = el_main.c	\
 	el_items.c	\
 	el_args.c	\
 	el_parse.c	\
-	el_shop.c
+	el_shop.c	\
+	el_path.c
 OBJECTS = el_main.o	\
 	el_string.o	\
 	el_items.o	\
 	el_args.o	\
 	el_parse.o	\
-	el_shop.o
+	el_shop.o	\
+	el_path.o
 
 HEADERS = 
 
@@ -48,12 +50,12 @@ TOUCH   = touch
 RM     = rm -f
 CM     = chmod
 
-STANDARD= --std=c99
+STANDARD= --std=gnu99
 
 CPFLAGS = -g -O0 -save-temps $(STANDARD) -Wall -pedantic -Wextra -Wstrict-prototypes -fno-builtin
 LDFLAGS = 
 DEFINES = 
-#DEBUG = -DDEBUG		# Enable debug mode
+DEBUG = -DDEBUG		# Enable debug mode
 
 .PHONY: elcalc clean distclean
 

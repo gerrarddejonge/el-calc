@@ -20,6 +20,7 @@ const char undefline[] = "%s: Line %d. Item is undefined\n";
 elState parseName(char * line, Item * item)
 {
 	strncpy(item->name, trim(line), LINESIZE);
+	lowerCase(item->name);
 	item->name[LINESIZE - 1] = '\0';
 	item->marker |= NAMEMARKER;
 

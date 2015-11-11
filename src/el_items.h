@@ -19,7 +19,7 @@
 
 
 elState loadSingleItem(FILE * stream, Item * item, int * linenumber);
-elState loadAllItems(List * list);
+elState loadAllItems(List * list, char filepath[]);
 
 void lookup(List * list, char name[]);
 
@@ -31,6 +31,8 @@ Item * cloneItem(const Item * item);
 
 void   printItems(List * list);
 void   showItem(Item * item);
+
+void   searchItem(List * list, char name[]);
 
 char   getHead(char * line);
 

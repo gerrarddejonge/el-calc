@@ -10,151 +10,4603 @@
 # ..
 # element n E: 0
 
-
-N: gold ore
-I: 81
+N: a/m indicator   #Accuracy/Magic Indicator 
+I: 738 
 C: 0
 
-N: iron ore
-I: 82
+N: accuracy predictor 
+I: 745 
 C: 0
 
-N: chrysanthemum
-I: 21
+N: a/d ndicator 
+I: 736 
 C: 0
 
-N: silver ore
-I: 80
+N: air essence 
+I: 34 
 C: 0
 
-N: swamp candles
-I: 41
+N: ale 
+I: 24 
 C: 0
 
-N: lilacs
-I: 18
+N: alembic 
+I: 626 
 C: 0
 
-N: coal
-I: 83
+N: alembic building 
+I: 631 
 C: 0
 
-N: rose quartz
-I: 84
+N: amber 
+I: 1069 
 C: 0
 
-N: sulfur
-I: 85
+N: animal removal stone 
+I: 650 
 C: 0
 
-N: quartz
-I: 86
+N: anitora ring building 
+I: 391 
 C: 0
 
-N: blue quartz
-I: 87
+N: antisocial removal 
+I: 927 
 C: 0
 
-N: red snapdragon
-I: 112
+N: archery arena ticket 
+I: 993 
 C: 0
 
-N: tiger lilly
-I: 113
+N: arctic chimeran summoning 
+I: 555 
 C: 0
 
-N: red roses
-I: 118
+N: Arctic Chim Stone Construction 
+I: 584 
 C: 0
 
-N: sapphire
-I: 133
+N: Arctic Chim Summoning Stone 
+I: 574 
 C: 0
 
-N: diamond
-I: 262
+N: Armed Orc Stone Construction 
+I: 587 
 C: 0
 
-N: emerald
-I: 263
+N: Armed Orc Summoning Stone 
+I: 577 
 C: 0
 
+N: Armor Construction 
+I: 178 
+C: 0
 
-N: health essence
-I: 37
+N: Arrow/bolt head 
+I: 896 
+C: 0
+
+N: Arrow/bolt head mold 
+I: 895 
+C: 0
+
+N: Artificer removal 
+I: 1031 
+C: 0
+
+N: Artificial Removal Stone 
+I: 653 
+C: 0
+
+N: Ashes 
+I: 716 
+C: 0
+
+N: Attack predictor 
+I: 741 
+C: 0
+
+N: Attribute reset stone 
+I: 1155 
+C: 0
+
+N: Augmented Leather Armor 
+I: 503 
+C: 0
+
+N: Augmented Leather Pants 
+I: 540 
+C: 0
+
+N: Axe of freezing 
+I: 374 
+C: 0
+
+N: Bad Day Removal 
+I: 1035 
+C: 0
+
+N: Bear Fur 
+I: 59 
+C: 0
+
+N: Bear Stone Construction 
+I: 580 
+C: 0
+
+N: Bear Summoning Stone 
+I: 570 
+C: 0
+
+N: Beaver fur 
+I: 145 
+C: 0
+
+N: Bethel Ring Building 
+I: 393 
+C: 0
+
+N: Big Book of Crafting 
+I: 1016 
+C: 0
+
+N: Big Book of Engineering 
+I: 1018 
+C: 0
+
+N: Big Book of Manufacturing 
+I: 1014 
+C: 0
+
+N: Big Book of Potions 
+I: 1017 
+C: 0
+
+N: Big Book of Tailoring 
+I: 1015 
+C: 0
+
+N: Binding Stone 
+I: 407 
+C: 0
+
+N: Black Adventurer's cap 
+I: 659 
+C: 0
+
+N: Black and White Whistle 
+I: 1011 
+C: 0
+
+N: Black Baggy Pants 
+I: 801 
+C: 0
+
+N: Black Bandana 
+I: 670 
+C: 0
+
+N: Black Blue Striped Baggy Pants 
+I: 800 
+C: 0
+
+N: Black boots 
+I: 1092 
+C: 0
+
+N: Black Buccaneer Hat 
+I: 810 
+C: 0
+
+N: Black Cavalier Hat 
+I: 814 
+C: 0
+
+N: Black Cavalier Peacock Hat 
+I: 811 
+C: 0
+
+N: Black doublet 
+I: 1105 
+C: 0
+
+N: Black Dragon Cuisses 
+I: 819 
+C: 0
+
+N: Black Dragon Greave 
+I: 820 
+C: 0
+
+N: Black Dragon Helm 
+I: 817 
+C: 0
+
+N: Black Dragon Mail 
+I: 818 
+C: 0
+
+N: Black Dragon Scale 
+I: 709 
+C: 0
+
+N: Black Dye 
+I: 827 
+C: 0
+
+N: Black Fabric 
+I: 829 
+C: 0
+
+N: Black Horse Whistle 
+I: 996 
+C: 0
+
+N: Black jacket 
+I: 1111 
+C: 0
+
+N: Black panther fur 
+I: 442 
+C: 0
+
+N: Blackpowder 
+I: 710 
+C: 0
+
+N: Black Purple Striped Baggy Pants 
+I: 799 
+C: 0
+
+N: Black Red Striped Baggy Pants 
+I: 797 
+C: 0
+
+N: Black Robe 
+I: 782 
+C: 0
+
+N: Black Robe Skirt 
+I: 787 
+C: 0
+
+N: Black Rose 
+I: 7 
+C: 0
+
+N: Black Scarf 
+I: 804 
+C: 0
+
+N: Black Tricorn Hat 
+I: 806 
+C: 0
+
+N: Black Tunic 
+I: 764 
+C: 0
+
+N: Black Tunic Black Shirt 
+I: 775 
+C: 0
+
+N: Black Tunic Green Shirt 
+I: 772 
+C: 0
+
+N: Black Tunic Purple Shirt 
+I: 773 
+C: 0
+
+N: Black Tunic Red Shirt 
+I: 774 
+C: 0
+
+N: Black Tunic White Shirt 
+I: 771 
+C: 0
+
+N: Black vest 
+I: 1053 
+C: 0
+
+N: Black white dress 
+I: 1057 
+C: 0
+
+N: Black white skirt 
+I: 1061 
+C: 0
+
+N: Black Wizard Hat 
+I: 1096 
+C: 0
+
+N: Blank paper 
+I: 1071 
+C: 0
+
+N: Blue Adventurer's cap 
+I: 656 
+C: 0
+
+N: Blue Bandana 
+I: 668 
+C: 0
+
+N: Blue Berries 
+I: 516 
+C: 0
+
+N: Blue Cavalier Hat 
+I: 813 
+C: 0
+
+N: Blue Dragon Cuisses 
+I: 1087 
+C: 0
+
+N: Blue Dragon Greave 
+I: 1086 
+C: 0
+
+N: Blue Dragon Helm 
+I: 1091 
+C: 0
+
+N: Blue Dragon Mail 
+I: 1088 
+C: 0
+
+N: Blue Dragon Scale 
+I: 1124 
+C: 0
+
+N: Blue Dragon Shield 
+I: 1089 
+C: 0
+
+N: Blue dragon sword 
+I: 1090 
+C: 0
+
+N: Blue Dye 
+I: 825 
+C: 0
+
+N: Blue Fabric 
+I: 834 
+C: 0
+
+N: Blue green vest 
+I: 1051 
+C: 0
+
+N: Blue Lupine 
+I: 9 
+C: 0
+
+N: Blue Quartz 
+I: 15 
+C: 0
+
+N: Blue Quartz Mining 
+I: 200 
+C: 0
+
+N: Blue Robe 
+I: 781 
+C: 0
+
+N: Blue Robe Skirt 
+I: 791 
+C: 0
+
+N: Blue Star Flower 
+I: 1 
+C: 0
+
+N: Blue Tricorn Hat 
+I: 808 
+C: 0
+
+N: Blue Tunic 
+I: 766 
+C: 0
+
+N: Blue Tunic White Shirt 
+I: 769 
+C: 0
+
+N: Boat Ticket 
+I: 1013 
+C: 0
+
+N: Body Piercing Cloak 
+I: 134 
+C: 0
+
+N: Body Piercing removal 
+I: 1037 
+C: 0
+
+N: Bone of Death 
+I: 372 
+C: 0
+
+N: Bones 
+I: 54 
+C: 0
+
+N: Bones Powder 
+I: 63 
+C: 0
+
+N: Book High Explosive Mine 
+I: 878 
+C: 0
+
+N: Book of Accuracy 
+I: 532 
+C: 0
+
+N: Book of Accuracy/Magic Indicator Building 
+I: 755 
+C: 0
+
+N: Book of AC Fighting 
+I: 1044 
+C: 0
+
+N: Book of A/D Indicator Building 
+I: 753 
+C: 0
+
+N: Book of Advanced Alchemy 
+I: 238 
+C: 0
+
+N: Book of Advanced Potions 
+I: 239 
+C: 0
+
+N: Book of Advanced Summoning 
+I: 253 
+C: 0
+
+N: Book of Anatomy 
+I: 237 
+C: 0
+
+N: Book of Armed Female Orc Sum. 
+I: 431 
+C: 0
+
+N: Book of Armed Male Goblin Sum. 
+I: 427 
+C: 0
+
+N: Book of Armed Male Orc Sum. 
+I: 432 
+C: 0
+
+N: Book of Armed Skeleton Sum. 
+I: 428 
+C: 0
+
+N: Book of Arrow/Bolt head 
+I: 911 
+C: 0
+
+N: Book of Arrows and bolts 
+I: 901 
+C: 0
+
+N: Book of Arrows/Bolts head mold 
+I: 910 
+C: 0
+
+N: Book of Astrology Indicators 
+I: 752 
+C: 0
+
+N: Book of Attack Reduction 
+I: 983 
+C: 0
+
+N: Book of Axe Construction 
+I: 324 
+C: 0
+
+N: Book of Baggy Pants 
+I: 853 
+C: 0
+
+N: Book of Barricade 
+I: 727 
+C: 0
+
+N: Book of Bear Fighting 
+I: 267 
+C: 0
+
+N: Book of Bear Summoning 
+I: 260 
+C: 0
+
+N: Book of Biochemistry 
+I: 235 
+C: 0
+
+N: Book of Biology 
+I: 234 
+C: 0
+
+N: Book of Black Dragon Cuisses 
+I: 861 
+C: 0
+
+N: Book of Black Dragon Fighting 
+I: 735 
+C: 0
+
+N: Book of Black Dragon Greaves 
+I: 862 
+C: 0
+
+N: Book of Black Dragon Helm 
+I: 859 
+C: 0
+
+N: Book of Black Dragon Torso Armor 
+I: 860 
+C: 0
+
+N: Book of Black Dye 
+I: 847 
+C: 0
+
+N: Book of Blackpowder 
+I: 698 
+C: 0
+
+N: Book of Blue Dragon Cuisses Armor 
+I: 1120 
+C: 0
+
+N: Book of Blue Dragon Greaves Armor 
+I: 1119 
+C: 0
+
+N: Book of Blue Dragon Helm Armor 
+I: 1121 
+C: 0
+
+N: Book of Blue Dragons Fighting 
+I: 1135 
+C: 0
+
+N: Book of Blue Dragon Shield 
+I: 1122 
+C: 0
+
+N: Book of Blue Dragon Sword 
+I: 1123 
+C: 0
+
+N: Book of Blue Dragon Torso Armor 
+I: 1118 
+C: 0
+
+N: Book of Blue Dye 
+I: 845 
+C: 0
+
+N: Book of Boar Summoning 
+I: 256 
+C: 0
+
+N: Book of Books 
+I: 1072 
+C: 0
+
+N: Book of Boots Making 
+I: 1125 
+C: 0
+
+N: Book of Botanics 
+I: 236 
+C: 0
+
+N: Book of Bows and Crossbows 
+I: 900 
+C: 0
+
+N: Book of Bronze Sword 
+I: 686 
+C: 0
+
+N: Book of Buccaneer Hat 
+I: 856 
+C: 0
+
+N: Book of Bulangiu Fighting 
+I: 1136 
+C: 0
+
+N: Book of Caltrops 
+I: 697 
+C: 0
+
+N: Book of Camouflage Cape 
+I: 699 
+C: 0
+
+N: Book of Cockatrice Fighting 
+I: 1043 
+C: 0
+
+N: Book of Cold Protection 
+I: 953 
+C: 0
+
+N: Book of Combat Tactics 
+I: 261 
+C: 0
+
+N: Book of Crafting Potion 
+I: 358 
+C: 0
+
+N: Book of Creature Food 
+I: 958 
+C: 0
+
+N: Book of Criticals Indicator Building 
+I: 754 
+C: 0
+
+N: Book of Cutlass 
+I: 497 
+C: 0
+
+N: Book of Cyclops Fighting 
+I: 269 
+C: 0
+
+N: Book of Cyclop Sum. 
+I: 433 
+C: 0
+
+N: Book of Death Essence 
+I: 241 
+C: 0
+
+N: Book of Defense Reduction 
+I: 984 
+C: 0
+
+N: Book of Doublets Making 
+I: 1130 
+C: 0
+
+N: Book of Dragon Blade 
+I: 693 
+C: 0
+
+N: Book of Dresses 
+I: 1077 
+C: 0
+
+N: Book of Dwarf Fighting 
+I: 270 
+C: 0
+
+N: Book of Eagle Wing 
+I: 500 
+C: 0
+
+N: Book of Elf Fighting 
+I: 271 
+C: 0
+
+N: Book of Emerald Claymore 
+I: 496 
+C: 0
+
+N: Book of Enhanced Armor 
+I: 964 
+C: 0
+
+N: Book of Enhanced Items 
+I: 963 
+C: 0
+
+N: Book of Enhanced Sun Medallion 
+I: 1080 
+C: 0
+
+N: Book of Enhanced Unicorn Medallion 
+I: 1079 
+C: 0
+
+N: Book of Enhanced Weapons 
+I: 965 
+C: 0
+
+N: Book of Evasion 
+I: 533 
+C: 0
+
+N: Book of Fabric Dyeing 
+I: 848 
+C: 0
+
+N: Book of Fabric Weaving 
+I: 840 
+C: 0
+
+N: Book of Falcon Summoning 
+I: 725 
+C: 0
+
+N: Book of Female Goblin Sum. 
+I: 426 
+C: 0
+
+N: Book of Female Orc Sum. 
+I: 429 
+C: 0
+
+N: Book of Fire arrows 
+I: 904 
+C: 0
+
+N: Book of Fire bolts 
+I: 908 
+C: 0
+
+N: Book of Fire sword 
+I: 412 
+C: 0
+
+N: Book of Fluffy Fighting 
+I: 731 
+C: 0
+
+N: Book of Fluffy Summoning 
+I: 330 
+C: 0
+
+N: Book of Frying Pan 
+I: 695 
+C: 0
+
+N: Book of Gargoyle Fighting 
+I: 264 
+C: 0
+
+N: Book of Gargoyles Summoning 
+I: 258 
+C: 0
+
+N: Book of Giant Fighting 
+I: 733 
+C: 0
+
+N: Book of Goblin Fighting 
+I: 262 
+C: 0
+
+N: Book of Golden Star Mace 
+I: 694 
+C: 0
+
+N: Book of Gold Mining 
+I: 160 
+C: 0
+
+N: Book of Gold Molding 
+I: 165 
+C: 0
+
+N: Book of Gold Smelting 
+I: 155 
+C: 0
+
+N: Book of Green Dye 
+I: 844 
+C: 0
+
+N: Book of Gypsum Harvesting 
+I: 564 
+C: 0
+
+N: Book of Gypsum Molding 
+I: 565 
+C: 0
+
+N: Book of Halberd 
+I: 692 
+C: 0
+
+N: Book of Harvest/Degrade Indicator Building 
+I: 756 
+C: 0
+
+N: Book of Hawk Summoning 
+I: 724 
+C: 0
+
+N: Book of Health Essence 
+I: 242 
+C: 0
+
+N: Book of Heat Protection 
+I: 954 
+C: 0
+
+N: Book of Hood 
+I: 858 
+C: 0
+
+N: Book of Humans Fighting 
+I: 272 
+C: 0
+
+N: Book of Humans Fighting 
+I: 273 
+C: 0
+
+N: Book of Hydrogenium mining 
+I: 437 
+C: 0
+
+N: Book of Hydrogenium molding 
+I: 438 
+C: 0
+
+N: Book of Hydrogenium smelting 
+I: 439 
+C: 0
+
+N: Book of Ice arrows 
+I: 903 
+C: 0
+
+N: Book of Ice bolts 
+I: 907 
+C: 0
+
+N: Book of Ice Dragon Cuisses Armor 
+I: 945 
+C: 0
+
+N: Book of Ice Dragon Greaves Armor 
+I: 944 
+C: 0
+
+N: Book of Ice Dragon Helm Armor 
+I: 946 
+C: 0
+
+N: Book of Ice Dragons Fighting 
+I: 1134 
+C: 0
+
+N: Book of Ice Dragon Torso Armor 
+I: 943 
+C: 0
+
+N: Book of Ice sword 
+I: 413 
+C: 0
+
+N: Book of Immunity Removal Ward 
+I: 936 
+C: 0
+
+N: Book of Invasionmeter 
+I: 885 
+C: 0
+
+N: Book of Invisibility 
+I: 526 
+C: 0
+
+N: Book of Invisibility Removal Ward 
+I: 935 
+C: 0
+
+N: Book of Iron Axe Construction 
+I: 325 
+C: 0
+
+N: Book of Iron Broad sword of fire 
+I: 417 
+C: 0
+
+N: Book of Iron Broad sword of ice 
+I: 418 
+C: 0
+
+N: Book of Iron Mining 
+I: 161 
+C: 0
+
+N: Book of Iron Molding 
+I: 166 
+C: 0
+
+N: Book of Iron Smelting 
+I: 156 
+C: 0
+
+N: Book of Iron sword of fire 
+I: 416 
+C: 0
+
+N: Book of Jackets Making 
+I: 1131 
+C: 0
+
+N: Book of Jagged Saber 
+I: 502 
+C: 0
+
+N: Book of Life Essence 
+I: 240 
+C: 0
+
+N: Book of Lightmeter 
+I: 759 
+C: 0
+
+N: Book of Mage Robes 
+I: 1001 
+C: 0
+
+N: Book of Magic arrows 
+I: 905 
+C: 0
+
+N: Book of Magic bolts 
+I: 909 
+C: 0
+
+N: Book of Magic Essence 
+I: 243 
+C: 0
+
+N: Book of Magic Potion 
+I: 359 
+C: 0
+
+N: Book of Magic sword 
+I: 414 
+C: 0
+
+N: Book of Male Orc Sum. 
+I: 430 
+C: 0
+
+N: Book of Mana Burn Ward 
+I: 934 
+C: 0
+
+N: Book of Mana Drain Ward 
+I: 933 
+C: 0
+
+N: Book of Mare Bulangiu Fighting 
+I: 1137 
+C: 0
+
+N: Book of Medallion of Mana 
+I: 1000 
+C: 0
+
+N: Book of Medallion of the Gatherer 
+I: 998 
+C: 0
+
+N: Book of Medium Landmine 
+I: 877 
+C: 0
+
+N: Book of Metallurgy 
+I: 151 
+C: 0
+
+N: Book of Metal Mining 
+I: 153 
+C: 0
+
+N: Book of Metal Molding 
+I: 154 
+C: 0
+
+N: Book of Metal Smelting 
+I: 152 
+C: 0
+
+N: Book of Mule Glyph 
+I: 959 
+C: 0
+
+N: Book of Nails 
+I: 702 
+C: 0
+
+N: Book of Night Visor 
+I: 696 
+C: 0
+
+N: Book of No More Warlock 
+I: 876 
+C: 0
+
+N: Book of Ogre Fighting 
+I: 729 
+C: 0
+
+N: Book of Orange Dye 
+I: 842 
+C: 0
+
+N: Book of Orc Fighting 
+I: 266 
+C: 0
+
+N: Book of Orc Slayer 
+I: 499 
+C: 0
+
+N: Book of Pear finder 
+I: 1140 
+C: 0
+
+N: Book of Peasant Dress Making 
+I: 1128 
+C: 0
+
+N: Book of Peasant Skirts Making 
+I: 1133 
+C: 0
+
+N: Book of Phantom Warrior Fighting 
+I: 730 
+C: 0
+
+N: Book of PK arrows 
+I: 902 
+C: 0
+
+N: Book of PK bolts 
+I: 906 
+C: 0
+
+N: Book of Poison Antidote 
+I: 524 
+C: 0
+
+N: Book of Poisoned Caltrops 
+I: 703 
+C: 0
+
+N: Book of Polar Bear Sum. 
+I: 434 
+C: 0
+
+N: Book of Potion of Action Points 
+I: 1143 
+C: 0
+
+N: Book of Potion of Body Restoration 
+I: 244 
+C: 0
+
+N: Book of Potion of Coordination 
+I: 247 
+C: 0
+
+N: Book of Potion of Engineering 
+I: 726 
+C: 0
+
+N: Book of Potion of Feasting 
+I: 250 
+C: 0
+
+N: Book of Potion of Manufacturing 
+I: 251 
+C: 0
+
+N: Book of Potion of Physique 
+I: 249 
+C: 0
+
+N: Book of Potion of Summoning 
+I: 252 
+C: 0
+
+N: Book of Potion of Vitality 
+I: 246 
+C: 0
+
+N: Book of Potion of Wildness 
+I: 245 
+C: 0
+
+N: Book of Potion of Will 
+I: 248 
+C: 0
+
+N: Book of Puma Fighting 
+I: 265 
+C: 0
+
+N: Book of Puma Summoning 
+I: 259 
+C: 0
+
+N: Book of Purple Dye 
+I: 846 
+C: 0
+
+N: Book of Radiation Protection 
+I: 955 
+C: 0
+
+N: Book of Radioactive Rapier 
+I: 999 
+C: 0
+
+N: Book of Rapier 
+I: 501 
+C: 0
+
+N: Book of Rare/Fail Indicator Building 
+I: 757 
+C: 0
+
+N: Book of RC Detonator 
+I: 931 
+C: 0
+
+N: Book of RC Mine 
+I: 930 
+C: 0
+
+N: Book of Red Dragon Cuisses Armor 
+I: 689 
+C: 0
+
+N: Book of Red Dragon Fighting 
+I: 734 
+C: 0
+
+N: Book of Red Dragon Greaves Armor 
+I: 688 
+C: 0
+
+N: Book of Red Dragon Helm Armor 
+I: 690 
+C: 0
+
+N: Book of Red Dragon Summoning 
+I: 751 
+C: 0
+
+N: Book of Red Dragon Torso Armor 
+I: 687 
+C: 0
+
+N: Book of Red Dye 
+I: 841 
+C: 0
+
+N: Book of RHoLM 
+I: 1159 
+C: 0
+
+N: Book of Robe 
+I: 851 
+C: 0
+
+N: Book of Robe Skirts 
+I: 852 
+C: 0
+
+N: Book of Rope 
+I: 700 
+C: 0
+
+N: Book of Saltpetre 
+I: 705 
+C: 0
+
+N: Book of Santa Hat 
+I: 857 
+C: 0
+
+N: Book of Saving Stone 
+I: 706 
+C: 0
+
+N: Book of Scarves 
+I: 854 
+C: 0
+
+N: Book of Scythe 
+I: 947 
+C: 0
+
+N: Book of Serpent Sword of Fire 
+I: 871 
+C: 0
+
+N: Book of Serpent Sword of Ice 
+I: 872 
+C: 0
+
+N: Book of Serpent Sword of Magic 
+I: 873 
+C: 0
+
+N: Book of Serpent Sword of Thermal 
+I: 874 
+C: 0
+
+N: Book of Silver Mining 
+I: 162 
+C: 0
+
+N: Book of Silver Molding 
+I: 167 
+C: 0
+
+N: Book of Silver Smelting 
+I: 157 
+C: 0
+
+N: Book of Skeleton Fighting 
+I: 263 
+C: 0
+
+N: Book of Skeleton Summoning 
+I: 257 
+C: 0
+
+N: Book of Skirts 
+I: 1076 
+C: 0
+
+N: Book of Small Landmine 
+I: 704 
+C: 0
+
+N: Book of Snakes Summoning 
+I: 254 
+C: 0
+
+N: Book of Snare 
+I: 701 
+C: 0
+
+N: Book of Spear 
+I: 691 
+C: 0
+
+N: Book of special swords 
+I: 411 
+C: 0
+
+N: Book of Speed Hax 
+I: 980 
+C: 0
+
+N: Book of Steel Axe Construction 
+I: 326 
+C: 0
+
+N: Book of Steel Cuisses 
+I: 488 
+C: 0
+
+N: Book of Steel Greaves 
+I: 487 
+C: 0
+
+N: Book of Steel Helmet 
+I: 490 
+C: 0
+
+N: Book of Steel long sword of fire 
+I: 419 
+C: 0
+
+N: Book of Steel long sword of ice 
+I: 420 
+C: 0
+
+N: Book of Steel long sword of magic 
+I: 421 
+C: 0
+
+N: Book of Steel Molding 
+I: 164 
+C: 0
+
+N: Book of Steel Plate Mail 
+I: 494 
+C: 0
+
+N: Book of Steel Smelting 
+I: 158 
+C: 0
+
+N: Book of Steel two edged sword of fire 
+I: 422 
+C: 0
+
+N: Book of Steel two edged sword of ice 
+I: 423 
+C: 0
+
+N: Book of Steel two edged sword of magic 
+I: 424 
+C: 0
+
+N: Book of Steel two edged sword of thermal 
+I: 425 
+C: 0
+
+N: Book of Sunbreaker 
+I: 498 
+C: 0
+
+N: Book of Thermal sword 
+I: 415 
+C: 0
+
+N: Book of Titanium Axe Construction 
+I: 327 
+C: 0
+
+N: Book of Titanium Cuisses 
+I: 493 
+C: 0
+
+N: Book of Titanium Greaves 
+I: 492 
+C: 0
+
+N: Book of Titanium Helmet 
+I: 491 
+C: 0
+
+N: Book of Titanium Mining 
+I: 163 
+C: 0
+
+N: Book of Titanium Molding 
+I: 168 
+C: 0
+
+N: Book of Titanium Plate Mail 
+I: 495 
+C: 0
+
+N: Book of Titanium Shield 
+I: 489 
+C: 0
+
+N: Book of Titanium Smelting 
+I: 159 
+C: 0
+
+N: Book of Titanium/Steel Long Sword of Fire 
+I: 867 
+C: 0
+
+N: Book of Titanium/Steel Long Sword of Ice 
+I: 868 
+C: 0
+
+N: Book of Titanium/Steel Long Sword of Magic 
+I: 869 
+C: 0
+
+N: Book of Titanium/Steel Long Sword of Thermal 
+I: 870 
+C: 0
+
+N: Book of Titanium/Steel Short Sword of Fire 
+I: 863 
+C: 0
+
+N: Book of Titanium/Steel Short Sword of Ice 
+I: 864 
+C: 0
+
+N: Book of Titanium/Steel Short Sword of Magic 
+I: 865 
+C: 0
+
+N: Book of Titanium/Steel Short Sword of Thermal 
+I: 866 
+C: 0
+
+N: Book of Treasure finder 
+I: 1139 
+C: 0
+
+N: Book of Tricorn Hat 
+I: 855 
+C: 0
+
+N: Book of Troll Fighting 
+I: 268 
+C: 0
+
+N: Book of True Sight 
+I: 525 
+C: 0
+
+N: Book of Tunic 
+I: 849 
+C: 0
+
+N: Book of Tunic of the Ninja 
+I: 1002 
+C: 0
+
+N: Book of Tunic/Shirt 
+I: 850 
+C: 0
+
+N: Book of Vests 
+I: 1078 
+C: 0
+
+N: Book of Wedding Dress Making 
+I: 1127 
+C: 0
+
+N: Book of Wedding Skirts Making 
+I: 1132 
+C: 0
+
+N: Book of Wizard Hats Making 
+I: 1126 
+C: 0
+
+N: Book of Wolframite Mining 
+I: 485 
+C: 0
+
+N: Book of Wolframite Smelting 
+I: 484 
+C: 0
+
+N: Book of Wolfram Molding 
+I: 486 
+C: 0
+
+N: Book of Wolf Summoning 
+I: 255 
+C: 0
+
+N: Book of Yellow Dye 
+I: 843 
+C: 0
+
+N: Book of Yeti Fighting 
+I: 732 
+C: 0
+
+N: Bot Blessing Coupon 
+I: 1021 
+C: 0
+
+N: Branch Of Destruction 
+I: 371 
+C: 0
+
+N: Bread 
+I: 21 
+C: 0
+
+N: Bronze Bar 
+I: 611 
+C: 0
+
+N: Bronze Cuisses 
+I: 592 
+C: 0
+
+N: Bronze Cuisses Construction 
+I: 603 
+C: 0
+
+N: Bronze Greave 
+I: 593 
+C: 0
+
+N: Bronze Greaves Construction 
+I: 604 
+C: 0
+
+N: Bronze Helm 
+I: 594 
+C: 0
+
+N: Bronze Helm Construction 
+I: 605 
+C: 0
+
+N: Bronze Plate Mail 
+I: 591 
+C: 0
+
+N: Bronze Plate Mail Construction 
+I: 602 
+C: 0
+
+N: Bronze Shield 
+I: 595 
+C: 0
+
+N: Bronze Shield Construction 
+I: 606 
+C: 0
+
+N: Bronze Sword 
+I: 679 
+C: 0
+
+N: Brown Adventurer's cap 
+I: 657 
+C: 0
+
+N: Brown Baggy Pants 
+I: 802 
+C: 0
+
+N: Brown Bandana 
+I: 667 
+C: 0
+
+N: Brown blue peasant dress 
+I: 1102 
+C: 0
+
+N: Brown Blue Peasant skirt 
+I: 1116 
+C: 0
+
+N: Brown boots 
+I: 1093 
+C: 0
+
+N: Brown Buccaneer Hat 
+I: 809 
+C: 0
+
+N: Brown doublet 
+I: 1107 
+C: 0
+
+N: Brown Fabric 
+I: 837 
+C: 0
+
+N: Brown Horse Whistle 
+I: 960 
+C: 0
+
+N: Brown jacket 
+I: 1108 
+C: 0
+
+N: Brown rabbit fur 
+I: 67 
+C: 0
+
+N: Brown Robe 
+I: 784 
+C: 0
+
+N: Brown Robe Skirt 
+I: 789 
+C: 0
+
+N: Brown Snake Skin 
+I: 84 
+C: 0
+
+N: Brown Tricorn Hat 
+I: 807 
+C: 0
+
+N: Brown Tunic 
+I: 761 
+C: 0
+
+N: Brown Tunic Blue Shirt 
+I: 776 
+C: 0
+
+N: Brown Tunic White Shirt 
+I: 770 
+C: 0
+
+N: Brown vest 
+I: 1054 
+C: 0
+
+N: Bucket 
+I: 720 
+C: 0
+
+N: Cactus 
+I: 53 
+C: 0
+
+N: Caltrop 
+I: 712 
+C: 0
+
+N: Cape of No More Warlock 
+I: 337 
+C: 0
+
+N: Cape of passive camouflage 
+I: 338 
+C: 0
+
+N: Cape of The Unbreakable 
+I: 340 
+C: 0
+
+N: Carving Knife 
+I: 898 
+C: 0
+
+N: Cheap Cutlass 
+I: 974 
+C: 0
+
+N: Chimeran Mountain Wolf Summoning 
+I: 331 
+C: 0
+
+N: Chrysanthemum 
+I: 3 
+C: 0
+
+N: Cinnabar 
+I: 627 
+C: 0
+
+N: Cinnabar Mining 
+I: 628 
+C: 0
+
+N: Coal 
+I: 47 
+C: 0
+
+N: Cockatrice Feather 
+I: 721 
+C: 0
+
+N: Collateral Damage removal 
+I: 1160 
+C: 0
+
+N: Color change stone 
+I: 1025 
+C: 0
+
+N: Conjurer Cloak 
+I: 137 
+C: 0
+
+N: Conjurer removal 
+I: 1149 
+C: 0
+
+N: Cooked Meat 
+I: 81 
+C: 0
+
+N: Coordination Removal Stone 
+I: 643 
+C: 0
+
+N: Copper Bar 
+I: 609 
+C: 0
+
+N: Copper Mining 
+I: 596 
+C: 0
+
+N: Copper Molding 
+I: 600 
+C: 0
+
+N: Copper Ore 
+I: 607 
+C: 0
+
+N: Copper Smelting 
+I: 598 
+C: 0
+
+N: Cotton 
+I: 504 
+C: 0
+
+N: Creature food 
+I: 956 
+C: 0
+
+N: Criticals Indicator 
+I: 737 
+C: 0
+
+N: Crossbow 
+I: 882 
+C: 0
+
+N: Crossbow training bolts 
+I: 883 
+C: 0
+
+N: Crown of Life 
+I: 367 
+C: 0
+
+N: Crown of Life Building 
+I: 558 
+C: 0
+
+N: Crown of Mana 
+I: 368 
+C: 0
+
+N: Crown of Mana Building 
+I: 559 
+C: 0
+
+N: Crystal embedding 
+I: 211 
+C: 0
+
+N: Crystal Mining 
+I: 197 
+C: 0
+
+N: Crystal Processing 
+I: 205 
+C: 0
+
+N: Crystal Technology 
+I: 196 
+C: 0
+
+N: Custom Cape 
+I: 678 
+C: 0
+
+N: Custom Shield 
+I: 680 
+C: 0
+
+N: Cutlass 
+I: 458 
+C: 0
+
+N: Cutlass of the mage 
+I: 543 
+C: 0
+
+N: Daffodils 
+I: 507 
+C: 0
+
+N: Daily cooldown reducer 
+I: 1154 
+C: 0
+
+N: Damaged Black Dragon Cuisses 
+I: 921 
+C: 0
+
+N: Damaged Black Dragon Greave 
+I: 922 
+C: 0
+
+N: Damaged Black Dragon Mail 
+I: 920 
+C: 0
+
+N: Damaged Bronze Cuisses 
+I: 915 
+C: 0
+
+N: Damaged Bronze Greave 
+I: 916 
+C: 0
+
+N: Damaged Bronze Plate Mail 
+I: 914 
+C: 0
+
+N: Damaged Crown of Life 
+I: 435 
+C: 0
+
+N: Damaged Crown of Mana 
+I: 436 
+C: 0
+
+N: Damaged Ice Dragon Cuisses 
+I: 972 
+C: 0
+
+N: Damaged Ice Dragon Greave 
+I: 973 
+C: 0
+
+N: Damaged Ice Dragon Helm 
+I: 970 
+C: 0
+
+N: Damaged Ice Dragon Mail 
+I: 971 
+C: 0
+
+N: Damaged Iron Cuisses 
+I: 332 
+C: 0
+
+N: Damaged Iron Greave 
+I: 333 
+C: 0
+
+N: Damaged Iron Plate Mail 
+I: 328 
+C: 0
+
+N: Damaged Red Dragon Cuisses 
+I: 918 
+C: 0
+
+N: Damaged Red Dragon Greave 
+I: 917 
+C: 0
+
+N: Damaged Red Dragon Mail 
+I: 919 
+C: 0
+
+N: Dandelion 
+I: 512 
+C: 0
+
+N: Dapple Gray Whistle 
+I: 1009 
+C: 0
+
+N: Day of Alfred Nobel Stone 
+I: 1067 
+C: 0
+
+N: Day of Faster respawns Stone 
+I: 1064 
+C: 0
+
+N: Day of Half cooldowns Stone 
+I: 1065 
+C: 0
+
+N: Day of Magic Stone 
+I: 1049 
+C: 0
+
+N: Day of Non Stop Stone 
+I: 1047 
+C: 0
+
+N: Day of Reconstruction 
+I: 1153 
+C: 0
+
+N: Day of Recycling 
+I: 1161 
+C: 0
+
+N: Day of Robin Tell Stone 
+I: 1045 
+C: 0
+
+N: Day of Schools Stone 
+I: 1048 
+C: 0
+
+N: Day of Stakhanov Stone 
+I: 1046 
+C: 0
+
+N: Day of Summoners Stone 
+I: 1066 
+C: 0
+
+N: Death Essence 
+I: 39 
+C: 0
+
+N: Dedicated Harvester removal 
+I: 1156 
+C: 0
+
+N: Deer Antlers 
+I: 62 
+C: 0
+
+N: Deer Fur 
+I: 60 
+C: 0
+
+N: Defense predictor 
+I: 742 
+C: 0
+
+N: Degrade predictor 
+I: 748 
+C: 0
+
+N: Desert Pines Ring Building 
+I: 233 
+C: 0
+
+N: Diamond 
+I: 51 
+C: 0
+
+N: Diamond embedding 
+I: 214 
+C: 0
+
+N: Diamond Mining 
+I: 204 
+C: 0
+
+N: Diamond Processing 
+I: 206 
+C: 0
+
+N: Disengagement Ring Building 
+I: 228 
+C: 0
+
+N: Dragon Blade 
+I: 683 
+C: 0
+
+N: Dung 
+I: 719 
+C: 0
+
+N: Dung teleporter 
+I: 1152 
+C: 0
+
+N: Dvarium Bar 
+I: 990 
+C: 0
+
+N: Dvarium Mining 
+I: 986 
+C: 0
+
+N: Dvarium Molding 
+I: 987 
+C: 0
+
+N: Dvarium Ore 
+I: 989 
+C: 0
+
+N: Dvarium Smelting 
+I: 985 
+C: 0
+
+N: Eagle Wing 
+I: 461 
+C: 0
+
+N: Eagle Wing of Extra Damage 
+I: 545 
+C: 0
+
+N: Earth Essence 
+I: 33 
+C: 0
+
+N: Egratia Ring Building 
+I: 397 
+C: 0
+
+N: Elven Bow 
+I: 887 
+C: 0
+
+N: Emerald 
+I: 48 
+C: 0
+
+N: Emerald Claymore 
+I: 457 
+C: 0
+
+N: Emerald Claymore of Life and Mana 
+I: 547 
+C: 0
+
+N: Emerald embedding 
+I: 216 
+C: 0
+
+N: Emerald Mining 
+I: 202 
+C: 0
+
+N: Emerald Processing 
+I: 208 
+C: 0
+
+N: Emerald Valley Ring Building 
+I: 406 
+C: 0
+
+N: Empty Vial 
+I: 25 
+C: 0
+
+N: Energy Essence 
+I: 37 
+C: 0
+
+N: Enhanced Iron Cuisses 
+I: 967 
+C: 0
+
+N: Enhanced Iron Greave 
+I: 966 
+C: 0
+
+N: Enhanced Iron Plate Mail 
+I: 968 
+C: 0
+
+N: Enhanced Sun Medallion 
+I: 1074 
+C: 0
+
+N: Enhanced Unicorn Medallion 
+I: 1073 
+C: 0
+
+N: Enhanced Wooden Shield 
+I: 130 
+C: 0
+
+N: Enriched Death Essence 
+I: 566 
+C: 0
+
+N: Enriched Energy Essence 
+I: 1151 
+C: 0
+
+N: Enriched Fire Essence 
+I: 282 
+C: 0
+
+N: Enriched Life Essence 
+I: 329 
+C: 0
+
+N: Enriched Magic Essence 
+I: 286 
+C: 0
+
+N: Enriched Water Essence 
+I: 283 
+C: 0
+
+N: Enrichment Stone 
+I: 408 
+C: 0
+
+N: Ethereal Ranger removal 
+I: 1040 
+C: 0
+
+N: Evanescence removal 
+I: 1026 
+C: 0
+
+N: Excavator Cape 
+I: 135 
+C: 0
+
+N: Excavator removal 
+I: 1075 
+C: 0
+
+N: Failure predictor 
+I: 750 
+C: 0
+
+N: Falcon Feather 
+I: 708 
+C: 0
+
+N: Fast Regeneration Cape 
+I: 138 
+C: 0
+
+N: Fast Regeneration Removal 
+I: 961 
+C: 0
+
+N: Fatal Man removal 
+I: 1033 
+C: 0
+
+N: Feet Armor Construction 
+I: 180 
+C: 0
+
+N: Feran Horn 
+I: 447 
+C: 0
+
+N: Fire arrows 
+I: 889 
+C: 0
+
+N: Fire bolts 
+I: 892 
+C: 0
+
+N: Fire Essence 
+I: 31 
 C: 1
-E: 21 1
-E: 80 2
+E: 17 1
+E: 6 1
+E: 10 1
 E: 0
 
+N: Fluffy Stone Construction 
+I: 586 
+C: 0
 
-N: fire essence
-I: 59
-C: 1
-E: 85 1
-E: 112 1
-E: 118 1
-E: 0
+N: Fluffy Summoning Stone 
+I: 576 
+C: 0
 
+N: Fox Fur 
+I: 85 
+C: 0
 
-N: earth essence
-I: 58
-C: 1
-E: 41 1    # swamp candles
-E: 85 1    # sulfur
-E: 83 2    # coal
-E: 0
+N: Fox Scarf 
+I: 90 
+C: 0
 
+N: Fruits 
+I: 43 
+C: 0
 
-N: matter essence
+N: Frying Pan 
+I: 685 
+C: 0
+
+N: Fur Boots 
+I: 321 
+C: 0
+
+N: Fur Cloak 
+I: 92 
+C: 0
+
+N: Fur Hat 
+I: 91 
+C: 0
+
+N: Fur Pants 
+I: 343 
+C: 0
+
+N: Fur Torso 
+I: 342 
+C: 0
+
+N: Gatherer Medallion 
+I: 997 
+C: 0
+
+N: Gelatine Bones removal 
+I: 924 
+C: 0
+
+N: Gem Sanding Paper 
+I: 114 
+C: 0
+
+N: Gemstone hammer & chisel 
+I: 274 
+C: 0
+
+N: Generic Medallions Building 
+I: 213 
+C: 0
+
+N: Generic Rings Building 
+I: 212 
+C: 0
+
+N: Giant Spider Stone Construction 
+I: 583 
+C: 0
+
+N: Giant Spider Summoning Stone 
+I: 573 
+C: 0
+
+N: Giant Stone Construction 
+I: 588 
+C: 0
+
+N: Giant Summoning 
+I: 557 
+C: 0
+
+N: Giant Summoning Stone 
+I: 578 
+C: 0
+
+N: Glacmor Ring Building 
+I: 405 
+C: 0
+
+N: Godless removal 
+I: 992 
+C: 0
+
+N: Gold Bar 
+I: 110 
+C: 0
+
+N: Gold Circlet 
+I: 661 
+C: 0
+
+N: Gold Coins 
+I: 20 
+C: 0
+
+N: Gold Crown 
+I: 665 
+C: 0
+
+N: Golden Star Mace 
+I: 684 
+C: 0
+
+N: Gold Medallion 
+I: 96 
+C: 0
+
+N: Gold Medallions Building 
+I: 221 
+C: 0
+
+N: Gold Ore 
+I: 45 
+C: 0
+
+N: Gold Ring 
+I: 94 
+C: 0
+
+N: Gold Rings Building 
+I: 219 
+C: 0
+
+N: Gold Tiara 
+I: 663 
+C: 0
+
+N: Grapes 
+I: 1063 
+C: 0
+
+N: Gray Fabric 
+I: 836 
+C: 0
+
+N: Gray Robe 
+I: 783 
+C: 0
+
+N: Gray Robe Skirt 
+I: 788 
+C: 0
+
+N: Gray Wizard Hat 
+I: 1095 
+C: 0
+
+N: Green Adventurer's cap 
+I: 658 
+C: 0
+
+N: Green Bandana 
+I: 671 
+C: 0
+
+N: Green Cavalier Peacock Hat 
+I: 812 
+C: 0
+
+N: Green Dye 
+I: 824 
+C: 0
+
+N: Green Fabric 
+I: 833 
+C: 0
+
+N: Green jacket 
+I: 1109 
+C: 0
+
+N: Green Robe 
+I: 778 
+C: 0
+
+N: Green Robe Skirt 
+I: 793 
+C: 0
+
+N: Green Snake Skin 
+I: 82 
+C: 0
+
+N: Green Tunic 
+I: 763 
+C: 0
+
+N: Green white dress 
+I: 1056 
+C: 0
+
+N: Green white skirt 
+I: 1060 
+C: 0
+
+N: Gypsum 
+I: 534 
+C: 0
+
+N: Haidir pass 
+I: 1068 
+C: 0
+
+N: Halberd 
+I: 682 
+C: 0
+
+N: Halberd of action 
+I: 1158 
+C: 0
+
+N: Hammer 
+I: 125 
+C: 0
+
+N: Harvest/Degrade Indicator 
+I: 739 
+C: 0
+
+N: Harvester Medallion 
+I: 620 
+C: 0
+
+N: Harvester Medallion Building 
+I: 623 
+C: 0
+
+N: Harvester of Sorrow removal 
+I: 1012 
+C: 0
+
+N: Harvest predictor 
+I: 747 
+C: 0
+
+N: Hawk Feather 
+I: 707 
+C: 0
+
+N: Head Armor Construction 
+I: 182 
+C: 0
+
+N: Health Essence 
+I: 40 
+C: 0
+
+N: Heavenspawn Medallion 
+I: 619 
+C: 0
+
+N: Heavenspawn Medallion Building 
+I: 622 
+C: 0
+
+N: Hellspawn removal 
+I: 925 
+C: 0
+
+N: Henbane 
+I: 517 
+C: 0
+
+N: High Explosive Mine 
+I: 760 
+C: 0
+
+N: Honey Comb 
+I: 535 
+C: 0
+
+N: Hulda Ring Building 
+I: 400 
+C: 0
+
+N: Human Removal Stone 
+I: 649 
+C: 0
+
+N: Hurquin Ring Building 
+I: 404 
+C: 0
+
+N: Hydrogenium Bar 
+I: 441 
+C: 0
+
+N: Hydrogenium Ore 
+I: 440 
+C: 0
+
+N: I can't Dance removal 
+I: 926 
+C: 0
+
+N: Ice arrows 
+I: 890 
+C: 0
+
+N: Ice bolts 
+I: 893 
+C: 0
+
+N: Ice Dragon Cuisses 
+I: 940 
+C: 0
+
+N: Ice Dragon Greave 
+I: 941 
+C: 0
+
+N: Ice Dragon Helm 
+I: 938 
+C: 0
+
+N: Ice Dragon Mail 
+I: 939 
+C: 0
+
+N: Ice Dragon Scale 
+I: 897 
+C: 0
+
+N: Idaloran Ring Building 
+I: 392 
+C: 0
+
+N: I Eat Dead People Removal 
+I: 962 
+C: 0
+
+N: I glow in the dark removal 
+I: 1024 
+C: 0
+
+N: Imbroglio Islands Ring Building 
+I: 403 
+C: 0
+
+N: Impatiens 
+I: 2 
+C: 0
+
+N: Inorganic Removal Stone 
+I: 652 
+C: 0
+
+N: Instinct Removal Stone 
+I: 647 
+C: 0
+
+N: Invasionmeter 
+I: 884 
+C: 0
+
+N: Invasion Token 
+I: 923 
+C: 0
+
+N: Invisibility Potion 
+I: 522 
+C: 0
+
+N: Invisibility Removal Ward 
+I: 949 
+C: 0
+
+N: Irinveron Ring Building 
+I: 399 
+C: 0
+
+N: Iron Axe 
+I: 316 
+C: 0
+
+N: Iron Bar 
+I: 108 
+C: 0
+
+N: Iron Battle Hammer 
+I: 139 
+C: 0
+
+N: Iron Broad Sword 
+I: 116 
+C: 0
+
+N: Iron Broad Sword Construction 
+I: 172 
+C: 0
+
+N: Iron Broad Sword of Fire 
+I: 295 
+C: 0
+
+N: Iron Broad Sword of Ice 
+I: 296 
+C: 0
+
+N: Iron Chain Mail 
+I: 98 
+C: 0
+
+N: Iron Chainmail Torso Construction 
+I: 188 
+C: 0
+
+N: Iron Cuisses 
+I: 320 
+C: 0
+
+N: Iron Cuisses Construction 
+I: 186 
+C: 0
+
+N: Iron Greave 
+I: 322 
+C: 0
+
+N: Iron Greaves Construction 
+I: 185 
+C: 0
+
+N: Iron Helm 
+I: 140 
+C: 0
+
+N: Iron Helmet Construction 
+I: 184 
+C: 0
+
+N: Iron Ore 
+I: 46 
+C: 0
+
+N: Iron Plate Mail 
+I: 319 
+C: 0
+
+N: Iron Plate Mail Construction 
+I: 189 
+C: 0
+
+N: Iron Shield 
+I: 131 
+C: 0
+
+N: Iron Shield Construction 
+I: 194 
+C: 0
+
+N: Iron Sword 
+I: 115 
+C: 0
+
+N: Iron Sword Construction 
+I: 171 
+C: 0
+
+N: Iron Sword of Fire 
+I: 294 
+C: 0
+
+N: Iscarlith Ring Building 
+I: 398 
+C: 0
+
+N: Isla Prima Ring Building 
+I: 230 
+C: 0
+
+N: Isle of the Forgotten Ring Building 
+I: 402 
+C: 0
+
+N: Jagged Saber 
+I: 463 
+C: 0
+
+N: Jagged Saber of Cooling 
+I: 546 
+C: 0
+
+N: Jewlery Technology 
+I: 210 
+C: 0
+
+N: Joules Stone 
+I: 1039 
+C: 0
+
+N: Kusamura Ring Building 
+I: 396 
+C: 0
+
+N: Lavender Tunic 
+I: 762 
+C: 0
+
+N: Leather 
+I: 126 
+C: 0
+
+N: Leather Boots 
+I: 143 
+C: 0
+
+N: Leather Gloves 
+I: 93 
+C: 0
+
+N: Leather Helm 
+I: 323 
+C: 0
+
+N: Leather Helmet Construction 
+I: 183 
+C: 0
+
+N: Leather Pants 
+I: 142 
+C: 0
+
+N: Legs Armor Construction 
+I: 181 
+C: 0
+
+N: Leonard fur 
+I: 978 
+C: 0
+
+N: Leopard fur 
+I: 443 
+C: 0
+
+N: Life Essence 
+I: 38 
+C: 0
+
+N: Light Blue Robe 
+I: 779 
+C: 0
+
+N: Light Blue Robe Skirt 
+I: 794 
+C: 0
+
+N: Lightmeter 
+I: 758 
+C: 0
+
+N: Lilacs 
+I: 11 
+C: 0
+
+N: Little Dragon Blue Summoning Stone 
+I: 1150 
+C: 0
+
+N: Long Bow 
+I: 879 
+C: 0
+
+N: Loom 
+I: 838 
+C: 0
+
+N: Mage Robe Pants 
+I: 976 
+C: 0
+
+N: Mage Robe Shirt 
+I: 975 
+C: 0
+
+N: Magic arrows 
+I: 888 
+C: 0
+
+N: Magic bolts 
+I: 891 
+C: 0
+
+N: Magic Essence 
+I: 41 
+C: 0
+
+N: Magic Potion 
+I: 357 
+C: 0
+
+N: Magic predictor 
+I: 746 
+C: 0
+
+N: Magic Removal Stone 
+I: 654 
+C: 0
+
+N: Make Rare/Fail Indicator 
+I: 740 
+C: 0
+
+N: Make Rare predictor 
+I: 749 
+C: 0
+
+N: Mana Burn Ward 
+I: 942 
+C: 0
+
+N: Mana Drain Ward 
+I: 932 
+C: 0
+
+N: Matter Conglomerate 
+I: 612 
+C: 0
+
+N: Matter Essence 
+I: 36 
+C: 0
+
+N: Mead 
+I: 22 
+C: 0
+
+N: Medallion Mold 
+I: 276 
+C: 0
+
+N: Medallion of Life 
+I: 633 
+C: 0
+
+N: Medallion of Life Building 
+I: 632 
+C: 0
+
+N: Medallion of Mana 
+I: 1006 
+C: 0
+
+N: Medium Mine 
+I: 718 
+C: 0
+
+N: Mercury 
+I: 16 
+C: 0
+
+N: Mercury Extraction 
+I: 629 
+C: 0
+
+N: MI Removal Ward 
+I: 948 
+C: 0
+
+N: Mirror Cloak 
+I: 148 
+C: 0
+
+N: Mirror Skin removal 
+I: 1032 
+C: 0
+
+N: Mixture of Power 
+I: 642 
+C: 0
+
+N: Modable Iron Broad Sword 
+I: 288 
+C: 0
+
+N: Modable Iron Sword 
+I: 287 
+C: 0
+
+N: Modable Steel Long Sword 
+I: 289 
+C: 0
+
+N: Modable Steel Two Edged Sword 
+I: 290 
+C: 0
+
+N: Modable Titanium Serpent Sword 
+I: 293 
+C: 0
+
+N: Modable Titanium/Steel Alloy Long Sword 
+I: 292 
+C: 0
+
+N: Modable Titanium/Steel Alloy Short Sword 
+I: 291 
+C: 0
+
+N: Monster Magnetism Cloak 
+I: 136 
+C: 0
+
+N: Monster Magnetism removal 
+I: 1007 
+C: 0
+
+N: Moon Medallion 
+I: 106 
+C: 0
+
+N: Moon Medallion Building 
+I: 224 
+C: 0
+
+N: Mortar & Pestle 
+I: 52 
+C: 0
+
+N: Mugwort 
+I: 508 
+C: 0
+
+N: Mule Glyph 
+I: 957 
+C: 0
+
+N: Mule Skin 
+I: 57 
+C: 0
+
+N: Mullein 
+I: 518 
+C: 0
+
+N: Nail 
+I: 722 
+C: 0
+
+N: Naralik Ring Building 
+I: 227 
+C: 0
+
+N: Navy doublet 
+I: 1106 
+C: 0
+
+N: Navy jacket 
+I: 1110 
+C: 0
+
+N: Needle 
+I: 87 
+C: 0
+
+N: Nexus transfer stone 
+I: 1038 
+C: 0
+
+N: Nightshade 
+I: 519 
+C: 0
+
+N: Nightshade - Mullein - Dandelion Extract 
+I: 635 
+C: 0
+
+N: Night Visor 
+I: 672 
+C: 0
+
+N: NMT removal 
+I: 1029 
+C: 0
+
+N: No More Tears Cape 
+I: 341 
+C: 0
+
+N: Ogre Toes 
+I: 538 
+C: 0
+
+N: One removal 
+I: 1004 
+C: 0
+
+N: Orange 
+I: 1028 
+C: 0
+
+N: Orange Dye 
+I: 822 
+C: 0
+
+N: Orange Fabric 
+I: 831 
+C: 0
+
+N: Orc Slayer 
+I: 460 
+C: 0
+
+N: Orc Slayer of Mana Nullification 
+I: 544 
+C: 0
+
+N: P2P Shop Coupon 
+I: 1020 
+C: 0
+
+N: Padded Leather Armor 
+I: 97 
+C: 0
+
+N: Padded Leather Pants Construction 
+I: 187 
+C: 0
+
+N: Painted Whistle 
+I: 1010 
+C: 0
+
+N: Palomino Whistle 
+I: 1008 
+C: 0
+
+N: Palon Vertas Ring Building 
+I: 395 
+C: 0
+
+N: Pear 
+I: 1050 
+C: 0
+
+N: Pear finder 
+I: 1141 
+C: 0
+
+N: Phantom Warrior Stone Construction 
+I: 585 
+C: 0
+
+N: Phantom Warrior Summoning Stone 
+I: 575 
+C: 0
+
+N: Phoenix Feather 
+I: 56 
+C: 0
+
+N: Phoenix Glyph 
+I: 1023 
+C: 0
+
+N: Physique Removal Stone 
+I: 644 
+C: 0
+
+N: Pickaxe 
+I: 113 
+C: 0
+
+N: Pking arrows 
+I: 912 
+C: 0
+
+N: Pking bolts 
+I: 913 
+C: 0
+
+N: Platinum Coins 
+I: 133 
+C: 0
+
+N: Point Defense 
+I: 1034 
+C: 0
+
+N: Poison Antidote 
+I: 523 
+C: 0
+
+N: Poisoned Caltrop 
+I: 713 
+C: 0
+
+N: Poison Ivy 
+I: 513 
+C: 0
+
+N: Poison Ivy - Henbane - Poppies Extract 
+I: 636 
+C: 0
+
+N: Polar Bear Fur 
+I: 366 
+C: 0
+
+N: Polished Diamond 
+I: 30 
+C: 0
+
+N: Polished Emerald 
+I: 26 
+C: 0
+
+N: Polished Ruby 
+I: 19 
+C: 0
+
+N: Polished Sapphire 
+I: 29 
+C: 0
+
+N: Poppies 
+I: 511 
+C: 0
+
+N: Portland Ring Building 
+I: 231 
+C: 0
+
+N: Potion of Accuracy 
+I: 530 
+C: 0
+
+N: Potion of Action Points 
+I: 1142 
+C: 0
+
+N: Potion of Alchemy 
+I: 567 
+C: 0
+
+N: Potion of Alchemy Construction 
+I: 589 
+C: 0
+
+N: Potion of Archery AP 
+I: 988 
+C: 0
+
+N: Potion of Attack 
+I: 73 
+C: 0
+
+N: Potion of Attack Reduction 
+I: 981 
+C: 0
+
+N: Potion of Body Restoration 
+I: 27 
+C: 0
+
+N: Potion of Cold Protection 
+I: 950 
+C: 0
+
+N: Potion of Coordination 
+I: 64 
+C: 0
+
+N: Potion of Crafting 
+I: 356 
+C: 0
+
+N: Potion of Defense 
+I: 74 
+C: 0
+
+N: Potion of Defense Reduction 
+I: 982 
+C: 0
+
+N: Potion of Engineering 
+I: 728 
+C: 0
+
+N: Potion of Evasion 
+I: 531 
+C: 0
+
+N: Potion of Extra Mana 
+I: 284 
+C: 0
+
+N: Potion of Feasting 
+I: 77 
+C: 0
+
+N: Potion of Great Healing 
+I: 285 
+C: 0
+
+N: Potion of Harvesting 
+I: 72 
+C: 0
+
+N: Potion of Heat Protection 
+I: 951 
+C: 0
+
+N: Potion of Mana 
+I: 76 
+C: 0
+
+N: Potion of Manufacturing 
+I: 147 
+C: 0
+
+N: Potion of Minor Healing 
+I: 75 
+C: 0
+
+N: Potion of Physique 
+I: 71 
+C: 0
+
+N: Potion of Potion 
+I: 568 
+C: 0
+
+N: Potion of Potion Construction 
+I: 590 
+C: 0
+
+N: Potion of Radiation Protection 
+I: 952 
+C: 0
+
+N: Potion of Reasoning 
+I: 69 
+C: 0
+
+N: Potion of Speed Hax 
+I: 979 
+C: 0
+
+N: Potion of Spirit Restoration 
+I: 28 
+C: 0
+
+N: Potion of Summoning 
+I: 79 
+C: 0
+
+N: Potion of Vitality 
+I: 65 
+C: 0
+
+N: Potion of Wildness 
+I: 68 
+C: 0
+
+N: Potion of Will 
+I: 70 
+C: 0
+
+N: Power Hungry removal 
+I: 1084 
+C: 0
+
+N: Powersaving Cloak 
+I: 149 
+C: 0
+
+N: Powersaving removal 
+I: 1129 
+C: 0
+
+N: Pre-owned Serpent Sword 
+I: 277 
+C: 0
+
+N: Pre-owned Titanium Axe 
+I: 352 
+C: 0
+
+N: Pre-Owned Titanium/Steel Alloy Short Sword 
+I: 279 
+C: 0
+
+N: Puma Fur 
+I: 86 
+C: 0
+
+N: Purple Dye 
+I: 826 
+C: 0
+
+N: Purple Fabric 
+I: 835 
+C: 0
+
+N: Purple peasant dress 
+I: 1103 
+C: 0
+
+N: Purple Peasant skirt 
+I: 1117 
+C: 0
+
+N: Purple Robe 
+I: 777 
+C: 0
+
+N: Purple Robe Skirt 
+I: 792 
+C: 0
+
+N: Purple Royal Cape 
+I: 677 
+C: 0
+
+N: Purple white dress 
+I: 1055 
+C: 0
+
+N: Purple white skirt 
+I: 1059 
+C: 0
+
+N: Quarterstaff 
+I: 124 
+C: 0
+
+N: Quartz 
+I: 13 
+C: 0
+
+N: Quartz Mining 
+I: 198 
+C: 0
+
+N: Quill and ink 
+I: 1070 
+C: 0
+
+N: Raccoon fur 
+I: 362 
+C: 0
+
+N: Raccoon hat 
+I: 364 
+C: 0
+
+N: Radioactive Rapier 
+I: 1003 
+C: 0
+
+N: Radioactive Rapier From the Shop 
+I: 994 
+C: 0
+
+N: Radioactive Titanium Long Sword 
+I: 991 
+C: 0
+
+N: Rapier 
+I: 462 
+C: 0
+
+N: Rapier of death 
+I: 541 
+C: 0
+
+N: Rat tail 
+I: 146 
+C: 0
+
+N: Raw Meat 
+I: 55 
+C: 0
+
+N: RC Mine 
+I: 928 
+C: 0
+
+N: RC Mine Detonator 
+I: 929 
+C: 0
+
+N: Reasoning Removal Stone 
+I: 645 
+C: 0
+
+N: Recurve Bow 
+I: 886 
+C: 0
+
+N: Red Adventurer's cap 
+I: 660 
+C: 0
+
+N: Red Bandana 
+I: 669 
+C: 0
+
+N: Red Currents 
+I: 515 
+C: 0
+
+N: Red Currents - Blue Berries - Rue Extract 
+I: 637 
+C: 0
+
+N: Red Dragon Cuisses 
+I: 674 
+C: 0
+
+N: Red Dragon Greave 
+I: 673 
+C: 0
+
+N: Red Dragon Helm 
+I: 655 
+C: 0
+
+N: Red Dragon Helm Of Life and Mana 
+I: 969 
+C: 0
+
+N: Red Dragon Mail 
+I: 675 
+C: 0
+
+N: Red Dragon Scale 
+I: 624 
+C: 0
+
+N: Red Dye 
+I: 821 
+C: 0
+
+N: Red Fabric 
+I: 830 
+C: 0
+
+N: Red pink dress 
+I: 1058 
+C: 0
+
+N: Red pink skirt 
+I: 1062 
+C: 0
+
+N: Red Robe 
+I: 785 
+C: 0
+
+N: Red Robe Skirt 
+I: 795 
+C: 0
+
+N: Red Rose 
+I: 6 
+C: 0
+
+N: Red Royal Cape 
+I: 676 
+C: 0
+
+N: Red Scarf 
+I: 805 
+C: 0
+
+N: Red Snake Skin 
+I: 83 
+C: 0
+
+N: Red Snapdragons 
+I: 10 
+C: 0
+
+N: Red Tunic 
+I: 765 
+C: 0
+
+N: Red Tunic White Shirt 
+I: 768 
+C: 0
+
+N: Red vest 
+I: 1052 
+C: 0
+
+N: Refined Vegetal Mixture 
+I: 641 
+C: 0
+
+N: Ring Mold 
+I: 275 
+C: 0
+
+N: Ring of Anitora 
+I: 375 
+C: 0
+
+N: Ring of Bethel 
+I: 377 
+C: 0
+
+N: Ring of Damage 
+I: 128 
+C: 0
+
+N: Ring of Damage Building 
+I: 229 
+C: 0
+
+N: Ring of Desert Pines 
+I: 101 
+C: 0
+
+N: Ring of Disengagement 
+I: 127 
+C: 0
+
+N: Ring of Egratia 
+I: 381 
+C: 0
+
+N: Ring of Emerald Valley 
+I: 390 
+C: 0
+
+N: Ring of Glacmor 
+I: 389 
+C: 0
+
+N: Ring of Hulda 
+I: 384 
+C: 0
+
+N: Ring of Hurquin 
+I: 388 
+C: 0
+
+N: Ring of Idaloran 
+I: 376 
+C: 0
+
+N: Ring of Imbroglio Islands 
+I: 387 
+C: 0
+
+N: Ring of Irinveron 
+I: 383 
+C: 0
+
+N: Ring of Iscarlith 
+I: 382 
+C: 0
+
+N: Ring of Isla Prima 
+I: 100 
+C: 0
+
+N: Ring of Isle of the Forgotten 
+I: 386 
+C: 0
+
+N: Ring of Kusamura 
+I: 380 
+C: 0
+
+N: Ring of Mana Destruction 
+I: 562 
+C: 0
+
+N: Ring of Mana Destruction Building 
+I: 560 
+C: 0
+
+N: Ring of Massive Mana Destruction 
+I: 563 
+C: 0
+
+N: Ring of Massive Mana Destruction Building 
+I: 561 
+C: 0
+
+N: Ring of Melinis 
+I: 1083 
+C: 0
+
+N: Ring of Morcraven Marsh 
+I: 1081 
+C: 0
+
+N: Ring of Naralik 
+I: 44 
+C: 0
+
+N: Ring of Palon Vertas 
+I: 379 
+C: 0
+
+N: Ring of Portland 
+I: 102 
+C: 0
+
+N: Ring of Power 
+I: 354 
+C: 0
+
+N: Ring of Sedicolis 
+I: 378 
+C: 0
+
+N: Ring of SRM 
+I: 1082 
+C: 0
+
+N: Ring of Trassian 
+I: 385 
+C: 0
+
+N: Ring of Valley of the Dwarves 
+I: 103 
+C: 0
+
+N: Ring of White Stone 
+I: 99 
+C: 0
+
+N: Rope 
+I: 714 
+C: 0
+
+N: Rose Bouquet 
+I: 977 
+C: 0
+
+N: Rose Quartz 
+I: 14 
+C: 0
+
+N: Rose Quartz Mining 
+I: 199 
+C: 0
+
+N: Rostogol Stone 
+I: 355 
+C: 0
+
+N: Ruby 
+I: 50 
+C: 0
+
+N: Ruby embedding 
+I: 217 
+C: 0
+
+N: Ruby Mining 
+I: 201 
+C: 0
+
+N: Ruby Processing 
+I: 209 
+C: 0
+
+N: Rue 
+I: 510 
+C: 0
+
+N: Saltpeter 
+I: 717 
+C: 0
+
+N: Santa Hat 
+I: 815 
+C: 0
+
+N: Sapphire 
+I: 49 
+C: 0
+
+N: Sapphire embedding 
+I: 215 
+C: 0
+
+N: Sapphire Mining 
+I: 203 
+C: 0
+
+N: Sapphire Processing 
+I: 207 
+C: 0
+
+N: Saving Stone 
+I: 711 
+C: 0
+
+N: Saw 
+I: 899 
+C: 0
+
+N: Scissor 
+I: 839 
+C: 0
+
+N: Scotty Died removal 
+I: 1157 
+C: 0
+
+N: Scythe 
+I: 937 
+C: 0
+
+N: Second Hand Steel Axe 
+I: 351 
+C: 0
+
+N: Second Hand Titanium Chain Mail 
+I: 281 
+C: 0
+
+N: Second Hand Titanium Long Sword 
+I: 278 
+C: 0
+
+N: Sedicolis Ring Building 
+I: 394 
+C: 0
+
+N: Seridium Bar 
+I: 618 
+C: 0
+
+N: Seridium Medallion Building 
+I: 616 
+C: 0
+
+N: Seridium Mining 
+I: 613 
+C: 0
+
+N: Seridium Molding 
+I: 615 
+C: 0
+
+N: Seridium Ore 
+I: 617 
+C: 0
+
+N: Seridium Smelting 
+I: 614 
+C: 0
+
+N: Serpent Stone 
+I: 150 
+C: 0
+
+N: Shields Construction 
+I: 193 
+C: 0
+
+N: Short Bow 
+I: 881 
+C: 0
+
+N: Silver Bar 
+I: 109 
+C: 0
+
+N: Silver Circlet 
+I: 662 
+C: 0
+
+N: Silver Crown 
+I: 666 
+C: 0
+
+N: Silver Medallion 
+I: 95 
+C: 0
+
+N: Silver Medallions Building 
+I: 220 
+C: 0
+
+N: Silver Ore 
+I: 18 
+C: 0
+
+N: Silver Ring 
+I: 80 
+C: 0
+
+N: Silver Rings Building 
+I: 218 
+C: 0
+
+N: Silver Tiara 
+I: 664 
+C: 0
+
+N: Skeleton key 
+I: 410 
+C: 0
+
+N: Skeptic removal 
+I: 1027 
+C: 0
+
+N: Skull Crossbones Scarf 
+I: 803 
+C: 0
+
+N: Skull key 
+I: 409 
+C: 0
+
+N: Skunk fur 
+I: 363 
+C: 0
+
+N: Skunk hat 
+I: 365 
+C: 0
+
+N: Small Dragon Scale 
+I: 58 
+C: 0
+
+N: Small Mine 
+I: 723 
+C: 0
+
+N: Snare 
+I: 715 
+C: 0
+
+N: Snow Leopard fur 
+I: 444 
+C: 0
+
+N: Spear 
+I: 681 
+C: 0
+
+N: Spirit Essence 
+I: 35 
+C: 0
+
+N: Square Vial 
+I: 875 
+C: 0
+
+N: Sslessar Stone Construction 
+I: 579 
+C: 0
+
+N: Sslessar Summoning Stone 
+I: 569 
+C: 0
+
+N: Staff of Protection 
+I: 373 
+C: 0
+
+N: Staff of the mage 
+I: 370 
+C: 0
+
+N: Stars Medallion 
+I: 107 
+C: 0
+
+N: Stars Medallion Building 
+I: 225 
+C: 0
+
+N: Steel Axe 
+I: 317 
+C: 0
+
+N: Steel Bar 
+I: 111 
+C: 0
+
+N: Steel Chain Mail 
+I: 141 
+C: 0
+
+N: Steel Chainmail Torso Construction 
+I: 190 
+C: 0
+
+N: Steel Cuisses 
+I: 449 
+C: 0
+
+N: Steel Cuisses of Mana Drain 
+I: 551 
+C: 0
+
+N: Steel Greave 
+I: 448 
+C: 0
+
+N: Steel Greave of Ubber Defense 
+I: 552 
+C: 0
+
+N: Steel Helm 
+I: 451 
+C: 0
+
+N: Steel Helm of Mana 
+I: 481 
+C: 0
+
+N: Steel Long Sword 
+I: 117 
+C: 0
+
+N: Steel Long Sword Construction 
+I: 173 
+C: 0
+
+N: Steel Long Sword of Fire 
+I: 297 
+C: 0
+
+N: Steel Long Sword of Ice 
+I: 298 
+C: 0
+
+N: Steel Long Sword of Magic 
+I: 299 
+C: 0
+
+N: Steel Plate Mail 
+I: 455 
+C: 0
+
+N: Steel Plate Mail of Healing 
+I: 550 
+C: 0
+
+N: Steel Shield 
+I: 132 
+C: 0
+
+N: Steel Shield Construction 
+I: 195 
+C: 0
+
+N: Steel Two Edged Sword 
+I: 118 
+C: 0
+
+N: Steel Two Edged Sword of Fire 
+I: 300 
+C: 0
+
+N: Steel Two Edged Sword of Ice 
+I: 301 
+C: 0
+
+N: Steel Two Edged Sword of Magic 
+I: 302 
+C: 0
+
+N: Steel Two Edged Sword of Thermal 
+I: 303 
+C: 0
+
+N: Sulfur 
+I: 17 
+C: 0
+
+N: Sunbreaker 
+I: 459 
+C: 0
+
+N: Sunbreaker of destruction 
+I: 542 
+C: 0
+
+N: Sunflower 
+I: 0 
+C: 0
+
+N: Sun Medallion 
+I: 105 
+C: 0
+
+N: Sun Medallion Building 
+I: 222 
+C: 0
+
+N: Sun Tzu Stone 
+I: 1036 
+C: 0
+
+N: Swamp Candles 
+I: 12 
+C: 0
+
+N: Sword Construction 
+I: 170 
+C: 0
+
+N: The artificer cape 
+I: 336 
+C: 0
+
+N: There is no fork removal 
+I: 1042 
+C: 0
+
+N: The summoner removal 
+I: 1085 
+C: 0
+
+N: Thread 
+I: 88 
+C: 0
+
+N: Tiger fur 
+I: 445 
+C: 0
+
+N: Tiger Lilly 
+I: 4 
+C: 0
+
+N: Tiger Stone Construction 
+I: 581 
+C: 0
+
+N: Tiger Summoning Stone 
+I: 571 
+C: 0
+
+N: Tin Bar 
+I: 610 
+C: 0
+
+N: Tin Mining 
+I: 597 
+C: 0
+
+N: Tin Molding 
+I: 601 
+C: 0
+
+N: Tin Ore 
+I: 608 
+C: 0
+
+N: Tin Smelting 
+I: 599 
+C: 0
+
+N: Titanium Axe 
+I: 318 
+C: 0
+
+N: Titanium Bar 
+I: 112 
+C: 0
+
+N: Titanium Chain Mail 
+I: 144 
+C: 0
+
+N: Titanium Chainmail Torso Construction 
+I: 191 
+C: 0
+
+N: Titanium Cuisses 
+I: 454 
+C: 0
+
+N: Titanium Cuisses of Cooldown Removal 
+I: 553 
+C: 0
+
+N: Titanium Greave 
+I: 453 
+C: 0
+
+N: Titanium Greave of Mirroring 
+I: 554 
+C: 0
+
+N: Titanium Helm 
+I: 452 
+C: 0
+
+N: Titanium Helm of Life 
+I: 480 
+C: 0
+
+N: Titanium Long Construction 
+I: 176 
+C: 0
+
+N: Titanium Ore 
+I: 78 
+C: 0
+
+N: Titanium Plate Mail 
+I: 456 
+C: 0
+
+N: Titanium Plate Mail of Freezing 
+I: 549 
+C: 0
+
+N: Titanium Serpent Sword 
+I: 121 
+C: 0
+
+N: Titanium Serpent Sword Construction 
+I: 177 
+C: 0
+
+N: Titanium Serpent Sword of Fire 
+I: 312 
+C: 0
+
+N: Titanium Serpent Sword of Ice 
+I: 313 
+C: 0
+
+N: Titanium Serpent Sword of Magic 
+I: 314 
+C: 0
+
+N: Titanium Serpent Sword of Thermal 
+I: 315 
+C: 0
+
+N: Titanium Shield 
+I: 450 
+C: 0
+
+N: Titanium Shield of Life Drain 
+I: 548 
+C: 0
+
+N: Titanium Short Construction 
+I: 175 
+C: 0
+
+N: Titanium/Steel Alloy Long Sword 
+I: 120 
+C: 0
+
+N: Titanium/Steel Alloy Long Sword of Fire 
+I: 308 
+C: 0
+
+N: Titanium/Steel Alloy Long Sword of Ice 
+I: 309 
+C: 0
+
+N: Titanium/Steel Alloy Long Sword of Magic 
+I: 310 
+C: 0
+
+N: Titanium/Steel Alloy Long Sword of Thermal 
+I: 311 
+C: 0
+
+N: Titanium/Steel Alloy Short Sword 
+I: 119 
+C: 0
+
+N: Titanium/Steel Alloy Short Sword of Fire 
+I: 304 
+C: 0
+
+N: Titanium/Steel Alloy Short Sword of Ice 
+I: 305 
+C: 0
+
+N: Titanium/Steel Alloy Short Sword of Magic 
+I: 306 
+C: 0
+
+N: Titanium/Steel Alloy Short Sword of Thermal 
+I: 307 
+C: 0
+
+N: Toadstool 
+I: 505 
+C: 0
+
+N: To Damage predictor 
+I: 744 
+C: 0
+
+N: To Hit predictor 
+I: 743 
+C: 0
+
+N: Torso Armor Construction 
+I: 179 
+C: 0
+
+N: Torso Padded Leather Construction 
+I: 192 
+C: 0
+
+N: Training arrows 
+I: 880 
+C: 0
+
+N: Trassian Ring Building 
+I: 401 
+C: 0
+
+N: Treasure finder 
+I: 1138 
+C: 0
+
+N: Tree Mushroom 
+I: 539 
+C: 0
+
+N: True Sight Potion 
+I: 506 
+C: 0
+
+N: Tulips 
+I: 514 
+C: 0
+
+N: Tunic of the Ninja 
+I: 1005 
+C: 0
+
+N: Turqoise 
+I: 621 
+C: 0
+
+N: Two Edged Steel Sword Construction 
+I: 174 
+C: 0
+
+N: Underworlder removal 
+I: 1041 
+C: 0
+
+N: Unicorn Dung 
+I: 1162 
+C: 0
+
+N: Unicorn Medallion 
+I: 104 
+C: 0
+
+N: Unicorn Medallion Building 
+I: 223 
+C: 0
+
+N: Universal Hood 
+I: 816 
+C: 0
+
+N: Used Blue Dragon Cuisses 
+I: 1145 
+C: 0
+
+N: Used Blue Dragon Greave 
+I: 1144 
+C: 0
+
+N: Used Blue Dragon Helm 
+I: 1148 
+C: 0
+
+N: Used Blue Dragon Mail 
+I: 1146 
+C: 0
+
+N: Used Blue Dragon Shield 
+I: 1147 
+C: 0
+
+N: Used Cutlass 
+I: 474 
+C: 0
+
+N: Used Eagle Wing 
+I: 477 
+C: 0
+
+N: Used Emerald Claymore 
+I: 473 
+C: 0
+
+N: Used Iron Axe 
+I: 350 
+C: 0
+
+N: Used Jagged Saber 
+I: 479 
+C: 0
+
+N: Used Orc Slayer 
+I: 476 
+C: 0
+
+N: Used Rapier 
+I: 478 
+C: 0
+
+N: Used Steel Cuisses 
+I: 465 
+C: 0
+
+N: Used Steel Greave 
+I: 464 
+C: 0
+
+N: Used Steel Helm 
+I: 467 
+C: 0
+
+N: Used Steel Plate Mail 
+I: 471 
+C: 0
+
+N: Used Steel Two Edged Sword 
+I: 280 
+C: 0
+
+N: Used Sunbreaker 
+I: 475 
+C: 0
+
+N: Used Titanium Cuisses 
+I: 470 
+C: 0
+
+N: Used Titanium Greave 
+I: 469 
+C: 0
+
+N: Used Titanium Helm 
+I: 468 
+C: 0
+
+N: Used Titanium Plate Mail 
+I: 472 
+C: 0
+
+N: Used Titanium Shield 
+I: 466 
+C: 0
+
+N: Valerian 
+I: 509 
+C: 0
+
+N: Vegetables 
+I: 42 
+C: 0
+
+N: Vegetal Removal Stone 
+I: 651 
+C: 0
+
+N: Vial Mold 
+I: 625 
+C: 0
+
+N: Vial Mold Building 
+I: 630 
+C: 0
+
+N: Vitality Removal Stone 
+I: 648 
+C: 0
+
+N: VOTD Ring Building 
+I: 226 
+C: 0
+
+N: Warlock's Cloak 
+I: 339 
+C: 0
+
+N: Warm Fur Gloves 
+I: 89 
+C: 0
+
+N: Water Essence 
+I: 32 
+C: 0
+
+N: Weapon Construction 
+I: 169 
+C: 0
+
+N: Wheat 
+I: 536 
+C: 0
+
+N: Wheat - Daffodils - Feran Horn Extract 
+I: 640 
+C: 0
+
+N: Wheat - Valerian - Mugwort Extract 
+I: 639 
+C: 0
+
+N: Whilhelm Hood removal 
+I: 1030 
+C: 0
+
+N: White Asiatic Lilly 
+I: 8 
+C: 0
+
+N: White blue peasant dress 
+I: 1101 
+C: 0
+
+N: White Blue Peasant skirt 
+I: 1115 
+C: 0
+
+N: White boots 
+I: 1094 
+C: 0
+
+N: White Chanterelle 
+I: 537 
+C: 0
+
+N: White Chanterelle - Ogre Toes - Tree Mushroom Extract 
+I: 638 
+C: 0
+
+N: White doublet 
+I: 1104 
+C: 0
+
+N: White Fabric 
+I: 828 
+C: 0
+
+N: White gold wedding dress 
+I: 1098 
+C: 0
+
+N: White Gold wedding skirt 
+I: 1112 
+C: 0
+
+N: White Horse Whistle 
+I: 995 
+C: 0
+
+N: White rabbit fur 
+I: 66 
+C: 0
+
+N: White red peasant dress 
+I: 1100 
+C: 0
+
+N: White Red Peasant skirt 
+I: 1114 
+C: 0
+
+N: White Red Striped Baggy Pants 
+I: 798 
+C: 0
+
+N: White Robe 
+I: 780 
+C: 0
+
+N: White Robe Skirt 
+I: 790 
+C: 0
+
+N: White silver wedding dress 
+I: 1099 
+C: 0
+
+N: White Silver wedding skirt 
+I: 1113 
+C: 0
+
+N: WhiteStone Ring Building 
+I: 232 
+C: 0
+
+N: White Tiger fur 
+I: 446 
+C: 0
+
+N: White Tunic 
+I: 767 
+C: 0
+
+N: White Wizard Hat 
+I: 1097 
+C: 0
+
+N: Will Removal Stone 
+I: 646 
+C: 0
+
+N: Wine 
+I: 23 
+C: 0
+
+N: Wolf Fur 
 I: 61 
-C: 1
-E: 84 1
-E: 86 1
-E: 87 1
-E: 0
+C: 0
 
+N: Wolfram Bar 
+I: 483 
+C: 0
 
-N: magic essence
-I: 126
-C: 1
-E: 263 1
-E: 0
+N: Wolframite 
+I: 482 
+C: 0
 
+N: Wood Branches 
+I: 334 
+C: 0
 
-N: gold ring
-I: 128		#id
-C: 1		# compound
-E: 59  3	# fire essence
-E: 168 2	# gold bar
-E: 0
+N: Wooden Battle Hammer 
+I: 122 
+C: 0
 
+N: Wooden Shield 
+I: 129 
+C: 0
 
-N: water essence
-I: 150
-C: 1
-E: 0
+N: Wooden Staff 
+I: 123 
+C: 0
 
+N: Wood Handle 
+I: 353 
+C: 0
 
-N:gold bar 
-I:168	# id
-C:1		# compound
-E:59 5	#fire essence
-E:81 8	# gold ore
-E:83 3	# coal
-E:0
+N: Wood Logs 
+I: 335 
+C: 0
 
+N: Wormwood 
+I: 521 
+C: 0
 
+N: Yarrow 
+I: 520 
+C: 0
 
-N: matter conglomerate
-I: 309
-C: 1
-E: 58 80  # earth essence
-E: 61 25  # matter essence
-E: 0
+N: Yarrow - Wormwood - Tulips Extract 
+I: 634 
+C: 0
 
-N: enriched energy essence
-I: 1228 
-C: 1
-E: 61 20
-E: 0
+N: Yellow Dye 
+I: 823 
+C: 0
+
+N: Yellow Fabric 
+I: 832 
+C: 0
+
+N: Yellow Robe 
+I: 786 
+C: 0
+
+N: Yellow Robe Skirt 
+I: 796 
+C: 0
+
+N: Yellow Rose 
+I: 5 
+C: 0
+
+N: Yeti Stone Construction 
+I: 582 
+C: 0
+
+N: Yeti Summoning 
+I: 556 
+C: 0
+
+N: Yeti Summoning Stone 
+I: 572 
+C: 0
+
+N: Yew 
+I: 894 
+C: 0
+

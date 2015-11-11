@@ -42,14 +42,14 @@ elState getValidLine(char * line, FILE * stream, int * linenumber)
 }
 
 
-elState loadAllItems(List * list) 
+elState loadAllItems(List * list, char filepath[]) 
 {
 	FILE * itemfile;
 	Item * item = NULL;
 	Item   temp;
 	int    linenumber = 0;
 	
-	if ((itemfile = fopen(ITEMFILE, "r")) != NULL) {
+	if ((itemfile = fopen(filepath, "r")) != NULL) {
 		printf("Loading item list.\n\n");
 
 		initItem(&temp);
@@ -120,7 +120,6 @@ void initItem(Item * item)
 	item->compound = 0;
 	strcpy(item->name, "");
 	item->right = NULL;
-	item->left  = NULL;
 	for (int i = 0; i < MAXITEMS; i++) {
 		item->element[i].id = 0;
 		item->element[i].amount = 0;
@@ -229,6 +228,20 @@ void lookup(List * list, char name[])
 	}
 }
 
-    
+void searchItem(List * list, char name[])
+{
+	Item * scan;
+	
+	if (strcmp("Unknown", name) != 0) {
+		for ( scan = list->head; scan; scan = scan->right) {
+			if ( strstr(scan->name, name ) != NULL ) {
+				showItem(scan);
+			} 
+		}
+	} else {
+		printItems(list);
+	}
+}
+   
         
 // end of el_items.c        

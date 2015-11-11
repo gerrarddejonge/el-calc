@@ -13,8 +13,7 @@
 elState buildShoppingList(List * list, ShoppingCart * cart, char itemname[], int amount);
 elState addToShoppingList(ShoppingCart * cart, Item * item, int amount);
 void    printShoppingList(ShoppingList * shop);
-
-
+//elState addToNeededList(NeededItems * list, NeededItems * item);
 
 
 
