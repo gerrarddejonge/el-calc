@@ -10,7 +10,229 @@
 # ..
 # element n E: 0
 
-N: a/m indicator   #Accuracy/Magic Indicator 
+N: Air Essence 
+I: 34 
+C: 1
+E: 18 1			# silver
+E: 51 1			# diamond
+E: 8 1			# White asiatic lilly
+E: 0
+
+N: Death Essence 
+I: 39 
+C: 1
+E: 16 1			# mercury
+E: 13 1			# quartz
+E: 53 1			# cactus
+E: 0
+
+N: Earth Essence 
+I: 33 
+C: 1
+E: 47 2			# coal
+E: 17 1			# sulfur
+E: 12 1			# swamp candles
+E: 0
+
+N: Energy Essence 
+I: 37 
+C: 1
+E: 46 1			# iron ore
+E: 18 1			# silver ore
+E: 4 1			# tiger lilly
+E: 0
+
+N: Fire Essence 
+I: 31 
+C: 1
+E: 17 1			# sulfur
+E: 6 1			# red rose
+E: 10 1			# red Snapdragons
+E: 0
+
+N: Health Essence 
+I: 40 
+C: 1
+E: 18 2			# silver ore
+E: 3 1			# Chrysanthemum
+E: 0
+
+N: Life Essence 
+I: 38 
+C: 1
+E: 18 1			# silver ore
+E: 0 2			# sunflower
+E: 0
+
+N: Magic Essence 
+I: 41 
+C: 1
+E: 48 1			# Emerald
+E: 2 1			# Impatiens
+E: 11 1			# Lilacs
+E: 0
+
+N: Matter Essence 
+I: 36 
+C: 1
+E: 46 1			# iron ore
+E: 13 1 		# quartz
+E: 14 1			# rose Quartz
+E: 15 1			# blue Quartz
+E: 0
+
+N: Spirit Essence 
+I: 35 
+C: 1
+E: 16 1			# mercury
+E: 45 1			# gold ore
+E: 18 1			# silver ore
+E: 0
+
+N: Water Essence 
+I: 32 
+C: 1
+E: 49 1			# sapphire
+E: 15 1			# blue Quartz
+E: 9 1			# blue lupine
+E: 1 1			# blue star lupine
+E: 0
+
+N: Enriched Death Essence 
+I: 566 
+C: 0
+
+N: Enriched Energy Essence 
+I: 1151 
+C: 0
+
+N: Enriched Fire Essence 
+I: 282 
+C: 1
+E: 31 100		# fire essence
+E: 408 1		# Enrichment Stone
+E: 0
+
+N: Enriched Life Essence 
+I: 329 
+C: 1
+E: 38 100		# life Essence
+E: 408 1		# Enrichment Stone
+E: 0
+
+N: Enriched Magic Essence 
+I: 286 
+C: 1
+E: 41 100		# Magic Essence
+E: 408 1		# Enrichment Stone
+E: 0
+
+N: Enriched Water Essence 
+I: 283 
+C: 0
+
+N: Iron Bar 
+I: 108 
+C: 1
+E: 46 7			# iron ore
+E: 47 3			# coal
+E: 31 2			# fire Essence
+E: 0
+
+N: Steel Bar 
+I: 111 
+C: 1
+E: 46 8			# iron ore
+E: 47 5			# coal
+E: 31 3			# fire Essence
+E: 0
+
+N: Gold Bar 
+I: 110 
+C: 1
+E: 18 8			# silver ore
+E: 47 3			# coal
+E: 31 5			# fire essence
+E: 0
+
+N: Silver Bar 
+I: 109 
+C: 1
+E: 45 8			# gold ore
+E: 47 3			# coal
+E: 31 4			# fire essence
+E: 0
+
+N: Titanium Bar 
+I: 112 
+C: 1
+E: 78 8			# Titanium ore
+E: 47 3			# coal
+E: 31 7			# fire essence
+E: 0
+
+N: Bronze Bar 
+I: 611 
+C: 1
+E: 609 1		# Copper bar
+E: 610 1		# tin bar
+E: 31 30		# fire essence
+E: 0
+
+N: Copper Bar 
+I: 609 
+C: 1
+E: 607 10		# copper ore
+E: 47 10		# coal
+E: 31 20		# fire essence
+E: 0
+
+N: Dvarium Bar 
+I: 990 
+C: 1
+E: 989 15		# dvarium ore
+E: 150 1		# serpent stone
+E: 47 8			# coal
+E: 31 30		# fire essence
+E: 0
+
+N: Hydrogenium Bar 
+I: 441 
+C: 1
+E: 440 10		# Hydrogenium ore
+E: 47 4			# coal
+E: 31 10		# fire essence
+E: 0
+
+N: Seridium Bar 
+I: 618 
+C: 1
+E: 617 6		# Seridium ore
+E: 47 10		# coal
+E: 31 20		# fire essence
+E: 0
+
+N: Tin Bar 
+I: 610 
+C: 1
+E: 608 6		# tin ore
+E: 47 10		# coal
+E: 31 20		# fire essence
+E: 0
+
+
+
+
+
+
+N: Ashes 
+I: 716 
+C: 1
+E: 334 3		# wood branches
+E: 31 1			# fire essence
+E: 0
+
+N: a/m indicator	#Accuracy/Magic Indicator 
 I: 738 
 C: 0
 
@@ -22,10 +244,6 @@ N: a/d ndicator
 I: 736 
 C: 0
 
-N: air essence 
-I: 34 
-C: 0
-
 N: ale 
 I: 24 
 C: 0
@@ -34,37 +252,6 @@ N: alembic
 I: 626 
 C: 0
 
-N: alembic building 
-I: 631 
-C: 0
-
-N: amber 
-I: 1069 
-C: 0
-
-N: animal removal stone 
-I: 650 
-C: 0
-
-N: anitora ring building 
-I: 391 
-C: 0
-
-N: antisocial removal 
-I: 927 
-C: 0
-
-N: archery arena ticket 
-I: 993 
-C: 0
-
-N: arctic chimeran summoning 
-I: 555 
-C: 0
-
-N: Arctic Chim Stone Construction 
-I: 584 
-C: 0
 
 N: Arctic Chim Summoning Stone 
 I: 574 
@@ -96,10 +283,6 @@ C: 0
 
 N: Artificial Removal Stone 
 I: 653 
-C: 0
-
-N: Ashes 
-I: 716 
 C: 0
 
 N: Attack predictor 
@@ -140,30 +323,6 @@ C: 0
 
 N: Beaver fur 
 I: 145 
-C: 0
-
-N: Bethel Ring Building 
-I: 393 
-C: 0
-
-N: Big Book of Crafting 
-I: 1016 
-C: 0
-
-N: Big Book of Engineering 
-I: 1018 
-C: 0
-
-N: Big Book of Manufacturing 
-I: 1014 
-C: 0
-
-N: Big Book of Potions 
-I: 1017 
-C: 0
-
-N: Big Book of Tailoring 
-I: 1015 
 C: 0
 
 N: Binding Stone 
@@ -1518,10 +1677,6 @@ N: Bread
 I: 21 
 C: 0
 
-N: Bronze Bar 
-I: 611 
-C: 0
-
 N: Bronze Cuisses 
 I: 592 
 C: 0
@@ -1724,10 +1879,6 @@ C: 0
 
 N: Coordination Removal Stone 
 I: 643 
-C: 0
-
-N: Copper Bar 
-I: 609 
 C: 0
 
 N: Copper Mining 
@@ -1946,10 +2097,6 @@ N: Day of Summoners Stone
 I: 1066 
 C: 0
 
-N: Death Essence 
-I: 39 
-C: 0
-
 N: Dedicated Harvester removal 
 I: 1156 
 C: 0
@@ -2006,10 +2153,6 @@ N: Dung teleporter
 I: 1152 
 C: 0
 
-N: Dvarium Bar 
-I: 990 
-C: 0
-
 N: Dvarium Mining 
 I: 986 
 C: 0
@@ -2032,10 +2175,6 @@ C: 0
 
 N: Eagle Wing of Extra Damage 
 I: 545 
-C: 0
-
-N: Earth Essence 
-I: 33 
 C: 0
 
 N: Egratia Ring Building 
@@ -2078,10 +2217,6 @@ N: Empty Vial
 I: 25 
 C: 0
 
-N: Energy Essence 
-I: 37 
-C: 0
-
 N: Enhanced Iron Cuisses 
 I: 967 
 C: 0
@@ -2104,30 +2239,6 @@ C: 0
 
 N: Enhanced Wooden Shield 
 I: 130 
-C: 0
-
-N: Enriched Death Essence 
-I: 566 
-C: 0
-
-N: Enriched Energy Essence 
-I: 1151 
-C: 0
-
-N: Enriched Fire Essence 
-I: 282 
-C: 0
-
-N: Enriched Life Essence 
-I: 329 
-C: 0
-
-N: Enriched Magic Essence 
-I: 286 
-C: 0
-
-N: Enriched Water Essence 
-I: 283 
 C: 0
 
 N: Enrichment Stone 
@@ -2185,14 +2296,6 @@ C: 0
 N: Fire bolts 
 I: 892 
 C: 0
-
-N: Fire Essence 
-I: 31 
-C: 1
-E: 17 1
-E: 6 1
-E: 10 1
-E: 0
 
 N: Fluffy Stone Construction 
 I: 586 
@@ -2288,10 +2391,6 @@ C: 0
 
 N: Godless removal 
 I: 992 
-C: 0
-
-N: Gold Bar 
-I: 110 
 C: 0
 
 N: Gold Circlet 
@@ -2450,10 +2549,6 @@ N: Head Armor Construction
 I: 182 
 C: 0
 
-N: Health Essence 
-I: 40 
-C: 0
-
 N: Heavenspawn Medallion 
 I: 619 
 C: 0
@@ -2488,10 +2583,6 @@ C: 0
 
 N: Hurquin Ring Building 
 I: 404 
-C: 0
-
-N: Hydrogenium Bar 
-I: 441 
 C: 0
 
 N: Hydrogenium Ore 
@@ -2580,10 +2671,6 @@ C: 0
 
 N: Iron Axe 
 I: 316 
-C: 0
-
-N: Iron Bar 
-I: 108 
 C: 0
 
 N: Iron Battle Hammer 
@@ -2742,10 +2829,6 @@ N: Leopard fur
 I: 443 
 C: 0
 
-N: Life Essence 
-I: 38 
-C: 0
-
 N: Light Blue Robe 
 I: 779 
 C: 0
@@ -2790,10 +2873,6 @@ N: Magic bolts
 I: 891 
 C: 0
 
-N: Magic Essence 
-I: 41 
-C: 0
-
 N: Magic Potion 
 I: 357 
 C: 0
@@ -2824,10 +2903,6 @@ C: 0
 
 N: Matter Conglomerate 
 I: 612 
-C: 0
-
-N: Matter Essence 
-I: 36 
 C: 0
 
 N: Mead 
@@ -3734,10 +3809,6 @@ N: Sedicolis Ring Building
 I: 394 
 C: 0
 
-N: Seridium Bar 
-I: 618 
-C: 0
-
 N: Seridium Medallion Building 
 I: 616 
 C: 0
@@ -3768,10 +3839,6 @@ C: 0
 
 N: Short Bow 
 I: 881 
-C: 0
-
-N: Silver Bar 
-I: 109 
 C: 0
 
 N: Silver Circlet 
@@ -3850,10 +3917,6 @@ N: Spear
 I: 681 
 C: 0
 
-N: Spirit Essence 
-I: 35 
-C: 0
-
 N: Square Vial 
 I: 875 
 C: 0
@@ -3884,10 +3947,6 @@ C: 0
 
 N: Steel Axe 
 I: 317 
-C: 0
-
-N: Steel Bar 
-I: 111 
 C: 0
 
 N: Steel Chain Mail 
@@ -4046,10 +4105,6 @@ N: Tiger Summoning Stone
 I: 571 
 C: 0
 
-N: Tin Bar 
-I: 610 
-C: 0
-
 N: Tin Mining 
 I: 597 
 C: 0
@@ -4070,9 +4125,6 @@ N: Titanium Axe
 I: 318 
 C: 0
 
-N: Titanium Bar 
-I: 112 
-C: 0
 
 N: Titanium Chain Mail 
 I: 144 
@@ -4402,10 +4454,6 @@ N: Warm Fur Gloves
 I: 89 
 C: 0
 
-N: Water Essence 
-I: 32 
-C: 0
-
 N: Weapon Construction 
 I: 169 
 C: 0
@@ -4570,7 +4618,7 @@ N: Yarrow
 I: 520 
 C: 0
 
-N: Yarrow - Wormwood - Tulips Extract 
+N: ywt extract   # Yarrow - Wormwood - Tulips Extract 
 I: 634 
 C: 0
 
@@ -4608,5 +4656,61 @@ C: 0
 
 N: Yew 
 I: 894 
+C: 0
+
+N: alembic building 
+I: 631 
+C: 0
+
+N: amber 
+I: 1069 
+C: 0
+
+N: animal removal stone 
+I: 650 
+C: 0
+
+N: anitora ring building 
+I: 391 
+C: 0
+
+N: antisocial removal 
+I: 927 
+C: 0
+
+N: archery arena ticket 
+I: 993 
+C: 0
+
+N: arctic chimeran summoning 
+I: 555 
+C: 0
+
+N: Arctic Chim Stone Construction 
+I: 584 
+C: 0
+
+N: Bethel Ring Building 
+I: 393 
+C: 0
+
+N: Big Book of Crafting 
+I: 1016 
+C: 0
+
+N: Big Book of Engineering 
+I: 1018 
+C: 0
+
+N: Big Book of Manufacturing 
+I: 1014 
+C: 0
+
+N: Big Book of Potions 
+I: 1017 
+C: 0
+
+N: Big Book of Tailoring 
+I: 1015 
 C: 0
 

@@ -102,8 +102,6 @@ bool getEnvPath(char path[])
 	pid_t pid;
 	int ret;
 	
-	__DEBUGPRINT__;
-	
 	/* Get our PID and build the name of the link in /proc */
 	pid = getpid();
 	
@@ -116,20 +114,14 @@ bool getEnvPath(char path[])
 	ret = readlink(linkname, path, PATHSIZE);
 	
 	/* In case of an error, leave the handling up to the caller */
-	if (ret == -1)
-		path[0] = '\0';
-		
-		__DEBUGPRINT__;
-	
+	if (ret == -1) {
+		path[0] = '\0';	
 		return false;
-	
+	}
 	/* Report insufficient buffer size */
 	if (ret >= PATHSIZE) {
 		errno = ERANGE;
 		path[0] = '\0';
-
-		__DEBUGPRINT__;
-
 		return false;
 	}
 	
@@ -139,12 +131,7 @@ bool getEnvPath(char path[])
 	
 	for ( ; path[ret] != '/'; ret--) {
 		path[ret] = '\0';
-		
-		__DEBUGPRINT__;
-		
 	}
-
-	__DEBUGPRINT__;
 
 	return true;
 }
