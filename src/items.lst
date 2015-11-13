@@ -10,6 +10,8 @@
 # ..
 # element n E: 0
 
+#========== Alchemy ==========
+
 N: Air Essence 
 I: 34 
 C: 1
@@ -220,10 +222,239 @@ E: 47 10		# coal
 E: 31 20		# fire essence
 E: 0
 
+N: Matter Conglomerate 
+I: 612 
+C: 1
+E: 33 80		# Earth essence
+E: 36 25		# Matter essence
+E: 0
+
+#========== Weapons ==========
+
+N: Iron Sword 
+I: 115 
+C: 1
+E: 108 10		# iron bar
+E: 111 1		# steel bar
+E: 31 2			# fire essence
+E: 0
+
+N: Iron Broad Sword 
+I: 116 
+C: 1
+E: 108 12		# iron bar
+E: 111 2		# steel bar
+E: 31 3			# fire essence
+E: 0
+
+N: Steel Long Sword 
+I: 117 
+C: 0
+E: 108 2		# iron bar
+E: 111 12		# steel bar
+E: 31 4			# fire essence
+E: 0
+
+N: Steel Two Edged Sword 
+I: 118 
+C: 1
+E: 108 2		# iron bar
+E: 111 16		# steel bar
+E: 31 4			# fire essence
+E: 0
+
+N: Titanium/Steel Alloy Short Sword 
+I: 119 
+C: 1
+E: 112 6		# titanium bar
+E: 111 6		# steel bar
+E: 31 5			# fire essence
+E: 0
+
+N: Titanium/Steel Alloy Long Sword 
+I: 120 
+C: 1
+E: 112 8		# titanium bar
+E: 111 8		# steel bar
+E: 31 6			# fire essence
+E: 282 1		# Enriched fire essence
+E: 0
+
+N: Titanium Serpent Sword 
+I: 121 
+C: 0
 
 
 
 
+
+
+
+
+
+
+#========== Armors ==========
+
+N: Padded Leather Armor 
+I: 97 
+C: 1
+E: 126 8		# leather
+E: 108 3		# iron bar
+E: 88 14		# thread
+E: 0
+
+N: Augmented Leather Armor 
+I: 503 
+C: 1
+E: 97 1			# padded leather armor
+E: 108 1		# iron Bar
+E: 88 6			# thread
+E: 0
+
+N: Iron Chain Mail 
+I: 98 
+C: 1
+E: 108 14		# iron bar
+E: 31 5			# fire essence
+E: 126 3		# leather
+E: 88 6			# thread
+E: 0
+
+N: Steel Chain Mail 
+I: 141 
+C: 1
+E: 111 14		# iron bar
+E: 31 6			# fire essence
+E: 126 3		# leather
+E: 88 6			# thread
+E: 0
+
+N: Titanium Chain Mail 
+I: 144 
+C: 1
+E: 112 14		# titanium bar
+E: 282 1		# Enriched fire essence
+E: 31 10		# fire essence
+E: 126 3		# leather
+E: 88 6			# thread
+E: 0
+
+
+N: Iron Plate Mail 
+I: 319 
+C: 1
+E: 111 30		# iron bar
+E: 282 2		# Enriched fire essence
+E: 31 30		# fire essence
+E: 126 5		# leather
+E: 88 6			# thread
+E: 0
+
+N: Steel Plate Mail 
+I: 455 
+C: 0
+
+N: Titanium Plate Mail 
+I: 456 
+C: 0
+
+N: Blue Dragon Mail 
+I: 1088 
+C: 0
+
+
+
+N: Leather Pants 
+I: 142 
+C: 1
+E: 126 7		# leather
+E: 88 10		# thread
+E: 0
+
+N: Augmented Leather Pants 
+I: 540 
+C: 1
+E: 142 1		# leather
+E: 108 1		# iron bar
+E: 88 5			# thread
+E: 0
+
+N: Iron Cuisses 
+I: 320 
+C: 0
+
+N: Steel Cuisses 
+I: 449 
+C: 0
+
+N: Titanium Cuisses 
+I: 454 
+C: 0
+
+N: Blue Dragon Cuisses 
+I: 1087 
+C: 0
+
+
+N: Iron Greave 
+I: 322 
+C: 0
+
+N: Steel Greave 
+I: 448 
+C: 0
+
+N: Titanium Greave 
+I: 453 
+C: 0
+
+N: Blue Dragon Greave 
+I: 1086 
+C: 0
+
+
+N: Leather Helm 
+I: 323 
+C: 0
+E: 126 3		# leather
+E: 88 4			# thread
+E: 0
+
+N: Iron Helm 
+I: 140 
+C: 0
+
+N: Steel Helm 
+I: 451 
+C: 0
+
+N: Titanium Helm 
+I: 452 
+C: 0
+
+N: Blue Dragon Helm 
+I: 1091 
+C: 0
+
+
+
+
+
+#========== Potions ==========
+
+
+
+
+
+
+
+
+
+
+
+#=============================================================================
+
+#========== Engineering ==========
 
 N: Ashes 
 I: 716 
@@ -244,14 +475,13 @@ N: a/d ndicator
 I: 736 
 C: 0
 
-N: ale 
-I: 24 
-C: 0
-
 N: alembic 
 I: 626 
 C: 0
 
+N: ale 
+I: 24 
+C: 0
 
 N: Arctic Chim Summoning Stone 
 I: 574 
@@ -291,14 +521,6 @@ C: 0
 
 N: Attribute reset stone 
 I: 1155 
-C: 0
-
-N: Augmented Leather Armor 
-I: 503 
-C: 0
-
-N: Augmented Leather Pants 
-I: 540 
 C: 0
 
 N: Axe of freezing 
@@ -499,22 +721,6 @@ C: 0
 
 N: Blue Cavalier Hat 
 I: 813 
-C: 0
-
-N: Blue Dragon Cuisses 
-I: 1087 
-C: 0
-
-N: Blue Dragon Greave 
-I: 1086 
-C: 0
-
-N: Blue Dragon Helm 
-I: 1091 
-C: 0
-
-N: Blue Dragon Mail 
-I: 1088 
 C: 0
 
 N: Blue Dragon Scale 
@@ -2693,32 +2899,17 @@ N: Iron Broad Sword of Ice
 I: 296 
 C: 0
 
-N: Iron Chain Mail 
-I: 98 
-C: 0
 
 N: Iron Chainmail Torso Construction 
 I: 188 
-C: 0
-
-N: Iron Cuisses 
-I: 320 
 C: 0
 
 N: Iron Cuisses Construction 
 I: 186 
 C: 0
 
-N: Iron Greave 
-I: 322 
-C: 0
-
 N: Iron Greaves Construction 
 I: 185 
-C: 0
-
-N: Iron Helm 
-I: 140 
 C: 0
 
 N: Iron Helmet Construction 
@@ -2727,10 +2918,6 @@ C: 0
 
 N: Iron Ore 
 I: 46 
-C: 0
-
-N: Iron Plate Mail 
-I: 319 
 C: 0
 
 N: Iron Plate Mail Construction 
@@ -2743,10 +2930,6 @@ C: 0
 
 N: Iron Shield Construction 
 I: 194 
-C: 0
-
-N: Iron Sword 
-I: 115 
 C: 0
 
 N: Iron Sword Construction 
@@ -2805,16 +2988,9 @@ N: Leather Gloves
 I: 93 
 C: 0
 
-N: Leather Helm 
-I: 323 
-C: 0
 
 N: Leather Helmet Construction 
 I: 183 
-C: 0
-
-N: Leather Pants 
-I: 142 
 C: 0
 
 N: Legs Armor Construction 
@@ -2899,10 +3075,6 @@ C: 0
 
 N: Mana Drain Ward 
 I: 932 
-C: 0
-
-N: Matter Conglomerate 
-I: 612 
 C: 0
 
 N: Mead 
@@ -3091,10 +3263,6 @@ C: 0
 
 N: P2P Shop Coupon 
 I: 1020 
-C: 0
-
-N: Padded Leather Armor 
-I: 97 
 C: 0
 
 N: Padded Leather Pants Construction 
@@ -3823,7 +3991,9 @@ C: 0
 
 N: Seridium Ore 
 I: 617 
-C: 0
+C: 1
+E: 612 1
+E: 0
 
 N: Seridium Smelting 
 I: 614 
@@ -3949,40 +4119,20 @@ N: Steel Axe
 I: 317 
 C: 0
 
-N: Steel Chain Mail 
-I: 141 
-C: 0
-
 N: Steel Chainmail Torso Construction 
 I: 190 
-C: 0
-
-N: Steel Cuisses 
-I: 449 
 C: 0
 
 N: Steel Cuisses of Mana Drain 
 I: 551 
 C: 0
 
-N: Steel Greave 
-I: 448 
-C: 0
-
 N: Steel Greave of Ubber Defense 
 I: 552 
 C: 0
 
-N: Steel Helm 
-I: 451 
-C: 0
-
 N: Steel Helm of Mana 
 I: 481 
-C: 0
-
-N: Steel Long Sword 
-I: 117 
 C: 0
 
 N: Steel Long Sword Construction 
@@ -4001,10 +4151,6 @@ N: Steel Long Sword of Magic
 I: 299 
 C: 0
 
-N: Steel Plate Mail 
-I: 455 
-C: 0
-
 N: Steel Plate Mail of Healing 
 I: 550 
 C: 0
@@ -4015,10 +4161,6 @@ C: 0
 
 N: Steel Shield Construction 
 I: 195 
-C: 0
-
-N: Steel Two Edged Sword 
-I: 118 
 C: 0
 
 N: Steel Two Edged Sword of Fire 
@@ -4125,33 +4267,16 @@ N: Titanium Axe
 I: 318 
 C: 0
 
-
-N: Titanium Chain Mail 
-I: 144 
-C: 0
-
 N: Titanium Chainmail Torso Construction 
 I: 191 
-C: 0
-
-N: Titanium Cuisses 
-I: 454 
 C: 0
 
 N: Titanium Cuisses of Cooldown Removal 
 I: 553 
 C: 0
 
-N: Titanium Greave 
-I: 453 
-C: 0
-
 N: Titanium Greave of Mirroring 
 I: 554 
-C: 0
-
-N: Titanium Helm 
-I: 452 
 C: 0
 
 N: Titanium Helm of Life 
@@ -4166,16 +4291,8 @@ N: Titanium Ore
 I: 78 
 C: 0
 
-N: Titanium Plate Mail 
-I: 456 
-C: 0
-
 N: Titanium Plate Mail of Freezing 
 I: 549 
-C: 0
-
-N: Titanium Serpent Sword 
-I: 121 
 C: 0
 
 N: Titanium Serpent Sword Construction 
@@ -4210,10 +4327,6 @@ N: Titanium Short Construction
 I: 175 
 C: 0
 
-N: Titanium/Steel Alloy Long Sword 
-I: 120 
-C: 0
-
 N: Titanium/Steel Alloy Long Sword of Fire 
 I: 308 
 C: 0
@@ -4228,10 +4341,6 @@ C: 0
 
 N: Titanium/Steel Alloy Long Sword of Thermal 
 I: 311 
-C: 0
-
-N: Titanium/Steel Alloy Short Sword 
-I: 119 
 C: 0
 
 N: Titanium/Steel Alloy Short Sword of Fire 
