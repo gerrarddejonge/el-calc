@@ -128,7 +128,7 @@ bool getEnvPath(char path[])
 	/* Ensure proper NUL termination */
 	path[ret] = '\0';
 	
-	
+	/* removing program name */
 	for ( ; path[ret] != '/'; ret--) {
 		path[ret] = '\0';
 	}

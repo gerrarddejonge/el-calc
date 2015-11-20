@@ -63,7 +63,7 @@ N: Life Essence
 I: 38 
 C: 1
 E: 18 1			# silver ore
-E: 0 2			# sunflower
+E: 9999 2		# sunflower
 E: 0
 
 N: Magic Essence 
@@ -171,6 +171,14 @@ C: 1
 E: 78 8			# Titanium ore
 E: 47 3			# coal
 E: 31 7			# fire essence
+E: 0
+
+N: Wolfram Bar 
+I: 483 
+C: 1
+E: 482 10		# Wolframite
+E: 150 1		# Serpent stone
+E: 31 30		# fire essence
 E: 0
 
 N: Bronze Bar 
@@ -358,6 +366,10 @@ N: Titanium Plate Mail
 I: 456 
 C: 0
 
+N: Black Dragon Mail 
+I: 818 
+C: 0
+
 N: Blue Dragon Mail 
 I: 1088 
 C: 0
@@ -391,6 +403,10 @@ N: Titanium Cuisses
 I: 454 
 C: 0
 
+N: Black Dragon Cuisses 
+I: 819 
+C: 0
+
 N: Blue Dragon Cuisses 
 I: 1087 
 C: 0
@@ -406,6 +422,10 @@ C: 0
 
 N: Titanium Greave 
 I: 453 
+C: 0
+
+N: Black Dragon Greave 
+I: 820 
 C: 0
 
 N: Blue Dragon Greave 
@@ -432,6 +452,10 @@ N: Titanium Helm
 I: 452 
 C: 0
 
+N: Black Dragon Helm 
+I: 817 
+C: 0
+
 N: Blue Dragon Helm 
 I: 1091 
 C: 0
@@ -441,6 +465,98 @@ C: 0
 
 
 #========== Potions ==========
+
+N: Potion of Great Healing 
+I: 285 
+C: 0
+
+
+N: Potion of Harvesting 
+I: 72 
+C: 0
+E: 25 1			# Empty vial
+E: 66 2 		# White rabbit fur
+E: 11 3	 		# Lilacs
+E: 0
+
+N: Potion of Heat Protection 
+I: 951 
+C: 1
+E: 25 1			# empty vial
+E: 32 8			# water essence
+E: 34 8			# air essence
+E: 621 5		# Turqoise
+E: 0
+
+N: Potion of Mana 
+I: 76 
+C: 1
+E: 25 1			# Empty Vial
+E: 23 1			# wine
+E: 9 1			# blue lupine
+E: 0
+
+N: Potion of Manufacturing 
+I: 147 
+C: 1
+E: 25 1 		# empty vial
+E: 49 2			# iron ore
+E: 18 1			# silver ore
+E: 3 1			# Chrysanthemum
+E: 9999 1		# Sunflower
+E: 0
+
+N: Potion of Minor Healing 
+I: 75 
+C: 1
+E: 25 1			# Empty vial
+E: 23 1			# Wine
+E: 9999 1		# Sunflower
+E: 0
+
+N: Potion of Physique 
+I: 71 
+C: 0
+
+N: Potion of Potion 
+I: 568 
+C: 0
+
+N: Potion of Potion Construction 
+I: 590 
+C: 0
+
+N: Potion of Radiation Protection 
+I: 952 
+C: 0
+
+N: Potion of Reasoning 
+I: 69 
+C: 0
+
+N: Potion of Speed Hax 
+I: 979 
+C: 0
+
+N: Potion of Spirit Restoration 
+I: 28 
+C: 0
+
+N: Potion of Summoning 
+I: 79 
+C: 0
+
+N: Potion of Vitality 
+I: 65 
+C: 0
+
+N: Potion of Wildness 
+I: 68 
+C: 0
+
+N: Potion of Will 
+I: 70 
+C: 0
 
 
 
@@ -483,16 +599,8 @@ N: ale
 I: 24 
 C: 0
 
-N: Arctic Chim Summoning Stone 
-I: 574 
-C: 0
-
 N: Armed Orc Stone Construction 
 I: 587 
-C: 0
-
-N: Armed Orc Summoning Stone 
-I: 577 
 C: 0
 
 N: Armor Construction 
@@ -589,22 +697,6 @@ C: 0
 
 N: Black doublet 
 I: 1105 
-C: 0
-
-N: Black Dragon Cuisses 
-I: 819 
-C: 0
-
-N: Black Dragon Greave 
-I: 820 
-C: 0
-
-N: Black Dragon Helm 
-I: 817 
-C: 0
-
-N: Black Dragon Mail 
-I: 818 
 C: 0
 
 N: Black Dragon Scale 
@@ -805,1070 +897,6 @@ C: 0
 
 N: Bones Powder 
 I: 63 
-C: 0
-
-N: Book High Explosive Mine 
-I: 878 
-C: 0
-
-N: Book of Accuracy 
-I: 532 
-C: 0
-
-N: Book of Accuracy/Magic Indicator Building 
-I: 755 
-C: 0
-
-N: Book of AC Fighting 
-I: 1044 
-C: 0
-
-N: Book of A/D Indicator Building 
-I: 753 
-C: 0
-
-N: Book of Advanced Alchemy 
-I: 238 
-C: 0
-
-N: Book of Advanced Potions 
-I: 239 
-C: 0
-
-N: Book of Advanced Summoning 
-I: 253 
-C: 0
-
-N: Book of Anatomy 
-I: 237 
-C: 0
-
-N: Book of Armed Female Orc Sum. 
-I: 431 
-C: 0
-
-N: Book of Armed Male Goblin Sum. 
-I: 427 
-C: 0
-
-N: Book of Armed Male Orc Sum. 
-I: 432 
-C: 0
-
-N: Book of Armed Skeleton Sum. 
-I: 428 
-C: 0
-
-N: Book of Arrow/Bolt head 
-I: 911 
-C: 0
-
-N: Book of Arrows and bolts 
-I: 901 
-C: 0
-
-N: Book of Arrows/Bolts head mold 
-I: 910 
-C: 0
-
-N: Book of Astrology Indicators 
-I: 752 
-C: 0
-
-N: Book of Attack Reduction 
-I: 983 
-C: 0
-
-N: Book of Axe Construction 
-I: 324 
-C: 0
-
-N: Book of Baggy Pants 
-I: 853 
-C: 0
-
-N: Book of Barricade 
-I: 727 
-C: 0
-
-N: Book of Bear Fighting 
-I: 267 
-C: 0
-
-N: Book of Bear Summoning 
-I: 260 
-C: 0
-
-N: Book of Biochemistry 
-I: 235 
-C: 0
-
-N: Book of Biology 
-I: 234 
-C: 0
-
-N: Book of Black Dragon Cuisses 
-I: 861 
-C: 0
-
-N: Book of Black Dragon Fighting 
-I: 735 
-C: 0
-
-N: Book of Black Dragon Greaves 
-I: 862 
-C: 0
-
-N: Book of Black Dragon Helm 
-I: 859 
-C: 0
-
-N: Book of Black Dragon Torso Armor 
-I: 860 
-C: 0
-
-N: Book of Black Dye 
-I: 847 
-C: 0
-
-N: Book of Blackpowder 
-I: 698 
-C: 0
-
-N: Book of Blue Dragon Cuisses Armor 
-I: 1120 
-C: 0
-
-N: Book of Blue Dragon Greaves Armor 
-I: 1119 
-C: 0
-
-N: Book of Blue Dragon Helm Armor 
-I: 1121 
-C: 0
-
-N: Book of Blue Dragons Fighting 
-I: 1135 
-C: 0
-
-N: Book of Blue Dragon Shield 
-I: 1122 
-C: 0
-
-N: Book of Blue Dragon Sword 
-I: 1123 
-C: 0
-
-N: Book of Blue Dragon Torso Armor 
-I: 1118 
-C: 0
-
-N: Book of Blue Dye 
-I: 845 
-C: 0
-
-N: Book of Boar Summoning 
-I: 256 
-C: 0
-
-N: Book of Books 
-I: 1072 
-C: 0
-
-N: Book of Boots Making 
-I: 1125 
-C: 0
-
-N: Book of Botanics 
-I: 236 
-C: 0
-
-N: Book of Bows and Crossbows 
-I: 900 
-C: 0
-
-N: Book of Bronze Sword 
-I: 686 
-C: 0
-
-N: Book of Buccaneer Hat 
-I: 856 
-C: 0
-
-N: Book of Bulangiu Fighting 
-I: 1136 
-C: 0
-
-N: Book of Caltrops 
-I: 697 
-C: 0
-
-N: Book of Camouflage Cape 
-I: 699 
-C: 0
-
-N: Book of Cockatrice Fighting 
-I: 1043 
-C: 0
-
-N: Book of Cold Protection 
-I: 953 
-C: 0
-
-N: Book of Combat Tactics 
-I: 261 
-C: 0
-
-N: Book of Crafting Potion 
-I: 358 
-C: 0
-
-N: Book of Creature Food 
-I: 958 
-C: 0
-
-N: Book of Criticals Indicator Building 
-I: 754 
-C: 0
-
-N: Book of Cutlass 
-I: 497 
-C: 0
-
-N: Book of Cyclops Fighting 
-I: 269 
-C: 0
-
-N: Book of Cyclop Sum. 
-I: 433 
-C: 0
-
-N: Book of Death Essence 
-I: 241 
-C: 0
-
-N: Book of Defense Reduction 
-I: 984 
-C: 0
-
-N: Book of Doublets Making 
-I: 1130 
-C: 0
-
-N: Book of Dragon Blade 
-I: 693 
-C: 0
-
-N: Book of Dresses 
-I: 1077 
-C: 0
-
-N: Book of Dwarf Fighting 
-I: 270 
-C: 0
-
-N: Book of Eagle Wing 
-I: 500 
-C: 0
-
-N: Book of Elf Fighting 
-I: 271 
-C: 0
-
-N: Book of Emerald Claymore 
-I: 496 
-C: 0
-
-N: Book of Enhanced Armor 
-I: 964 
-C: 0
-
-N: Book of Enhanced Items 
-I: 963 
-C: 0
-
-N: Book of Enhanced Sun Medallion 
-I: 1080 
-C: 0
-
-N: Book of Enhanced Unicorn Medallion 
-I: 1079 
-C: 0
-
-N: Book of Enhanced Weapons 
-I: 965 
-C: 0
-
-N: Book of Evasion 
-I: 533 
-C: 0
-
-N: Book of Fabric Dyeing 
-I: 848 
-C: 0
-
-N: Book of Fabric Weaving 
-I: 840 
-C: 0
-
-N: Book of Falcon Summoning 
-I: 725 
-C: 0
-
-N: Book of Female Goblin Sum. 
-I: 426 
-C: 0
-
-N: Book of Female Orc Sum. 
-I: 429 
-C: 0
-
-N: Book of Fire arrows 
-I: 904 
-C: 0
-
-N: Book of Fire bolts 
-I: 908 
-C: 0
-
-N: Book of Fire sword 
-I: 412 
-C: 0
-
-N: Book of Fluffy Fighting 
-I: 731 
-C: 0
-
-N: Book of Fluffy Summoning 
-I: 330 
-C: 0
-
-N: Book of Frying Pan 
-I: 695 
-C: 0
-
-N: Book of Gargoyle Fighting 
-I: 264 
-C: 0
-
-N: Book of Gargoyles Summoning 
-I: 258 
-C: 0
-
-N: Book of Giant Fighting 
-I: 733 
-C: 0
-
-N: Book of Goblin Fighting 
-I: 262 
-C: 0
-
-N: Book of Golden Star Mace 
-I: 694 
-C: 0
-
-N: Book of Gold Mining 
-I: 160 
-C: 0
-
-N: Book of Gold Molding 
-I: 165 
-C: 0
-
-N: Book of Gold Smelting 
-I: 155 
-C: 0
-
-N: Book of Green Dye 
-I: 844 
-C: 0
-
-N: Book of Gypsum Harvesting 
-I: 564 
-C: 0
-
-N: Book of Gypsum Molding 
-I: 565 
-C: 0
-
-N: Book of Halberd 
-I: 692 
-C: 0
-
-N: Book of Harvest/Degrade Indicator Building 
-I: 756 
-C: 0
-
-N: Book of Hawk Summoning 
-I: 724 
-C: 0
-
-N: Book of Health Essence 
-I: 242 
-C: 0
-
-N: Book of Heat Protection 
-I: 954 
-C: 0
-
-N: Book of Hood 
-I: 858 
-C: 0
-
-N: Book of Humans Fighting 
-I: 272 
-C: 0
-
-N: Book of Humans Fighting 
-I: 273 
-C: 0
-
-N: Book of Hydrogenium mining 
-I: 437 
-C: 0
-
-N: Book of Hydrogenium molding 
-I: 438 
-C: 0
-
-N: Book of Hydrogenium smelting 
-I: 439 
-C: 0
-
-N: Book of Ice arrows 
-I: 903 
-C: 0
-
-N: Book of Ice bolts 
-I: 907 
-C: 0
-
-N: Book of Ice Dragon Cuisses Armor 
-I: 945 
-C: 0
-
-N: Book of Ice Dragon Greaves Armor 
-I: 944 
-C: 0
-
-N: Book of Ice Dragon Helm Armor 
-I: 946 
-C: 0
-
-N: Book of Ice Dragons Fighting 
-I: 1134 
-C: 0
-
-N: Book of Ice Dragon Torso Armor 
-I: 943 
-C: 0
-
-N: Book of Ice sword 
-I: 413 
-C: 0
-
-N: Book of Immunity Removal Ward 
-I: 936 
-C: 0
-
-N: Book of Invasionmeter 
-I: 885 
-C: 0
-
-N: Book of Invisibility 
-I: 526 
-C: 0
-
-N: Book of Invisibility Removal Ward 
-I: 935 
-C: 0
-
-N: Book of Iron Axe Construction 
-I: 325 
-C: 0
-
-N: Book of Iron Broad sword of fire 
-I: 417 
-C: 0
-
-N: Book of Iron Broad sword of ice 
-I: 418 
-C: 0
-
-N: Book of Iron Mining 
-I: 161 
-C: 0
-
-N: Book of Iron Molding 
-I: 166 
-C: 0
-
-N: Book of Iron Smelting 
-I: 156 
-C: 0
-
-N: Book of Iron sword of fire 
-I: 416 
-C: 0
-
-N: Book of Jackets Making 
-I: 1131 
-C: 0
-
-N: Book of Jagged Saber 
-I: 502 
-C: 0
-
-N: Book of Life Essence 
-I: 240 
-C: 0
-
-N: Book of Lightmeter 
-I: 759 
-C: 0
-
-N: Book of Mage Robes 
-I: 1001 
-C: 0
-
-N: Book of Magic arrows 
-I: 905 
-C: 0
-
-N: Book of Magic bolts 
-I: 909 
-C: 0
-
-N: Book of Magic Essence 
-I: 243 
-C: 0
-
-N: Book of Magic Potion 
-I: 359 
-C: 0
-
-N: Book of Magic sword 
-I: 414 
-C: 0
-
-N: Book of Male Orc Sum. 
-I: 430 
-C: 0
-
-N: Book of Mana Burn Ward 
-I: 934 
-C: 0
-
-N: Book of Mana Drain Ward 
-I: 933 
-C: 0
-
-N: Book of Mare Bulangiu Fighting 
-I: 1137 
-C: 0
-
-N: Book of Medallion of Mana 
-I: 1000 
-C: 0
-
-N: Book of Medallion of the Gatherer 
-I: 998 
-C: 0
-
-N: Book of Medium Landmine 
-I: 877 
-C: 0
-
-N: Book of Metallurgy 
-I: 151 
-C: 0
-
-N: Book of Metal Mining 
-I: 153 
-C: 0
-
-N: Book of Metal Molding 
-I: 154 
-C: 0
-
-N: Book of Metal Smelting 
-I: 152 
-C: 0
-
-N: Book of Mule Glyph 
-I: 959 
-C: 0
-
-N: Book of Nails 
-I: 702 
-C: 0
-
-N: Book of Night Visor 
-I: 696 
-C: 0
-
-N: Book of No More Warlock 
-I: 876 
-C: 0
-
-N: Book of Ogre Fighting 
-I: 729 
-C: 0
-
-N: Book of Orange Dye 
-I: 842 
-C: 0
-
-N: Book of Orc Fighting 
-I: 266 
-C: 0
-
-N: Book of Orc Slayer 
-I: 499 
-C: 0
-
-N: Book of Pear finder 
-I: 1140 
-C: 0
-
-N: Book of Peasant Dress Making 
-I: 1128 
-C: 0
-
-N: Book of Peasant Skirts Making 
-I: 1133 
-C: 0
-
-N: Book of Phantom Warrior Fighting 
-I: 730 
-C: 0
-
-N: Book of PK arrows 
-I: 902 
-C: 0
-
-N: Book of PK bolts 
-I: 906 
-C: 0
-
-N: Book of Poison Antidote 
-I: 524 
-C: 0
-
-N: Book of Poisoned Caltrops 
-I: 703 
-C: 0
-
-N: Book of Polar Bear Sum. 
-I: 434 
-C: 0
-
-N: Book of Potion of Action Points 
-I: 1143 
-C: 0
-
-N: Book of Potion of Body Restoration 
-I: 244 
-C: 0
-
-N: Book of Potion of Coordination 
-I: 247 
-C: 0
-
-N: Book of Potion of Engineering 
-I: 726 
-C: 0
-
-N: Book of Potion of Feasting 
-I: 250 
-C: 0
-
-N: Book of Potion of Manufacturing 
-I: 251 
-C: 0
-
-N: Book of Potion of Physique 
-I: 249 
-C: 0
-
-N: Book of Potion of Summoning 
-I: 252 
-C: 0
-
-N: Book of Potion of Vitality 
-I: 246 
-C: 0
-
-N: Book of Potion of Wildness 
-I: 245 
-C: 0
-
-N: Book of Potion of Will 
-I: 248 
-C: 0
-
-N: Book of Puma Fighting 
-I: 265 
-C: 0
-
-N: Book of Puma Summoning 
-I: 259 
-C: 0
-
-N: Book of Purple Dye 
-I: 846 
-C: 0
-
-N: Book of Radiation Protection 
-I: 955 
-C: 0
-
-N: Book of Radioactive Rapier 
-I: 999 
-C: 0
-
-N: Book of Rapier 
-I: 501 
-C: 0
-
-N: Book of Rare/Fail Indicator Building 
-I: 757 
-C: 0
-
-N: Book of RC Detonator 
-I: 931 
-C: 0
-
-N: Book of RC Mine 
-I: 930 
-C: 0
-
-N: Book of Red Dragon Cuisses Armor 
-I: 689 
-C: 0
-
-N: Book of Red Dragon Fighting 
-I: 734 
-C: 0
-
-N: Book of Red Dragon Greaves Armor 
-I: 688 
-C: 0
-
-N: Book of Red Dragon Helm Armor 
-I: 690 
-C: 0
-
-N: Book of Red Dragon Summoning 
-I: 751 
-C: 0
-
-N: Book of Red Dragon Torso Armor 
-I: 687 
-C: 0
-
-N: Book of Red Dye 
-I: 841 
-C: 0
-
-N: Book of RHoLM 
-I: 1159 
-C: 0
-
-N: Book of Robe 
-I: 851 
-C: 0
-
-N: Book of Robe Skirts 
-I: 852 
-C: 0
-
-N: Book of Rope 
-I: 700 
-C: 0
-
-N: Book of Saltpetre 
-I: 705 
-C: 0
-
-N: Book of Santa Hat 
-I: 857 
-C: 0
-
-N: Book of Saving Stone 
-I: 706 
-C: 0
-
-N: Book of Scarves 
-I: 854 
-C: 0
-
-N: Book of Scythe 
-I: 947 
-C: 0
-
-N: Book of Serpent Sword of Fire 
-I: 871 
-C: 0
-
-N: Book of Serpent Sword of Ice 
-I: 872 
-C: 0
-
-N: Book of Serpent Sword of Magic 
-I: 873 
-C: 0
-
-N: Book of Serpent Sword of Thermal 
-I: 874 
-C: 0
-
-N: Book of Silver Mining 
-I: 162 
-C: 0
-
-N: Book of Silver Molding 
-I: 167 
-C: 0
-
-N: Book of Silver Smelting 
-I: 157 
-C: 0
-
-N: Book of Skeleton Fighting 
-I: 263 
-C: 0
-
-N: Book of Skeleton Summoning 
-I: 257 
-C: 0
-
-N: Book of Skirts 
-I: 1076 
-C: 0
-
-N: Book of Small Landmine 
-I: 704 
-C: 0
-
-N: Book of Snakes Summoning 
-I: 254 
-C: 0
-
-N: Book of Snare 
-I: 701 
-C: 0
-
-N: Book of Spear 
-I: 691 
-C: 0
-
-N: Book of special swords 
-I: 411 
-C: 0
-
-N: Book of Speed Hax 
-I: 980 
-C: 0
-
-N: Book of Steel Axe Construction 
-I: 326 
-C: 0
-
-N: Book of Steel Cuisses 
-I: 488 
-C: 0
-
-N: Book of Steel Greaves 
-I: 487 
-C: 0
-
-N: Book of Steel Helmet 
-I: 490 
-C: 0
-
-N: Book of Steel long sword of fire 
-I: 419 
-C: 0
-
-N: Book of Steel long sword of ice 
-I: 420 
-C: 0
-
-N: Book of Steel long sword of magic 
-I: 421 
-C: 0
-
-N: Book of Steel Molding 
-I: 164 
-C: 0
-
-N: Book of Steel Plate Mail 
-I: 494 
-C: 0
-
-N: Book of Steel Smelting 
-I: 158 
-C: 0
-
-N: Book of Steel two edged sword of fire 
-I: 422 
-C: 0
-
-N: Book of Steel two edged sword of ice 
-I: 423 
-C: 0
-
-N: Book of Steel two edged sword of magic 
-I: 424 
-C: 0
-
-N: Book of Steel two edged sword of thermal 
-I: 425 
-C: 0
-
-N: Book of Sunbreaker 
-I: 498 
-C: 0
-
-N: Book of Thermal sword 
-I: 415 
-C: 0
-
-N: Book of Titanium Axe Construction 
-I: 327 
-C: 0
-
-N: Book of Titanium Cuisses 
-I: 493 
-C: 0
-
-N: Book of Titanium Greaves 
-I: 492 
-C: 0
-
-N: Book of Titanium Helmet 
-I: 491 
-C: 0
-
-N: Book of Titanium Mining 
-I: 163 
-C: 0
-
-N: Book of Titanium Molding 
-I: 168 
-C: 0
-
-N: Book of Titanium Plate Mail 
-I: 495 
-C: 0
-
-N: Book of Titanium Shield 
-I: 489 
-C: 0
-
-N: Book of Titanium Smelting 
-I: 159 
-C: 0
-
-N: Book of Titanium/Steel Long Sword of Fire 
-I: 867 
-C: 0
-
-N: Book of Titanium/Steel Long Sword of Ice 
-I: 868 
-C: 0
-
-N: Book of Titanium/Steel Long Sword of Magic 
-I: 869 
-C: 0
-
-N: Book of Titanium/Steel Long Sword of Thermal 
-I: 870 
-C: 0
-
-N: Book of Titanium/Steel Short Sword of Fire 
-I: 863 
-C: 0
-
-N: Book of Titanium/Steel Short Sword of Ice 
-I: 864 
-C: 0
-
-N: Book of Titanium/Steel Short Sword of Magic 
-I: 865 
-C: 0
-
-N: Book of Titanium/Steel Short Sword of Thermal 
-I: 866 
-C: 0
-
-N: Book of Treasure finder 
-I: 1139 
-C: 0
-
-N: Book of Tricorn Hat 
-I: 855 
-C: 0
-
-N: Book of Troll Fighting 
-I: 268 
-C: 0
-
-N: Book of True Sight 
-I: 525 
-C: 0
-
-N: Book of Tunic 
-I: 849 
-C: 0
-
-N: Book of Tunic of the Ninja 
-I: 1002 
-C: 0
-
-N: Book of Tunic/Shirt 
-I: 850 
-C: 0
-
-N: Book of Vests 
-I: 1078 
-C: 0
-
-N: Book of Wedding Dress Making 
-I: 1127 
-C: 0
-
-N: Book of Wedding Skirts Making 
-I: 1132 
-C: 0
-
-N: Book of Wizard Hats Making 
-I: 1126 
-C: 0
-
-N: Book of Wolframite Mining 
-I: 485 
-C: 0
-
-N: Book of Wolframite Smelting 
-I: 484 
-C: 0
-
-N: Book of Wolfram Molding 
-I: 486 
-C: 0
-
-N: Book of Wolf Summoning 
-I: 255 
-C: 0
-
-N: Book of Yellow Dye 
-I: 843 
-C: 0
-
-N: Book of Yeti Fighting 
-I: 732 
 C: 0
 
 N: Bot Blessing Coupon 
@@ -3441,74 +2469,6 @@ N: Potion of Feasting
 I: 77 
 C: 0
 
-N: Potion of Great Healing 
-I: 285 
-C: 0
-
-N: Potion of Harvesting 
-I: 72 
-C: 0
-
-N: Potion of Heat Protection 
-I: 951 
-C: 0
-
-N: Potion of Mana 
-I: 76 
-C: 0
-
-N: Potion of Manufacturing 
-I: 147 
-C: 0
-
-N: Potion of Minor Healing 
-I: 75 
-C: 0
-
-N: Potion of Physique 
-I: 71 
-C: 0
-
-N: Potion of Potion 
-I: 568 
-C: 0
-
-N: Potion of Potion Construction 
-I: 590 
-C: 0
-
-N: Potion of Radiation Protection 
-I: 952 
-C: 0
-
-N: Potion of Reasoning 
-I: 69 
-C: 0
-
-N: Potion of Speed Hax 
-I: 979 
-C: 0
-
-N: Potion of Spirit Restoration 
-I: 28 
-C: 0
-
-N: Potion of Summoning 
-I: 79 
-C: 0
-
-N: Potion of Vitality 
-I: 65 
-C: 0
-
-N: Potion of Wildness 
-I: 68 
-C: 0
-
-N: Potion of Will 
-I: 70 
-C: 0
-
 N: Power Hungry removal 
 I: 1084 
 C: 0
@@ -4192,7 +3152,7 @@ I: 542
 C: 0
 
 N: Sunflower 
-I: 0 
+I: 9999 
 C: 0
 
 N: Sun Medallion 
@@ -4241,10 +3201,6 @@ C: 0
 
 N: Tiger Stone Construction 
 I: 581 
-C: 0
-
-N: Tiger Summoning Stone 
-I: 571 
 C: 0
 
 N: Tin Mining 
@@ -4535,10 +3491,6 @@ N: Vegetables
 I: 42 
 C: 0
 
-N: Vegetal Removal Stone 
-I: 651 
-C: 0
-
 N: Vial Mold 
 I: 625 
 C: 0
@@ -4687,10 +3639,6 @@ N: Wolf Fur
 I: 61 
 C: 0
 
-N: Wolfram Bar 
-I: 483 
-C: 0
-
 N: Wolframite 
 I: 482 
 C: 0
@@ -4759,36 +3707,58 @@ N: Yeti Summoning
 I: 556 
 C: 0
 
-N: Yeti Summoning Stone 
-I: 572 
-C: 0
-
 N: Yew 
 I: 894 
-C: 0
-
-N: alembic building 
-I: 631 
 C: 0
 
 N: amber 
 I: 1069 
 C: 0
 
-N: animal removal stone 
-I: 650 
+N: archery arena ticket 
+I: 993 
 C: 0
 
-N: anitora ring building 
-I: 391 
+#========== Stones ==========
+
+N: animal removal stone 
+I: 650 
 C: 0
 
 N: antisocial removal 
 I: 927 
 C: 0
 
-N: archery arena ticket 
-I: 993 
+N: Tiger Summoning Stone 
+I: 571 
+C: 0
+
+N: Vegetal Removal Stone 
+I: 651 
+C: 0
+
+N: Yeti Summoning Stone 
+I: 572 
+C: 0
+
+N: Arctic Chim Summoning Stone 
+I: 574 
+C: 0
+
+N: Armed Orc Summoning Stone 
+I: 577 
+C: 0
+
+
+
+#========== Books ==========
+
+N: alembic building 
+I: 631 
+C: 0
+
+N: anitora ring building 
+I: 391 
 C: 0
 
 N: arctic chimeran summoning 
@@ -4821,5 +3791,1069 @@ C: 0
 
 N: Big Book of Tailoring 
 I: 1015 
+C: 0
+
+N: Book High Explosive Mine 
+I: 878 
+C: 0
+
+N: Book of Accuracy 
+I: 532 
+C: 0
+
+N: Book of Accuracy/Magic Indicator Building 
+I: 755 
+C: 0
+
+N: Book of AC Fighting 
+I: 1044 
+C: 0
+
+N: Book of A/D Indicator Building 
+I: 753 
+C: 0
+
+N: Book of Advanced Alchemy 
+I: 238 
+C: 0
+
+N: Book of Advanced Potions 
+I: 239 
+C: 0
+
+N: Book of Advanced Summoning 
+I: 253 
+C: 0
+
+N: Book of Anatomy 
+I: 237 
+C: 0
+
+N: Book of Armed Female Orc Sum. 
+I: 431 
+C: 0
+
+N: Book of Armed Male Goblin Sum. 
+I: 427 
+C: 0
+
+N: Book of Armed Male Orc Sum. 
+I: 432 
+C: 0
+
+N: Book of Armed Skeleton Sum. 
+I: 428 
+C: 0
+
+N: Book of Arrow/Bolt head 
+I: 911 
+C: 0
+
+N: Book of Arrows and bolts 
+I: 901 
+C: 0
+
+N: Book of Arrows/Bolts head mold 
+I: 910 
+C: 0
+
+N: Book of Astrology Indicators 
+I: 752 
+C: 0
+
+N: Book of Attack Reduction 
+I: 983 
+C: 0
+
+N: Book of Axe Construction 
+I: 324 
+C: 0
+
+N: Book of Baggy Pants 
+I: 853 
+C: 0
+
+N: Book of Barricade 
+I: 727 
+C: 0
+
+N: Book of Bear Fighting 
+I: 267 
+C: 0
+
+N: Book of Bear Summoning 
+I: 260 
+C: 0
+
+N: Book of Biochemistry 
+I: 235 
+C: 0
+
+N: Book of Biology 
+I: 234 
+C: 0
+
+N: Book of Black Dragon Cuisses 
+I: 861 
+C: 0
+
+N: Book of Black Dragon Fighting 
+I: 735 
+C: 0
+
+N: Book of Black Dragon Greaves 
+I: 862 
+C: 0
+
+N: Book of Black Dragon Helm 
+I: 859 
+C: 0
+
+N: Book of Black Dragon Torso Armor 
+I: 860 
+C: 0
+
+N: Book of Black Dye 
+I: 847 
+C: 0
+
+N: Book of Blackpowder 
+I: 698 
+C: 0
+
+N: Book of Blue Dragon Cuisses Armor 
+I: 1120 
+C: 0
+
+N: Book of Blue Dragon Greaves Armor 
+I: 1119 
+C: 0
+
+N: Book of Blue Dragon Helm Armor 
+I: 1121 
+C: 0
+
+N: Book of Blue Dragons Fighting 
+I: 1135 
+C: 0
+
+N: Book of Blue Dragon Shield 
+I: 1122 
+C: 0
+
+N: Book of Blue Dragon Sword 
+I: 1123 
+C: 0
+
+N: Book of Blue Dragon Torso Armor 
+I: 1118 
+C: 0
+
+N: Book of Blue Dye 
+I: 845 
+C: 0
+
+N: Book of Boar Summoning 
+I: 256 
+C: 0
+
+N: Book of Books 
+I: 1072 
+C: 0
+
+N: Book of Boots Making 
+I: 1125 
+C: 0
+
+N: Book of Botanics 
+I: 236 
+C: 0
+
+N: Book of Bows and Crossbows 
+I: 900 
+C: 0
+
+N: Book of Bronze Sword 
+I: 686 
+C: 0
+
+N: Book of Buccaneer Hat 
+I: 856 
+C: 0
+
+N: Book of Bulangiu Fighting 
+I: 1136 
+C: 0
+
+N: Book of Caltrops 
+I: 697 
+C: 0
+
+N: Book of Camouflage Cape 
+I: 699 
+C: 0
+
+N: Book of Cockatrice Fighting 
+I: 1043 
+C: 0
+
+N: Book of Cold Protection 
+I: 953 
+C: 0
+
+N: Book of Combat Tactics 
+I: 261 
+C: 0
+
+N: Book of Crafting Potion 
+I: 358 
+C: 0
+
+N: Book of Creature Food 
+I: 958 
+C: 0
+
+N: Book of Criticals Indicator Building 
+I: 754 
+C: 0
+
+N: Book of Cutlass 
+I: 497 
+C: 0
+
+N: Book of Cyclops Fighting 
+I: 269 
+C: 0
+
+N: Book of Cyclop Sum. 
+I: 433 
+C: 0
+
+N: Book of Death Essence 
+I: 241 
+C: 0
+
+N: Book of Defense Reduction 
+I: 984 
+C: 0
+
+N: Book of Doublets Making 
+I: 1130 
+C: 0
+
+N: Book of Dragon Blade 
+I: 693 
+C: 0
+
+N: Book of Dresses 
+I: 1077 
+C: 0
+
+N: Book of Dwarf Fighting 
+I: 270 
+C: 0
+
+N: Book of Eagle Wing 
+I: 500 
+C: 0
+
+N: Book of Elf Fighting 
+I: 271 
+C: 0
+
+N: Book of Emerald Claymore 
+I: 496 
+C: 0
+
+N: Book of Enhanced Armor 
+I: 964 
+C: 0
+
+N: Book of Enhanced Items 
+I: 963 
+C: 0
+
+N: Book of Enhanced Sun Medallion 
+I: 1080 
+C: 0
+
+N: Book of Enhanced Unicorn Medallion 
+I: 1079 
+C: 0
+
+N: Book of Enhanced Weapons 
+I: 965 
+C: 0
+
+N: Book of Evasion 
+I: 533 
+C: 0
+
+N: Book of Fabric Dyeing 
+I: 848 
+C: 0
+
+N: Book of Fabric Weaving 
+I: 840 
+C: 0
+
+N: Book of Falcon Summoning 
+I: 725 
+C: 0
+
+N: Book of Female Goblin Sum. 
+I: 426 
+C: 0
+
+N: Book of Female Orc Sum. 
+I: 429 
+C: 0
+
+N: Book of Fire arrows 
+I: 904 
+C: 0
+
+N: Book of Fire bolts 
+I: 908 
+C: 0
+
+N: Book of Fire sword 
+I: 412 
+C: 0
+
+N: Book of Fluffy Fighting 
+I: 731 
+C: 0
+
+N: Book of Fluffy Summoning 
+I: 330 
+C: 0
+
+N: Book of Frying Pan 
+I: 695 
+C: 0
+
+N: Book of Gargoyle Fighting 
+I: 264 
+C: 0
+
+N: Book of Gargoyles Summoning 
+I: 258 
+C: 0
+
+N: Book of Giant Fighting 
+I: 733 
+C: 0
+
+N: Book of Goblin Fighting 
+I: 262 
+C: 0
+
+N: Book of Golden Star Mace 
+I: 694 
+C: 0
+
+N: Book of Gold Mining 
+I: 160 
+C: 0
+
+N: Book of Gold Molding 
+I: 165 
+C: 0
+
+N: Book of Gold Smelting 
+I: 155 
+C: 0
+
+N: Book of Green Dye 
+I: 844 
+C: 0
+
+N: Book of Gypsum Harvesting 
+I: 564 
+C: 0
+
+N: Book of Gypsum Molding 
+I: 565 
+C: 0
+
+N: Book of Halberd 
+I: 692 
+C: 0
+
+N: Book of Harvest/Degrade Indicator Building 
+I: 756 
+C: 0
+
+N: Book of Hawk Summoning 
+I: 724 
+C: 0
+
+N: Book of Health Essence 
+I: 242 
+C: 0
+
+N: Book of Heat Protection 
+I: 954 
+C: 0
+
+N: Book of Hood 
+I: 858 
+C: 0
+
+N: Book of Humans Fighting 
+I: 272 
+C: 0
+
+N: Book of Humans Fighting 
+I: 273 
+C: 0
+
+N: Book of Hydrogenium mining 
+I: 437 
+C: 0
+
+N: Book of Hydrogenium molding 
+I: 438 
+C: 0
+
+N: Book of Hydrogenium smelting 
+I: 439 
+C: 0
+
+N: Book of Ice arrows 
+I: 903 
+C: 0
+
+N: Book of Ice bolts 
+I: 907 
+C: 0
+
+N: Book of Ice Dragon Cuisses Armor 
+I: 945 
+C: 0
+
+N: Book of Ice Dragon Greaves Armor 
+I: 944 
+C: 0
+
+N: Book of Ice Dragon Helm Armor 
+I: 946 
+C: 0
+
+N: Book of Ice Dragons Fighting 
+I: 1134 
+C: 0
+
+N: Book of Ice Dragon Torso Armor 
+I: 943 
+C: 0
+
+N: Book of Ice sword 
+I: 413 
+C: 0
+
+N: Book of Immunity Removal Ward 
+I: 936 
+C: 0
+
+N: Book of Invasionmeter 
+I: 885 
+C: 0
+
+N: Book of Invisibility 
+I: 526 
+C: 0
+
+N: Book of Invisibility Removal Ward 
+I: 935 
+C: 0
+
+N: Book of Iron Axe Construction 
+I: 325 
+C: 0
+
+N: Book of Iron Broad sword of fire 
+I: 417 
+C: 0
+
+N: Book of Iron Broad sword of ice 
+I: 418 
+C: 0
+
+N: Book of Iron Mining 
+I: 161 
+C: 0
+
+N: Book of Iron Molding 
+I: 166 
+C: 0
+
+N: Book of Iron Smelting 
+I: 156 
+C: 0
+
+N: Book of Iron sword of fire 
+I: 416 
+C: 0
+
+N: Book of Jackets Making 
+I: 1131 
+C: 0
+
+N: Book of Jagged Saber 
+I: 502 
+C: 0
+
+N: Book of Life Essence 
+I: 240 
+C: 0
+
+N: Book of Lightmeter 
+I: 759 
+C: 0
+
+N: Book of Mage Robes 
+I: 1001 
+C: 0
+
+N: Book of Magic arrows 
+I: 905 
+C: 0
+
+N: Book of Magic bolts 
+I: 909 
+C: 0
+
+N: Book of Magic Essence 
+I: 243 
+C: 0
+
+N: Book of Magic Potion 
+I: 359 
+C: 0
+
+N: Book of Magic sword 
+I: 414 
+C: 0
+
+N: Book of Male Orc Sum. 
+I: 430 
+C: 0
+
+N: Book of Mana Burn Ward 
+I: 934 
+C: 0
+
+N: Book of Mana Drain Ward 
+I: 933 
+C: 0
+
+N: Book of Mare Bulangiu Fighting 
+I: 1137 
+C: 0
+
+N: Book of Medallion of Mana 
+I: 1000 
+C: 0
+
+N: Book of Medallion of the Gatherer 
+I: 998 
+C: 0
+
+N: Book of Medium Landmine 
+I: 877 
+C: 0
+
+N: Book of Metallurgy 
+I: 151 
+C: 0
+
+N: Book of Metal Mining 
+I: 153 
+C: 0
+
+N: Book of Metal Molding 
+I: 154 
+C: 0
+
+N: Book of Metal Smelting 
+I: 152 
+C: 0
+
+N: Book of Mule Glyph 
+I: 959 
+C: 0
+
+N: Book of Nails 
+I: 702 
+C: 0
+
+N: Book of Night Visor 
+I: 696 
+C: 0
+
+N: Book of No More Warlock 
+I: 876 
+C: 0
+
+N: Book of Ogre Fighting 
+I: 729 
+C: 0
+
+N: Book of Orange Dye 
+I: 842 
+C: 0
+
+N: Book of Orc Fighting 
+I: 266 
+C: 0
+
+N: Book of Orc Slayer 
+I: 499 
+C: 0
+
+N: Book of Pear finder 
+I: 1140 
+C: 0
+
+N: Book of Peasant Dress Making 
+I: 1128 
+C: 0
+
+N: Book of Peasant Skirts Making 
+I: 1133 
+C: 0
+
+N: Book of Phantom Warrior Fighting 
+I: 730 
+C: 0
+
+N: Book of PK arrows 
+I: 902 
+C: 0
+
+N: Book of PK bolts 
+I: 906 
+C: 0
+
+N: Book of Poison Antidote 
+I: 524 
+C: 0
+
+N: Book of Poisoned Caltrops 
+I: 703 
+C: 0
+
+N: Book of Polar Bear Sum. 
+I: 434 
+C: 0
+
+N: Book of Potion of Action Points 
+I: 1143 
+C: 0
+
+N: Book of Potion of Body Restoration 
+I: 244 
+C: 0
+
+N: Book of Potion of Coordination 
+I: 247 
+C: 0
+
+N: Book of Potion of Engineering 
+I: 726 
+C: 0
+
+N: Book of Potion of Feasting 
+I: 250 
+C: 0
+
+N: Book of Potion of Manufacturing 
+I: 251 
+C: 0
+
+N: Book of Potion of Physique 
+I: 249 
+C: 0
+
+N: Book of Potion of Summoning 
+I: 252 
+C: 0
+
+N: Book of Potion of Vitality 
+I: 246 
+C: 0
+
+N: Book of Potion of Wildness 
+I: 245 
+C: 0
+
+N: Book of Potion of Will 
+I: 248 
+C: 0
+
+N: Book of Puma Fighting 
+I: 265 
+C: 0
+
+N: Book of Puma Summoning 
+I: 259 
+C: 0
+
+N: Book of Purple Dye 
+I: 846 
+C: 0
+
+N: Book of Radiation Protection 
+I: 955 
+C: 0
+
+N: Book of Radioactive Rapier 
+I: 999 
+C: 0
+
+N: Book of Rapier 
+I: 501 
+C: 0
+
+N: Book of Rare/Fail Indicator Building 
+I: 757 
+C: 0
+
+N: Book of RC Detonator 
+I: 931 
+C: 0
+
+N: Book of RC Mine 
+I: 930 
+C: 0
+
+N: Book of Red Dragon Cuisses Armor 
+I: 689 
+C: 0
+
+N: Book of Red Dragon Fighting 
+I: 734 
+C: 0
+
+N: Book of Red Dragon Greaves Armor 
+I: 688 
+C: 0
+
+N: Book of Red Dragon Helm Armor 
+I: 690 
+C: 0
+
+N: Book of Red Dragon Summoning 
+I: 751 
+C: 0
+
+N: Book of Red Dragon Torso Armor 
+I: 687 
+C: 0
+
+N: Book of Red Dye 
+I: 841 
+C: 0
+
+N: Book of RHoLM 
+I: 1159 
+C: 0
+
+N: Book of Robe 
+I: 851 
+C: 0
+
+N: Book of Robe Skirts 
+I: 852 
+C: 0
+
+N: Book of Rope 
+I: 700 
+C: 0
+
+N: Book of Saltpetre 
+I: 705 
+C: 0
+
+N: Book of Santa Hat 
+I: 857 
+C: 0
+
+N: Book of Saving Stone 
+I: 706 
+C: 0
+
+N: Book of Scarves 
+I: 854 
+C: 0
+
+N: Book of Scythe 
+I: 947 
+C: 0
+
+N: Book of Serpent Sword of Fire 
+I: 871 
+C: 0
+
+N: Book of Serpent Sword of Ice 
+I: 872 
+C: 0
+
+N: Book of Serpent Sword of Magic 
+I: 873 
+C: 0
+
+N: Book of Serpent Sword of Thermal 
+I: 874 
+C: 0
+
+N: Book of Silver Mining 
+I: 162 
+C: 0
+
+N: Book of Silver Molding 
+I: 167 
+C: 0
+
+N: Book of Silver Smelting 
+I: 157 
+C: 0
+
+N: Book of Skeleton Fighting 
+I: 263 
+C: 0
+
+N: Book of Skeleton Summoning 
+I: 257 
+C: 0
+
+N: Book of Skirts 
+I: 1076 
+C: 0
+
+N: Book of Small Landmine 
+I: 704 
+C: 0
+
+N: Book of Snakes Summoning 
+I: 254 
+C: 0
+
+N: Book of Snare 
+I: 701 
+C: 0
+
+N: Book of Spear 
+I: 691 
+C: 0
+
+N: Book of special swords 
+I: 411 
+C: 0
+
+N: Book of Speed Hax 
+I: 980 
+C: 0
+
+N: Book of Steel Axe Construction 
+I: 326 
+C: 0
+
+N: Book of Steel Cuisses 
+I: 488 
+C: 0
+
+N: Book of Steel Greaves 
+I: 487 
+C: 0
+
+N: Book of Steel Helmet 
+I: 490 
+C: 0
+
+N: Book of Steel long sword of fire 
+I: 419 
+C: 0
+
+N: Book of Steel long sword of ice 
+I: 420 
+C: 0
+
+N: Book of Steel long sword of magic 
+I: 421 
+C: 0
+
+N: Book of Steel Molding 
+I: 164 
+C: 0
+
+N: Book of Steel Plate Mail 
+I: 494 
+C: 0
+
+N: Book of Steel Smelting 
+I: 158 
+C: 0
+
+N: Book of Steel two edged sword of fire 
+I: 422 
+C: 0
+
+N: Book of Steel two edged sword of ice 
+I: 423 
+C: 0
+
+N: Book of Steel two edged sword of magic 
+I: 424 
+C: 0
+
+N: Book of Steel two edged sword of thermal 
+I: 425 
+C: 0
+
+N: Book of Sunbreaker 
+I: 498 
+C: 0
+
+N: Book of Thermal sword 
+I: 415 
+C: 0
+
+N: Book of Titanium Axe Construction 
+I: 327 
+C: 0
+
+N: Book of Titanium Cuisses 
+I: 493 
+C: 0
+
+N: Book of Titanium Greaves 
+I: 492 
+C: 0
+
+N: Book of Titanium Helmet 
+I: 491 
+C: 0
+
+N: Book of Titanium Mining 
+I: 163 
+C: 0
+
+N: Book of Titanium Molding 
+I: 168 
+C: 0
+
+N: Book of Titanium Plate Mail 
+I: 495 
+C: 0
+
+N: Book of Titanium Shield 
+I: 489 
+C: 0
+
+N: Book of Titanium Smelting 
+I: 159 
+C: 0
+
+N: Book of Titanium/Steel Long Sword of Fire 
+I: 867 
+C: 0
+
+N: Book of Titanium/Steel Long Sword of Ice 
+I: 868 
+C: 0
+
+N: Book of Titanium/Steel Long Sword of Magic 
+I: 869 
+C: 0
+
+N: Book of Titanium/Steel Long Sword of Thermal 
+I: 870 
+C: 0
+
+N: Book of Titanium/Steel Short Sword of Fire 
+I: 863 
+C: 0
+
+N: Book of Titanium/Steel Short Sword of Ice 
+I: 864 
+C: 0
+
+N: Book of Titanium/Steel Short Sword of Magic 
+I: 865 
+C: 0
+
+N: Book of Titanium/Steel Short Sword of Thermal 
+I: 866 
+C: 0
+
+N: Book of Treasure finder 
+I: 1139 
+C: 0
+
+N: Book of Tricorn Hat 
+I: 855 
+C: 0
+
+N: Book of Troll Fighting 
+I: 268 
+C: 0
+
+N: Book of True Sight 
+I: 525 
+C: 0
+
+N: Book of Tunic 
+I: 849 
+C: 0
+
+N: Book of Tunic of the Ninja 
+I: 1002 
+C: 0
+
+N: Book of Tunic/Shirt 
+I: 850 
+C: 0
+
+N: Book of Vests 
+I: 1078 
+C: 0
+
+N: Book of Wedding Dress Making 
+I: 1127 
+C: 0
+
+N: Book of Wedding Skirts Making 
+I: 1132 
+C: 0
+
+N: Book of Wizard Hats Making 
+I: 1126 
+C: 0
+
+N: Book of Wolframite Mining 
+I: 485 
+C: 0
+
+N: Book of Wolframite Smelting 
+I: 484 
+C: 0
+
+N: Book of Wolfram Molding 
+I: 486 
+C: 0
+
+N: Book of Wolf Summoning 
+I: 255 
+C: 0
+
+N: Book of Yellow Dye 
+I: 843 
+C: 0
+
+N: Book of Yeti Fighting 
+I: 732 
 C: 0
 
