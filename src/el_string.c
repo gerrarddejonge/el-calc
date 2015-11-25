@@ -54,10 +54,13 @@ char * leftTrim(char * str)
 ///
 char * rightTrim(char * str)
 {
-	int len = strlen(str) - 1;
-
-	while (isspace(str[len]) && len >= 0)
-		str[len--] = '\0';
+	int pos;
+	
+	pos = strlen(str) - 1;
+	while (isspace(str[pos]) && pos >= 0) {
+		str[pos] = '\0';
+		pos--;
+	}
 	return str;
 }
 

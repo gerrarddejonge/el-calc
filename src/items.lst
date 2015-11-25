@@ -133,6 +133,12 @@ N: Enriched Water Essence
 I: 283 
 C: 0
 
+N: Copper Ore 
+I: 607 
+C: 1
+E: 612 1		# matter Conglomerate
+E: 0
+
 N: Iron Bar 
 I: 108 
 C: 1
@@ -239,6 +245,11 @@ E: 0
 
 #========== Weapons ==========
 
+
+N: Axe of freezing 
+I: 374 
+C: 0
+
 N: Iron Sword 
 I: 115 
 C: 1
@@ -292,7 +303,29 @@ N: Titanium Serpent Sword
 I: 121 
 C: 0
 
+N: Blue dragon sword 
+I: 1090 
+C: 0
 
+N: Bronze Sword 
+I: 679 
+C: 0
+
+N: Cutlass 
+I: 458 
+C: 0
+
+N: Cutlass of the mage 
+I: 543 
+C: 0
+
+N: Frying Pan 
+I: 685 
+C: 1
+E: 108 10			# iron bar
+E: 111 5			# steel Bar
+E: 31 10			# fire essence
+E: 0
 
 
 
@@ -302,6 +335,13 @@ C: 0
 
 
 #========== Armors ==========
+
+N: Leather Gloves 
+I: 93 
+C: 1
+E: 126 4		# leather
+E: 88 4			# thread
+E: 0
 
 N: Padded Leather Armor 
 I: 97 
@@ -347,7 +387,6 @@ E: 126 3		# leather
 E: 88 6			# thread
 E: 0
 
-
 N: Iron Plate Mail 
 I: 319 
 C: 1
@@ -373,7 +412,6 @@ C: 0
 N: Blue Dragon Mail 
 I: 1088 
 C: 0
-
 
 
 N: Leather Pants 
@@ -411,6 +449,18 @@ N: Blue Dragon Cuisses
 I: 1087 
 C: 0
 
+N: Bronze Cuisses 
+I: 592 
+C: 0
+
+
+N: Leather Boots 
+I: 143 
+C: 1
+E: 108 1		# iron bar
+E: 126 6		# leather
+E: 88 6			# thread
+E: 0
 
 N: Iron Greave 
 I: 322 
@@ -431,6 +481,11 @@ C: 0
 N: Blue Dragon Greave 
 I: 1086 
 C: 0
+
+N: Bronze Greave 
+I: 593 
+C: 0
+
 
 
 N: Leather Helm 
@@ -458,6 +513,16 @@ C: 0
 
 N: Blue Dragon Helm 
 I: 1091 
+C: 0
+
+N: Bronze Helm 
+I: 594 
+C: 0
+
+
+
+N: Blue Dragon Shield 
+I: 1089 
 C: 0
 
 
@@ -516,23 +581,40 @@ E: 0
 
 N: Potion of Physique 
 I: 71 
-C: 0
+C: 1
+E: 25 1			# empty vial
+E: 63 3			# bones Powder
+E: 55 3			# raw Meat
+E: 22 1			# Mead
+E: 0
 
 N: Potion of Potion 
 I: 568 
-C: 0
-
-N: Potion of Potion Construction 
-I: 590 
-C: 0
+C: 1
+E: 25 1			# empty vial
+E: 447 2		# feran horn
+E: 23 1			# wine
+E: 510 5		# rue
+E: 512 7		# Dandelion
+E: 519 4		# Nightshade
+E: 0
 
 N: Potion of Radiation Protection 
 I: 952 
-C: 0
+C: 1
+E: 25 1			# empty vial
+E: 37 8			# Energy essence
+E: 34 8			# Air essence
+E: 48 8			# Emerald
+E: 0
 
 N: Potion of Reasoning 
 I: 69 
-C: 0
+C: 1
+E: 25 1			# empty vial
+E: 63 3			# bones Powder
+E: 42 1			# Vegetables
+E: 0
 
 N: Potion of Speed Hax 
 I: 979 
@@ -540,24 +622,228 @@ C: 0
 
 N: Potion of Spirit Restoration 
 I: 28 
-C: 0
+C: 1
+E: 25 1			# empty vial
+E: 23 1			# wine
+E: 1 2			# blue star Flower
+E: 15 1			# blue quartz
+E: 0
 
 N: Potion of Summoning 
 I: 79 
-C: 0
+C: 1
+E: 25 1			# empty vial
+E: 109 1		# silver bar
+E: 62 1			# deer Antlers
+E: 8 4			# White asiatic lilly
+E: 0
 
 N: Potion of Vitality 
 I: 65 
-C: 0
+C: 1
+E: 25 1			# empty vial
+E: 53 1			# cactus
+E: 86 1			# Puma fur
+E: 0
 
 N: Potion of Wildness 
 I: 68 
-C: 0
+C: 1
+E: 25 1			# empty vial
+E: 24 1			# ale
+E: 61 1			# wolf fur
+E: 0
 
 N: Potion of Will 
 I: 70 
+C: 1
+E: 25 1			# empty vial
+E: 63 3			# bones Powder
+E: 18 2			# silver ore
+E: 5 1			# yellow rose
+E: 0
+
+N: Poison Antidote 
+I: 523 
+C: 1
+E: 25 1			# empty vial
+E: 510 3		# rue
+E: 520 10		# yarrow
+E: 511 3		# Poppies
+E: 24 4			# ale
+E: 0
+
+N: Invisibility Potion 
+I: 522 
+C: 1
+E: 25 1			# empty vial
+E: 24 2			# ale
+E: 444 2		# snow leopard fur
+E: 521 7		# wormwood
+E: 507 5		# Daffodils
+E: 518 6		# Mullein
+E: 0
+
+N: Magic Potion 
+I: 357 
+C: 1
+E: 25 1			# empty vial
+E: 19 1			# Polished Ruby
+E: 7 2			# black rose
+E: 24 1			# ale
+E: 146 1		# rat tail
+E: 0
+
+N: Potion of Accuracy 
+I: 530 
 C: 0
 
+N: Potion of Action Points 
+I: 1142 
+C: 0
+
+N: Potion of Alchemy 
+I: 567 
+C: 0
+
+N: Potion of Archery AP 
+I: 988 
+C: 0
+
+N: Potion of Attack 
+I: 73 
+C: 0
+
+N: Potion of Attack Reduction 
+I: 981 
+C: 0
+
+N: Potion of Body Restoration 
+I: 27 
+C: 0
+
+N: Potion of Cold Protection 
+I: 950 
+C: 0
+
+N: Potion of Coordination 
+I: 64 
+C: 0
+
+N: Potion of Crafting 
+I: 356 
+C: 0
+
+N: Potion of Defense 
+I: 74 
+C: 0
+
+N: Potion of Defense Reduction 
+I: 982 
+C: 0
+
+N: Potion of Engineering 
+I: 728 
+C: 0
+
+N: Potion of Evasion 
+I: 531 
+C: 0
+
+N: Potion of Extra Mana 
+I: 284 
+C: 0
+
+N: Potion of Feasting 
+I: 77 
+C: 0
+
+N: ywt extract   # Yarrow - Wormwood - Tulips Extract 
+I: 634 
+C: 1
+E: 25 1			# empty vial
+E: 520 40		# yarrow
+E: 521 40		# Wormwood 
+E: 514 40		# Tulips
+E: 534 2		# gypsum
+E: 0
+
+N: nmd extract	# Nightshade - Mullein - Dandelion Extract 
+I: 635 
+C: 1
+E: 25 1			# empty vial
+E: 519 40		# Nightshade
+E: 518 40		# Mullein
+E: 512 40		# Dandelion
+E: 534 2		# gypsum
+E: 0
+
+N: php extract	# Poison Ivy - Henbane - Poppies Extract 
+I: 636 
+C: 1
+E: 25 1			# empty vial
+E: 513 40		# poison Ivy
+E: 517 40		# Henbane 
+E: 511 40		# Poppies
+E: 534 2		# Gypsum
+E: 0
+
+N: rbr extract	# Red Currents - Blue Berries - Rue Extract 
+I: 637 
+C: 1
+E: 25 1			# empty vial
+E: 515 40		# red Currents
+E: 516 40		# blue Berries
+E: 510 40		# rue
+E: 534 2		# gypsum
+E: 0
+
+N: cot extract	# White Chanterelle - Ogre Toes - Tree Mushroom Extract 
+I: 638 
+C: 1
+E: 25 1			# empty vial
+E: 537 40		# White Chanterelle
+E: 538 40		# ogre Toes
+E; 539 40		# Tree Mushroom
+E: 534 2		# gypsum
+E: 0
+
+N: wvm extract	# Wheat - Valerian - Mugwort Extract 
+I: 639 
+C: 1
+E: 25 1			# empty vial
+E: 536 40		# Wheat
+E: 509 40		# Valerian
+E: 508 40		# Mugwort
+E: 534 2		# gypsum
+E: 0
+
+N: wdf extract	# Wheat - Daffodils - Feran Horn Extract 
+I: 640 
+C: 1
+E: 25 1			# empty vial
+E: 536 40		# Wheat
+E: 507 40		# Daffodils
+E: 447 4		# Feran horn
+E: 534 2		# gypsum
+E: 0
+
+N: Refined Vegetal Mixture 
+I: 641 
+C: 1
+E: 634 5		# ywt extract
+E: 635 5		# nmd extract
+E: 636 5		# php extract
+E: 637 5		# rbr extract
+E: 0
+
+N: Mixture of Power 
+I: 642 
+C: 1
+E: 638 5		# cot Extract
+E: 639 5		# wvm extract
+E: 640 5		# wdf extract
+E: 0
 
 
 
@@ -568,7 +854,7 @@ C: 0
 
 
 
-#=============================================================================
+
 
 #========== Engineering ==========
 
@@ -583,101 +869,185 @@ N: a/m indicator	#Accuracy/Magic Indicator
 I: 738 
 C: 0
 
-N: accuracy predictor 
-I: 745 
-C: 0
-
-N: a/d ndicator 
+N: a/d indicator 
 I: 736 
 C: 0
 
-N: alembic 
-I: 626 
-C: 0
-
-N: ale 
-I: 24 
-C: 0
-
-N: Armed Orc Stone Construction 
-I: 587 
-C: 0
-
-N: Armor Construction 
-I: 178 
-C: 0
-
-N: Arrow/bolt head 
-I: 896 
-C: 0
-
-N: Arrow/bolt head mold 
-I: 895 
-C: 0
-
-N: Artificer removal 
-I: 1031 
-C: 0
-
-N: Artificial Removal Stone 
-I: 653 
+N: accuracy predictor 
+I: 745 
 C: 0
 
 N: Attack predictor 
 I: 741 
 C: 0
 
-N: Attribute reset stone 
-I: 1155 
+N: Saltpeter 
+I: 717 
+C: 1
+E: 719 5		# dung
+E: 716 2		# ashes
+E: 0
+
+N: Blackpowder 
+I: 710 
+C: 1
+E: 717 5		# Saltpeter
+E: 47 2			# coal
+E: 17 1			# Sulfur
+E: 0
+
+N: Bones Powder 
+I: 63 
+C: 1
+E: 54 3			# Bones
+E: 0
+
+N: Caltrop 
+I: 712 
+C: 1
+E: 108 3	# iron bar
+E: 31 2		# fire essence
+E: 39 4		# death essence
+E: 0
+
+N: Nail 
+I: 722 
+C: 1
+E: 108 2		# iron bar
+E: 0
+
+N: Poisoned Caltrop 
+I: 713 
+C: 1
+E: 108 3		# iron bar
+E: 31 2			# fire essence
+E: 39 3			# death essence
+E: 513 8		# poison Ivy
+E: 0
+
+
+
+
+#========== Tayloring ==========
+
+N: Black Dye 
+I: 827 
+C: 1
+E: 875 1		# square vial
+E: 717 1		# saltpeter
+E: 32 3			# water essence
+E: 47 20		# coal
+E: 0
+
+N: Blue Dye 
+I: 825 
+C: 1
+E: 875 1		# square vial
+E: 717 1		# saltpeter
+E: 32 2			# Water Essence
+E: 1 20			# blue star flower
+E: 0
+
+N: Red Dye 
+I: 821 
+C: 1
+E: 875 1		# square vial
+E: 717 1		# saltpeter
+E: 32 2			# water essence
+E: 6 5			# red rose
+E: 0
+
+N: Yellow Dye 
+I: 823 
+C: 1
+E: 875 1		# square vial
+E: 717 1		# saltpeter
+E: 32 2 		# water essence
+E: 507 12		# Daffodils
+E: 0
+
+
+N: White Fabric 
+I: 828 
+C: 1
+E: 838 1		# loom
+E: 88 10 		# thread
+E: 0
+
+N: Blue Fabric 
+I: 834 
 C: 0
 
-N: Axe of freezing 
-I: 374 
+N: Black Fabric 
+I: 829 
 C: 0
 
-N: Bad Day Removal 
-I: 1035 
+N: Red Fabric 
+I: 830 
 C: 0
 
-N: Bear Fur 
-I: 59 
+N: Brown Fabric 
+I: 837 
 C: 0
 
-N: Bear Stone Construction 
-I: 580 
+N: Yellow Fabric 
+I: 832 
 C: 0
 
-N: Bear Summoning Stone 
-I: 570 
+
+N: Black Purple Striped Baggy Pants 
+I: 799 
 C: 0
 
-N: Beaver fur 
-I: 145 
-C: 0
-
-N: Binding Stone 
-I: 407 
-C: 0
-
-N: Black Adventurer's cap 
-I: 659 
-C: 0
-
-N: Black and White Whistle 
-I: 1011 
+N: Black Red Striped Baggy Pants 
+I: 797 
 C: 0
 
 N: Black Baggy Pants 
 I: 801 
 C: 0
 
-N: Black Bandana 
-I: 670 
+N: Brown Baggy Pants 
+I: 802 
 C: 0
 
 N: Black Blue Striped Baggy Pants 
 I: 800 
 C: 0
+
+N: Black Robe 
+I: 782 
+C: 0
+
+N: Black Robe Skirt 
+I: 787 
+C: 0
+
+N: Black jacket 
+I: 1111 
+C: 0
+
+N: Blue green vest 
+I: 1051 
+C: 0
+
+N: Black Adventurer's cap 
+I: 659 
+C: 0
+
+
+N: Black Bandana 
+I: 670 
+C: 0
+
+N: Blue Bandana 
+I: 668 
+C: 0
+
+N: Brown Bandana 
+I: 667 
+C: 0
+
 
 N: Black boots 
 I: 1092 
@@ -697,54 +1067,6 @@ C: 0
 
 N: Black doublet 
 I: 1105 
-C: 0
-
-N: Black Dragon Scale 
-I: 709 
-C: 0
-
-N: Black Dye 
-I: 827 
-C: 0
-
-N: Black Fabric 
-I: 829 
-C: 0
-
-N: Black Horse Whistle 
-I: 996 
-C: 0
-
-N: Black jacket 
-I: 1111 
-C: 0
-
-N: Black panther fur 
-I: 442 
-C: 0
-
-N: Blackpowder 
-I: 710 
-C: 0
-
-N: Black Purple Striped Baggy Pants 
-I: 799 
-C: 0
-
-N: Black Red Striped Baggy Pants 
-I: 797 
-C: 0
-
-N: Black Robe 
-I: 782 
-C: 0
-
-N: Black Robe Skirt 
-I: 787 
-C: 0
-
-N: Black Rose 
-I: 7 
 C: 0
 
 N: Black Scarf 
@@ -795,60 +1117,12 @@ N: Black Wizard Hat
 I: 1096 
 C: 0
 
-N: Blank paper 
-I: 1071 
-C: 0
-
 N: Blue Adventurer's cap 
 I: 656 
 C: 0
 
-N: Blue Bandana 
-I: 668 
-C: 0
-
-N: Blue Berries 
-I: 516 
-C: 0
-
 N: Blue Cavalier Hat 
 I: 813 
-C: 0
-
-N: Blue Dragon Scale 
-I: 1124 
-C: 0
-
-N: Blue Dragon Shield 
-I: 1089 
-C: 0
-
-N: Blue dragon sword 
-I: 1090 
-C: 0
-
-N: Blue Dye 
-I: 825 
-C: 0
-
-N: Blue Fabric 
-I: 834 
-C: 0
-
-N: Blue green vest 
-I: 1051 
-C: 0
-
-N: Blue Lupine 
-I: 9 
-C: 0
-
-N: Blue Quartz 
-I: 15 
-C: 0
-
-N: Blue Quartz Mining 
-I: 200 
 C: 0
 
 N: Blue Robe 
@@ -857,10 +1131,6 @@ C: 0
 
 N: Blue Robe Skirt 
 I: 791 
-C: 0
-
-N: Blue Star Flower 
-I: 1 
 C: 0
 
 N: Blue Tricorn Hat 
@@ -875,96 +1145,8 @@ N: Blue Tunic White Shirt
 I: 769 
 C: 0
 
-N: Boat Ticket 
-I: 1013 
-C: 0
-
-N: Body Piercing Cloak 
-I: 134 
-C: 0
-
-N: Body Piercing removal 
-I: 1037 
-C: 0
-
-N: Bone of Death 
-I: 372 
-C: 0
-
-N: Bones 
-I: 54 
-C: 0
-
-N: Bones Powder 
-I: 63 
-C: 0
-
-N: Bot Blessing Coupon 
-I: 1021 
-C: 0
-
-N: Branch Of Destruction 
-I: 371 
-C: 0
-
-N: Bread 
-I: 21 
-C: 0
-
-N: Bronze Cuisses 
-I: 592 
-C: 0
-
-N: Bronze Cuisses Construction 
-I: 603 
-C: 0
-
-N: Bronze Greave 
-I: 593 
-C: 0
-
-N: Bronze Greaves Construction 
-I: 604 
-C: 0
-
-N: Bronze Helm 
-I: 594 
-C: 0
-
-N: Bronze Helm Construction 
-I: 605 
-C: 0
-
-N: Bronze Plate Mail 
-I: 591 
-C: 0
-
-N: Bronze Plate Mail Construction 
-I: 602 
-C: 0
-
-N: Bronze Shield 
-I: 595 
-C: 0
-
-N: Bronze Shield Construction 
-I: 606 
-C: 0
-
-N: Bronze Sword 
-I: 679 
-C: 0
-
 N: Brown Adventurer's cap 
 I: 657 
-C: 0
-
-N: Brown Baggy Pants 
-I: 802 
-C: 0
-
-N: Brown Bandana 
-I: 667 
 C: 0
 
 N: Brown blue peasant dress 
@@ -987,20 +1169,8 @@ N: Brown doublet
 I: 1107 
 C: 0
 
-N: Brown Fabric 
-I: 837 
-C: 0
-
-N: Brown Horse Whistle 
-I: 960 
-C: 0
-
 N: Brown jacket 
 I: 1108 
-C: 0
-
-N: Brown rabbit fur 
-I: 67 
 C: 0
 
 N: Brown Robe 
@@ -1009,10 +1179,6 @@ C: 0
 
 N: Brown Robe Skirt 
 I: 789 
-C: 0
-
-N: Brown Snake Skin 
-I: 84 
 C: 0
 
 N: Brown Tricorn Hat 
@@ -1035,16 +1201,348 @@ N: Brown vest
 I: 1054 
 C: 0
 
-N: Bucket 
-I: 720 
+
+#========== Crafting ==========
+
+N: Gold Medallion 
+I: 96 
+C: 1
+E: 110 3		# gold bar
+E: 31 3			# fire essence
+E: 0
+
+N: Silver Medallion 
+I: 95 
+C: 0
+E: 109 3		# silver bar
+E: 31 3			# fire essence
+E: 0
+
+N: Gold Ring 
+I: 94 
+C: 1
+E: 110 2		# gold bar
+E: 31 3			# fire essence
+E: 0
+
+N: Silver Ring 
+I: 80 
+C: 0
+E: 109 2		# Silver bar
+E: 31 3			# fire essence
+E: 0
+
+N: Polished Diamond 
+I: 30 
+C: 1
+E: 32 2			# water essence
+E: 51 1			# diamond
+E: 114 3		# gem sanding paper
+E: 0
+
+N: Polished Emerald 
+I: 26 
+C: 1
+E: 32 2			# water essence
+E: 48 1			# emerald
+E: 114 1		# gem sanding paper
+E: 0
+
+N: Polished Ruby 
+I: 19 
+C: 1
+E: 32 2			# water essence
+E: 50 1			# ruby
+E: 114 1		# gem Sanding paper
+E: 0
+
+N: Polished Sapphire 
+I: 29 
+C: 1
+E: 32 2			# water essence
+E: 49 1			# sapphire
+E: 114 1		# gem sanding paper
+E: 0
+
+N: Gatherer Medallion 
+I: 997 
+C: 0
+
+
+
+
+
+#========== Misc ==========
+
+N: alembic 
+I: 626 
+C: 1
+E: 282 1		# Enriched fire essence
+E: 112 4		# titanium bar
+E: 13 20 		# quartz
+E: 0
+
+N: Cooked Meat 
+I: 81 
+C: 1
+E: 55 1			# raw meat
+E: 0
+
+
+
+#========== Flowers ==========
+
+N: Black Rose 
+I: 7 
+C: 0
+
+N: Blue Berries 
+I: 516 
+C: 0
+
+N: Blue Star Flower 
+I: 1 
+C: 0
+
+N: Blue Lupine 
+I: 9 
 C: 0
 
 N: Cactus 
 I: 53 
 C: 0
 
-N: Caltrop 
-I: 712 
+N: Cotton 
+I: 504 
+C: 0
+
+N: Daffodils 
+I: 507 
+C: 0
+
+N: Dandelion 
+I: 512 
+C: 0
+
+N: Chrysanthemum 
+I: 3 
+C: 0
+
+N: Henbane 
+I: 517 
+C: 0
+
+N: Impatiens 
+I: 2 
+C: 0
+
+N: Lilacs 
+I: 11 
+C: 0
+
+N: Mugwort 
+I: 508 
+C: 0
+
+N: Mullein 
+I: 518 
+C: 0
+
+N: Nightshade 
+I: 519 
+C: 0
+
+N: Ogre Toes 
+I: 538 
+C: 0
+
+N: Poison Ivy 
+I: 513 
+C: 0
+
+N: Poppies 
+I: 511 
+C: 0
+
+N: Red Currents 
+I: 515 
+C: 0
+
+N: Red Rose 
+I: 6 
+C: 0
+
+N: Red Snapdragons 
+I: 10 
+C: 0
+
+
+
+
+
+#========== Crystals ==========
+
+N: Blue Quartz 
+I: 15 
+C: 0
+
+
+
+
+
+
+
+
+
+#========== animal parts ==========
+
+N: Bear Fur 
+I: 59 
+C: 0
+
+N: Beaver fur 
+I: 145 
+C: 0
+
+N: Black Dragon Scale 
+I: 709 
+C: 0
+
+N: Black panther fur 
+I: 442 
+C: 0
+
+N: Blue Dragon Scale 
+I: 1124 
+C: 0
+
+N: Brown rabbit fur 
+I: 67 
+C: 0
+
+N: Brown Snake Skin 
+I: 84 
+C: 0
+
+N: Bones 
+I: 54 
+C: 0
+
+N: Feran Horn 
+I: 447 
+C: 0
+
+
+
+
+
+
+
+
+#=============================================================================
+
+
+N: ale 
+I: 24 
+C: 0
+
+N: Armed Orc Stone Construction 
+I: 587 
+C: 0
+
+N: Armor Construction 
+I: 178 
+C: 0
+
+N: Arrow/bolt head 
+I: 896 
+C: 0
+
+N: Arrow/bolt head mold 
+I: 895 
+C: 0
+N: Bear Stone Construction 
+I: 580 
+C: 0
+
+N: Black and White Whistle 
+I: 1011 
+C: 0
+
+N: Black Horse Whistle 
+I: 996 
+C: 0
+
+N: Blank paper 
+I: 1071 
+C: 0
+
+N: Blue Quartz Mining 
+I: 200 
+C: 0
+
+N: Boat Ticket 
+I: 1013 
+C: 0
+
+N: Body Piercing Cloak 
+I: 134 
+C: 0
+
+N: Body Piercing removal 
+I: 1037 
+C: 0
+
+N: Bone of Death 
+I: 372 
+C: 0
+
+N: Bot Blessing Coupon 
+I: 1021 
+C: 0
+
+N: Branch Of Destruction 
+I: 371 
+C: 0
+
+N: Bread 
+I: 21 
+C: 0
+
+N: Bronze Cuisses Construction 
+I: 603 
+C: 0
+
+N: Bronze Greaves Construction 
+I: 604 
+C: 0
+
+N: Bronze Helm Construction 
+I: 605 
+C: 0
+
+N: Bronze Plate Mail 
+I: 591 
+C: 0
+
+N: Bronze Plate Mail Construction 
+I: 602 
+C: 0
+
+N: Bronze Shield 
+I: 595 
+C: 0
+
+N: Bronze Shield Construction 
+I: 606 
+C: 0
+
+N: Brown Horse Whistle 
+I: 960 
+C: 0
+
+N: Bucket 
+I: 720 
 C: 0
 
 N: Cape of No More Warlock 
@@ -1069,10 +1567,6 @@ C: 0
 
 N: Chimeran Mountain Wolf Summoning 
 I: 331 
-C: 0
-
-N: Chrysanthemum 
-I: 3 
 C: 0
 
 N: Cinnabar 
@@ -1107,32 +1601,8 @@ N: Conjurer removal
 I: 1149 
 C: 0
 
-N: Cooked Meat 
-I: 81 
-C: 0
-
 N: Coordination Removal Stone 
 I: 643 
-C: 0
-
-N: Copper Mining 
-I: 596 
-C: 0
-
-N: Copper Molding 
-I: 600 
-C: 0
-
-N: Copper Ore 
-I: 607 
-C: 0
-
-N: Copper Smelting 
-I: 598 
-C: 0
-
-N: Cotton 
-I: 504 
 C: 0
 
 N: Creature food 
@@ -1189,18 +1659,6 @@ C: 0
 
 N: Custom Shield 
 I: 680 
-C: 0
-
-N: Cutlass 
-I: 458 
-C: 0
-
-N: Cutlass of the mage 
-I: 543 
-C: 0
-
-N: Daffodils 
-I: 507 
 C: 0
 
 N: Daily cooldown reducer 
@@ -1277,10 +1735,6 @@ C: 0
 
 N: Damaged Red Dragon Mail 
 I: 919 
-C: 0
-
-N: Dandelion 
-I: 512 
 C: 0
 
 N: Dapple Gray Whistle 
@@ -1397,7 +1851,9 @@ C: 0
 
 N: Dvarium Ore 
 I: 989 
-C: 0
+C: 1
+E: 116 1			# iron broad sword
+E: 0
 
 N: Dvarium Smelting 
 I: 985 
@@ -1519,10 +1975,6 @@ N: Feet Armor Construction
 I: 180 
 C: 0
 
-N: Feran Horn 
-I: 447 
-C: 0
-
 N: Fire arrows 
 I: 889 
 C: 0
@@ -1545,14 +1997,13 @@ C: 0
 
 N: Fox Scarf 
 I: 90 
-C: 0
+C: 1
+E: 85 1			# fox fur
+E: 88 1			# thread
+E: 0
 
 N: Fruits 
 I: 43 
-C: 0
-
-N: Frying Pan 
-I: 685 
 C: 0
 
 N: Fur Boots 
@@ -1573,10 +2024,6 @@ C: 0
 
 N: Fur Torso 
 I: 342 
-C: 0
-
-N: Gatherer Medallion 
-I: 997 
 C: 0
 
 N: Gelatine Bones removal 
@@ -1643,20 +2090,12 @@ N: Golden Star Mace
 I: 684 
 C: 0
 
-N: Gold Medallion 
-I: 96 
-C: 0
-
 N: Gold Medallions Building 
 I: 221 
 C: 0
 
 N: Gold Ore 
 I: 45 
-C: 0
-
-N: Gold Ring 
-I: 94 
 C: 0
 
 N: Gold Rings Building 
@@ -1795,10 +2234,6 @@ N: Hellspawn removal
 I: 925 
 C: 0
 
-N: Henbane 
-I: 517 
-C: 0
-
 N: High Explosive Mine 
 I: 760 
 C: 0
@@ -1821,7 +2256,9 @@ C: 0
 
 N: Hydrogenium Ore 
 I: 440 
-C: 0
+C: 1
+E: 118 1		# steel 2 edged
+E: 0
 
 N: I can't Dance removal 
 I: 926 
@@ -1871,10 +2308,6 @@ N: Imbroglio Islands Ring Building
 I: 403 
 C: 0
 
-N: Impatiens 
-I: 2 
-C: 0
-
 N: Inorganic Removal Stone 
 I: 652 
 C: 0
@@ -1891,10 +2324,6 @@ N: Invasion Token
 I: 923 
 C: 0
 
-N: Invisibility Potion 
-I: 522 
-C: 0
-
 N: Invisibility Removal Ward 
 I: 949 
 C: 0
@@ -1905,7 +2334,13 @@ C: 0
 
 N: Iron Axe 
 I: 316 
-C: 0
+C: 1
+E: 108 10			# iron Bar
+E: 353	1			# wood handle
+E: 31 13			# fire essence
+E: 32 16			# water essence
+E: 34 9				# air essence
+E: 0
 
 N: Iron Battle Hammer 
 I: 139 
@@ -1913,7 +2348,11 @@ C: 0
 
 N: Iron Broad Sword 
 I: 116 
-C: 0
+C: 1
+E: 108 12			# iron Bar
+E: 111 2			# steel bar
+E: 31 3				# fire essence
+E: 0
 
 N: Iron Broad Sword Construction 
 I: 172 
@@ -1954,7 +2393,11 @@ C: 0
 
 N: Iron Shield 
 I: 131 
-C: 0
+C: 1
+E: 108 8		# iron bar
+E: 111 2		# steel bar
+E: 31 4			# fire essence
+E: 0
 
 N: Iron Shield Construction 
 I: 194 
@@ -1982,7 +2425,13 @@ C: 0
 
 N: Jagged Saber 
 I: 463 
-C: 0
+C: 1
+E: 483 2		# Wolfram bar
+E: 407 1		# binding stone
+E: 111 1		# steel bar
+E: 112 1		# titanium bar
+E: 31 10		# fire essence
+E: 0
 
 N: Jagged Saber of Cooling 
 I: 546 
@@ -2007,15 +2456,6 @@ C: 0
 N: Leather 
 I: 126 
 C: 0
-
-N: Leather Boots 
-I: 143 
-C: 0
-
-N: Leather Gloves 
-I: 93 
-C: 0
-
 
 N: Leather Helmet Construction 
 I: 183 
@@ -2045,10 +2485,6 @@ N: Lightmeter
 I: 758 
 C: 0
 
-N: Lilacs 
-I: 11 
-C: 0
-
 N: Little Dragon Blue Summoning Stone 
 I: 1150 
 C: 0
@@ -2075,10 +2511,6 @@ C: 0
 
 N: Magic bolts 
 I: 891 
-C: 0
-
-N: Magic Potion 
-I: 357 
 C: 0
 
 N: Magic predictor 
@@ -2149,10 +2581,6 @@ N: Mirror Skin removal
 I: 1032 
 C: 0
 
-N: Mixture of Power 
-I: 642 
-C: 0
-
 N: Modable Iron Broad Sword 
 I: 288 
 C: 0
@@ -2201,24 +2629,12 @@ N: Mortar & Pestle
 I: 52 
 C: 0
 
-N: Mugwort 
-I: 508 
-C: 0
-
 N: Mule Glyph 
 I: 957 
 C: 0
 
 N: Mule Skin 
 I: 57 
-C: 0
-
-N: Mullein 
-I: 518 
-C: 0
-
-N: Nail 
-I: 722 
 C: 0
 
 N: Naralik Ring Building 
@@ -2241,14 +2657,6 @@ N: Nexus transfer stone
 I: 1038 
 C: 0
 
-N: Nightshade 
-I: 519 
-C: 0
-
-N: Nightshade - Mullein - Dandelion Extract 
-I: 635 
-C: 0
-
 N: Night Visor 
 I: 672 
 C: 0
@@ -2259,10 +2667,6 @@ C: 0
 
 N: No More Tears Cape 
 I: 341 
-C: 0
-
-N: Ogre Toes 
-I: 538 
 C: 0
 
 N: One removal 
@@ -2357,116 +2761,16 @@ N: Point Defense
 I: 1034 
 C: 0
 
-N: Poison Antidote 
-I: 523 
-C: 0
-
-N: Poisoned Caltrop 
-I: 713 
-C: 0
-
-N: Poison Ivy 
-I: 513 
-C: 0
-
-N: Poison Ivy - Henbane - Poppies Extract 
-I: 636 
-C: 0
-
 N: Polar Bear Fur 
 I: 366 
-C: 0
-
-N: Polished Diamond 
-I: 30 
-C: 0
-
-N: Polished Emerald 
-I: 26 
-C: 0
-
-N: Polished Ruby 
-I: 19 
-C: 0
-
-N: Polished Sapphire 
-I: 29 
-C: 0
-
-N: Poppies 
-I: 511 
 C: 0
 
 N: Portland Ring Building 
 I: 231 
 C: 0
 
-N: Potion of Accuracy 
-I: 530 
-C: 0
-
-N: Potion of Action Points 
-I: 1142 
-C: 0
-
-N: Potion of Alchemy 
-I: 567 
-C: 0
-
 N: Potion of Alchemy Construction 
 I: 589 
-C: 0
-
-N: Potion of Archery AP 
-I: 988 
-C: 0
-
-N: Potion of Attack 
-I: 73 
-C: 0
-
-N: Potion of Attack Reduction 
-I: 981 
-C: 0
-
-N: Potion of Body Restoration 
-I: 27 
-C: 0
-
-N: Potion of Cold Protection 
-I: 950 
-C: 0
-
-N: Potion of Coordination 
-I: 64 
-C: 0
-
-N: Potion of Crafting 
-I: 356 
-C: 0
-
-N: Potion of Defense 
-I: 74 
-C: 0
-
-N: Potion of Defense Reduction 
-I: 982 
-C: 0
-
-N: Potion of Engineering 
-I: 728 
-C: 0
-
-N: Potion of Evasion 
-I: 531 
-C: 0
-
-N: Potion of Extra Mana 
-I: 284 
-C: 0
-
-N: Potion of Feasting 
-I: 77 
 C: 0
 
 N: Power Hungry removal 
@@ -2609,14 +2913,6 @@ N: Red Bandana
 I: 669 
 C: 0
 
-N: Red Currents 
-I: 515 
-C: 0
-
-N: Red Currents - Blue Berries - Rue Extract 
-I: 637 
-C: 0
-
 N: Red Dragon Cuisses 
 I: 674 
 C: 0
@@ -2641,14 +2937,6 @@ N: Red Dragon Scale
 I: 624 
 C: 0
 
-N: Red Dye 
-I: 821 
-C: 0
-
-N: Red Fabric 
-I: 830 
-C: 0
-
 N: Red pink dress 
 I: 1058 
 C: 0
@@ -2665,10 +2953,6 @@ N: Red Robe Skirt
 I: 795 
 C: 0
 
-N: Red Rose 
-I: 6 
-C: 0
-
 N: Red Royal Cape 
 I: 676 
 C: 0
@@ -2681,10 +2965,6 @@ N: Red Snake Skin
 I: 83 
 C: 0
 
-N: Red Snapdragons 
-I: 10 
-C: 0
-
 N: Red Tunic 
 I: 765 
 C: 0
@@ -2695,10 +2975,6 @@ C: 0
 
 N: Red vest 
 I: 1052 
-C: 0
-
-N: Refined Vegetal Mixture 
-I: 641 
 C: 0
 
 N: Ring Mold 
@@ -2877,10 +3153,6 @@ N: Rue
 I: 510 
 C: 0
 
-N: Saltpeter 
-I: 717 
-C: 0
-
 N: Santa Hat 
 I: 815 
 C: 0
@@ -2979,20 +3251,12 @@ N: Silver Crown
 I: 666 
 C: 0
 
-N: Silver Medallion 
-I: 95 
-C: 0
-
 N: Silver Medallions Building 
 I: 220 
 C: 0
 
 N: Silver Ore 
 I: 18 
-C: 0
-
-N: Silver Ring 
-I: 80 
 C: 0
 
 N: Silver Rings Building 
@@ -3523,14 +3787,6 @@ N: Wheat
 I: 536 
 C: 0
 
-N: Wheat - Daffodils - Feran Horn Extract 
-I: 640 
-C: 0
-
-N: Wheat - Valerian - Mugwort Extract 
-I: 639 
-C: 0
-
 N: Whilhelm Hood removal 
 I: 1030 
 C: 0
@@ -3555,16 +3811,8 @@ N: White Chanterelle
 I: 537 
 C: 0
 
-N: White Chanterelle - Ogre Toes - Tree Mushroom Extract 
-I: 638 
-C: 0
-
 N: White doublet 
 I: 1104 
-C: 0
-
-N: White Fabric 
-I: 828 
 C: 0
 
 N: White gold wedding dress 
@@ -3675,18 +3923,6 @@ N: Yarrow
 I: 520 
 C: 0
 
-N: ywt extract   # Yarrow - Wormwood - Tulips Extract 
-I: 634 
-C: 0
-
-N: Yellow Dye 
-I: 823 
-C: 0
-
-N: Yellow Fabric 
-I: 832 
-C: 0
-
 N: Yellow Robe 
 I: 786 
 C: 0
@@ -3721,20 +3957,12 @@ C: 0
 
 #========== Stones ==========
 
-N: animal removal stone 
-I: 650 
-C: 0
-
-N: antisocial removal 
-I: 927 
+N: Bear Summoning Stone 
+I: 570 
 C: 0
 
 N: Tiger Summoning Stone 
 I: 571 
-C: 0
-
-N: Vegetal Removal Stone 
-I: 651 
 C: 0
 
 N: Yeti Summoning Stone 
@@ -3747,6 +3975,41 @@ C: 0
 
 N: Armed Orc Summoning Stone 
 I: 577 
+C: 0
+
+
+#==========
+
+N: Bad Day Removal 
+I: 1035 
+C: 0
+
+N: animal removal stone 
+I: 650 
+C: 0
+
+N: antisocial removal 
+I: 927 
+C: 0
+
+N: Vegetal Removal Stone 
+I: 651 
+C: 0
+
+N: Artificer removal 
+I: 1031 
+C: 0
+
+N: Artificial Removal Stone 
+I: 653 
+C: 0
+
+N: Attribute reset stone 
+I: 1155 
+C: 0
+
+N: Binding Stone 
+I: 407 
 C: 0
 
 
@@ -4855,5 +5118,21 @@ C: 0
 
 N: Book of Yeti Fighting 
 I: 732 
+C: 0
+
+N: Potion of Potion Construction 
+I: 590 
+C: 0
+
+N: Copper Mining 
+I: 596 
+C: 0
+
+N: Copper Molding 
+I: 600 
+C: 0
+
+N: Copper Smelting 
+I: 598 
 C: 0
 

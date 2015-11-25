@@ -65,7 +65,8 @@ int main(int argc, char * argv[])
 		
 		printShoppingList(cart.head);
 		
-		
+		freeItemList(&itemlist);
+		freeCart(&cart);
 	} else {
 		printf("\nMissing parameters. \nUse: \n\t%s --help\nfor correct syntax\n\n", argv[0]);
 	}

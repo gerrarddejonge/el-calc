@@ -14,7 +14,6 @@
 #include "el_parse.h"
 #include "el_string.h"
 
-#define ITEMFILE	"items.lst"
 #define COMMENTCHAR '#'
 
 
@@ -243,7 +242,19 @@ void searchItem(List * list, char name[])
 	}
 }
 
-
+void freeItemList(List * list)
+{
+	Item * temp;
+	Item * head = list->head;
+	
+	while (head != NULL) {
+		temp = head;
+		head = head->right;
+		free(temp);
+	}
+	list->head = NULL;
+	list->tail = NULL;
+}
    
         
 // end of el_items.c        

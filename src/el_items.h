@@ -34,8 +34,9 @@ void   showItem(Item * item);
 
 void   searchItem(List * list, char name[]);
 
-char   getHead(char * line);
+void freeItemList(List * list);
 
+char   getHead(char * line);
 
 
 #endif // EL_ITEMS_H

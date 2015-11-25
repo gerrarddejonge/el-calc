@@ -7,6 +7,7 @@
 
 
 #include <stdio.h>
+#include <stdlib.h>
 
 #include "el_defs.h"
 #include "el_shop.h"
@@ -105,6 +106,18 @@ void    printShoppingList(ShoppingList * shop)
 	}
 }
 
+void freeCart(ShoppingCart * cart)
+{
+	ShoppingList * temp;
+	ShoppingList * head = cart->head;
 
-
+	while (head != NULL) {
+		temp = head;
+		head = head->next;
+		free(temp);
+	}
+	cart->head = NULL;
+	cart->tail = NULL;
+}
+	
 // end of file el_shop.c
