@@ -42,13 +42,15 @@ int main(int argc, char * argv[])
 		}
 
 /// If we have a lookup or search request, execute it and exit program
-		if (pstate.lookup) {
-			printf("Looking for %s.\n", pstate.itemname);
-			lookup(&itemlist, pstate.itemname);
-			exit(EXIT_SUCCESS);
-		} else if (pstate.search) {
+		if (pstate.search) {
 			printf("Searching for %s.\n", pstate.itemname);
 			searchItem(&itemlist, pstate.itemname);
+			freeItemList(&itemlist);
+			exit(EXIT_SUCCESS);
+		} else if (pstate.lookup) {
+			printf("Looking for %s.\n", pstate.itemname);
+			lookup(&itemlist, pstate.itemname);
+			freeItemList(&itemlist);
 			exit(EXIT_SUCCESS);
 		}
 		

@@ -804,7 +804,7 @@ C: 1
 E: 25 1			# empty vial
 E: 537 40		# White Chanterelle
 E: 538 40		# ogre Toes
-E; 539 40		# Tree Mushroom
+E: 539 40		# Tree Mushroom
 E: 534 2		# gypsum
 E: 0
 
@@ -976,7 +976,11 @@ E: 0
 
 N: Blue Fabric 
 I: 834 
-C: 0
+C: 1
+E: 825 1		# blue dye
+E: 828 1		# white fabric
+E: 34 5			# air essence
+E: 0
 
 N: Black Fabric 
 I: 829 
