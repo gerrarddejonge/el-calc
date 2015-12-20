@@ -413,6 +413,11 @@ N: Blue Dragon Mail
 I: 1088 
 C: 0
 
+N: Ice Dragon Mail 
+I: 939 
+C: 0
+
+
 
 N: Leather Pants 
 I: 142 
@@ -453,6 +458,11 @@ N: Bronze Cuisses
 I: 592 
 C: 0
 
+N: Ice Dragon Cuisses 
+I: 940 
+C: 0
+
+
 
 N: Leather Boots 
 I: 143 
@@ -484,6 +494,10 @@ C: 0
 
 N: Bronze Greave 
 I: 593 
+C: 0
+
+N: Ice Dragon Greave 
+I: 941 
 C: 0
 
 
@@ -518,6 +532,11 @@ C: 0
 N: Bronze Helm 
 I: 594 
 C: 0
+
+N: Ice Dragon Helm 
+I: 938 
+C: 0
+
 
 
 
@@ -948,6 +967,33 @@ E: 32 2			# Water Essence
 E: 1 20			# blue star flower
 E: 0
 
+N: Green Dye 
+I: 824 
+C: 1
+E: 875 1		# square vial
+E: 717 1		# saltpeter
+E: 32 2			# Water essence
+E: 508 15		# Mugwort
+E: 0
+
+N: Orange Dye 
+I: 822 
+C: 1
+E: 875 1		# square vial
+E: 32 2			# Water essence
+E: 6 14			# red rose
+E: 9999 14		# sunflower
+E: 0
+
+N: Purple Dye 
+I: 826 
+C: 1
+E: 875 1		# square vial
+E: 717 1		# saltpeter
+E: 32 2			# Water Essence
+E: 519 20		# nightshade
+E: 0
+
 N: Red Dye 
 I: 821 
 C: 1
@@ -967,11 +1013,12 @@ E: 507 12		# Daffodils
 E: 0
 
 
-N: White Fabric 
-I: 828 
+N: Black Fabric 
+I: 829 
 C: 1
-E: 838 1		# loom
-E: 88 10 		# thread
+E: 828 1		# white fabric
+E: 827 2		# black Dye
+E: 34 5			# air essence
 E: 0
 
 N: Blue Fabric 
@@ -982,21 +1029,69 @@ E: 828 1		# white fabric
 E: 34 5			# air essence
 E: 0
 
-N: Black Fabric 
-I: 829 
+N: Gray Fabric 
+I: 836 
+C: 1
+E: 828 1		# white fabric
+E: 827 1		# black dye
+E: 34 5			# air essence
+E: 0
+
+N: Green Fabric 
+I: 833 
+C: 1
+E: 828 1		# white fabric
+E: 824 1		# green dye
+E: 34 5			# air essence
+E: 0
+
+N: Orange Fabric 
+I: 831 
+C: 1
+E: 828 1		# white fabric
+E: 822 1		# orange dye
+E: 34 5			# air essence
+E: 0
+
+N: Purple Fabric 
+I: 835 
 C: 0
+E: 828 1		# white fabric
+E: 826 1		# purple dye
+E: 34 5			# air essence
+E: 0
 
 N: Red Fabric 
 I: 830 
-C: 0
+C: 1
+E: 828 1		# white fabric
+E: 821 1		# red Dye
+E: 34 5			# air essence
+E: 0
 
 N: Brown Fabric 
 I: 837 
-C: 0
+C: 1
+E: 828 1		# white fabric
+E: 827 1		# black dye
+E: 821 1		# red dye
+E: 34 5			# air essence
+E: 0
+
+N: White Fabric 
+I: 828 
+C: 1
+E: 838 1		# loom
+E: 88 10 		# thread
+E: 0
 
 N: Yellow Fabric 
 I: 832 
-C: 0
+C: 1
+E: 828 1		# white fabric
+E: 823 1		# yellow Dye
+E: 34 5			# air essence
+E: 0
 
 
 N: Black Purple Striped Baggy Pants 
@@ -1204,6 +1299,57 @@ C: 0
 N: Brown vest 
 I: 1054 
 C: 0
+
+N: Gray Robe 
+I: 783 
+C: 0
+
+N: Gray Robe Skirt 
+I: 788 
+C: 0
+
+N: Gray Wizard Hat 
+I: 1095 
+C: 0
+
+N: Green Adventurer's cap 
+I: 658 
+C: 0
+
+N: Green Bandana 
+I: 671 
+C: 0
+
+N: Green Cavalier Peacock Hat 
+I: 812 
+C: 0
+
+N: Green jacket 
+I: 1109 
+C: 0
+
+N: Green Robe 
+I: 778 
+C: 0
+
+N: Green Robe Skirt 
+I: 793 
+C: 0
+
+N: Green Tunic 
+I: 763 
+C: 0
+
+N: Green white dress 
+I: 1056 
+C: 0
+
+N: Green white skirt 
+I: 1060 
+C: 0
+
+
+
 
 
 #========== Crafting ==========
@@ -1465,6 +1611,7 @@ C: 0
 N: Arrow/bolt head mold 
 I: 895 
 C: 0
+
 N: Bear Stone Construction 
 I: 580 
 C: 0
@@ -2114,68 +2261,8 @@ N: Grapes
 I: 1063 
 C: 0
 
-N: Gray Fabric 
-I: 836 
-C: 0
-
-N: Gray Robe 
-I: 783 
-C: 0
-
-N: Gray Robe Skirt 
-I: 788 
-C: 0
-
-N: Gray Wizard Hat 
-I: 1095 
-C: 0
-
-N: Green Adventurer's cap 
-I: 658 
-C: 0
-
-N: Green Bandana 
-I: 671 
-C: 0
-
-N: Green Cavalier Peacock Hat 
-I: 812 
-C: 0
-
-N: Green Dye 
-I: 824 
-C: 0
-
-N: Green Fabric 
-I: 833 
-C: 0
-
-N: Green jacket 
-I: 1109 
-C: 0
-
-N: Green Robe 
-I: 778 
-C: 0
-
-N: Green Robe Skirt 
-I: 793 
-C: 0
-
 N: Green Snake Skin 
 I: 82 
-C: 0
-
-N: Green Tunic 
-I: 763 
-C: 0
-
-N: Green white dress 
-I: 1056 
-C: 0
-
-N: Green white skirt 
-I: 1060 
 C: 0
 
 N: Gypsum 
@@ -2274,22 +2361,6 @@ C: 0
 
 N: Ice bolts 
 I: 893 
-C: 0
-
-N: Ice Dragon Cuisses 
-I: 940 
-C: 0
-
-N: Ice Dragon Greave 
-I: 941 
-C: 0
-
-N: Ice Dragon Helm 
-I: 938 
-C: 0
-
-N: Ice Dragon Mail 
-I: 939 
 C: 0
 
 N: Ice Dragon Scale 
@@ -2681,14 +2752,6 @@ N: Orange
 I: 1028 
 C: 0
 
-N: Orange Dye 
-I: 822 
-C: 0
-
-N: Orange Fabric 
-I: 831 
-C: 0
-
 N: Orc Slayer 
 I: 460 
 C: 0
@@ -2803,14 +2866,6 @@ C: 0
 
 N: Puma Fur 
 I: 86 
-C: 0
-
-N: Purple Dye 
-I: 826 
-C: 0
-
-N: Purple Fabric 
-I: 835 
 C: 0
 
 N: Purple peasant dress 
@@ -3781,7 +3836,10 @@ C: 0
 
 N: Warm Fur Gloves 
 I: 89 
-C: 0
+C: 1
+E: 67 3
+E: 88 2
+E: 0
 
 N: Weapon Construction 
 I: 169 

@@ -30,9 +30,9 @@ static struct argp_option options[] = {
 	
 	{"item", 'i', "\"itemname\"", 0, "item name.", 0},
 	{"amount", 'a', "value", 0, "amount of items; default = 1", 0},
-	{"lookup", 'l', NULL, 0, "lookup item", 0},
+	{"lookup", 'l', "\"itemname\"", 0, "lookup item", 0},
 	{"directory", 'd', "\"directory/<filename>\"", 0, "path to item list; default = items.lst", 0},
-	{"search", 's', NULL, 0, "Search for items containing item", 0},
+	{"search", 's', "\"text\"", 0, "Search for items containing text", 0},
 	{"number", 'n', "ID number", 0, "item ID", 0},
 	{NULL, 0, NULL, 0, NULL, 0}
 };
@@ -56,6 +56,9 @@ error_t el_arg_parser(int key, char * arg, struct argp_state * state)
 			break;
 		case 'l':
 			pstate->lookup = true;
+			size = strlen(arg);
+			strncpy(pstate->itemname, arg, size);
+			pstate->itemname[size] = '\0';
 			break;
 		case 'd':
 			size = strlen(arg);
@@ -64,6 +67,9 @@ error_t el_arg_parser(int key, char * arg, struct argp_state * state)
 			break;
 		case 's':
 			pstate->search = true;
+			size = strlen(arg);
+			strncpy(pstate->itemname, arg, size);
+			pstate->itemname[size] = '\0';
 			break;
 		case 'n':
 			pstate->itemid = strtol(arg, NULL, 10);
