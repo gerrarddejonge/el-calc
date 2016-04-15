@@ -1055,7 +1055,7 @@ E: 0
 
 N: Purple Fabric 
 I: 835 
-C: 0
+C: 1
 E: 828 1		# white fabric
 E: 826 1		# purple dye
 E: 34 5			# air essence
