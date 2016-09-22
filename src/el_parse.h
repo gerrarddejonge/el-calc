@@ -11,10 +11,10 @@
 
 #include "el_items.h"
 
-elState parseName(char * line, Item * item);
-elState parseID(char * line, Item * item, int ln);
-elState parseCompound(char * line, Item * item, int ln);
-elState parseElement(char * line, Item * item, int ln, int eltcount);
+enum elState parseName(char * line, struct Item * item);
+enum elState parseID(char * line, struct Item * item, int ln);
+enum elState parseCompound(char * line, struct Item * item, int ln);
+enum elState parseElement(char * line, struct Item * item, int ln, int eltcount);
 
 
 

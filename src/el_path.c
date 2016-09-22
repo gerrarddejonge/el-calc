@@ -41,7 +41,7 @@ bool testPath(char path[])
 // getArgPath will look for a filepath in commandline argument list
 // and return the filepath in variable path and true if a valid file 
 // is found
-bool getArgPath(char path[], PState * pstate)
+bool getArgPath(char path[], struct PState * pstate)
 {
 	char temp[PATHSIZE];
 	int  len = strlen(pstate->path); 
@@ -156,7 +156,7 @@ bool getLocalPath(char path[])
 
 
 //getFilePath will look for a valid data file in several places
-void getFilePath(char path[], PState * pstate)
+void getFilePath(char path[], struct PState * pstate)
 {
 	if (!getArgPath(path, pstate)) {
 		if ( ! getEnvPath(path)) {

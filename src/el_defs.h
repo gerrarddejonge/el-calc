@@ -34,7 +34,7 @@
 
 
 // structure is filled with CLI parameters
-struct pstate {
+struct PState {
 	char  itemname[LINESIZE];
 	int   amount;
 	bool  lookup;
@@ -42,67 +42,58 @@ struct pstate {
 	bool  search;
 	int   itemid;
 };
-typedef struct pstate PState;
 
 
-struct recipe {
+struct Recipe {
 	int    id;
 	int    amount;
 };
-typedef struct recipe Recipe;
 
-struct neededitems {
-	struct neededitems * next;
+
+struct NeededItems {
+	struct NeededItems * next;
 	int  id;
 	char name[LINESIZE];
 	int  amount;
 };
-typedef struct neededitems NeededItems;
+
 	
-struct shoppinglist {
-	struct shoppinglist * next;	
+struct ShoppingList {
+	struct ShoppingList * next;	
 	int  id;
 	char name[LINESIZE];
 	int  amount;
 };
-typedef struct shoppinglist ShoppingList;
 
-struct shoppingcart {
-	ShoppingList * head;
-	ShoppingList * tail;
+struct ShoppingCart {
+	struct ShoppingList * head;
+	struct ShoppingList * tail;
 };
-typedef struct shoppingcart ShoppingCart;
 
 
-struct item {
-	struct item * right;
-	int      marker;				// Keeps flags about which information has` been read from file id: 0x01, name: 0x02, compound: 0x04
-	int      id;
-	char     name[LINESIZE];
-	bool     compound;
-	Recipe   element[MAXITEMS];
+struct Item {
+	struct Item * right;
+	int  marker;				// Keeps flags about which information has` been read from file id: 0x01, name: 0x02, compound: 0x04
+	int  id;
+	char name[LINESIZE];
+	bool compound;
+	struct Recipe   element[MAXITEMS];
 };
-typedef struct item   Item;
 
 
-
-struct list {
-	Item * head;
-	Item * tail;
+struct List {
+	struct Item * head;
+	struct Item * tail;
 };
-typedef struct list List;
 
 
-
-enum elstate {
+enum elState {
 	EL_SUCCESS,
 	EL_FAIL,
 	EL_IOERR,
 	EL_EOF,
 	EL_CMPLTD
 };
-typedef enum elstate elState;
-
 
 
 #endif  /*  EL_DEFS_H  */

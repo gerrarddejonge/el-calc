@@ -3368,7 +3368,13 @@ C: 0
 
 N: Spear 
 I: 681 
-C: 0
+C: 1
+E: 483 1		# wolfram bar
+E: 150 1		# serpent stone
+E: 112 2		# titanium bar
+E: 111 1		# steel bar
+E: 31 30		# fire essence
+E: 0
 
 N: Square Vial 
 I: 875 

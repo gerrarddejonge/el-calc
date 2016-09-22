@@ -30,7 +30,8 @@ void clearMarker(char * s, char marker)
 
 ///  
 /// Remove all leading spaces of string
-/// Returns pointer to string
+/// Returns pointer to string, which should be 
+/// the same as the original
 ///
 char * leftTrim(char * str)
 {
@@ -50,7 +51,8 @@ char * leftTrim(char * str)
 
 /// 
 /// Remove all trailing spaces of string str
-/// Returns pointer to string
+/// Returns pointer to string, which should be 
+/// the same as the original
 ///
 char * rightTrim(char * str)
 {
@@ -67,7 +69,8 @@ char * rightTrim(char * str)
 
 /// 
 /// Remove all leading and trailing spaces of string str
-/// Returns pointer to string
+/// Returns pointer to string, which should be 
+/// the same as the original
 ///
 char * trim(char * str)
 {
@@ -77,8 +80,8 @@ char * trim(char * str)
 
 /// 
 /// Alloc memory for size chars
-/// Return pointer to allocated memory or
-/// quit if allocation went wrong
+/// Return pointer to allocated memory or 
+/// exits on failure
 ///
 void * xMalloc(const size_t size)
 {
@@ -90,33 +93,36 @@ void * xMalloc(const size_t size)
 	}
 	return temp;
 }
+
+
 ///
 /// Allocate memory for count elements of size chars and set them to 0
 /// Return pointer to allocated memory or 
-/// quit if allocation went wrong
+/// exits on failure
 ///
 void * xCalloc(const size_t count, const size_t eltsize)
 {
-	void * temp = xMalloc(count* eltsize);
-    memset (temp, 0, count * eltsize);
+	void * temp = xMalloc(count * eltsize);
+	memset (temp, 0, count * eltsize);
   	return temp;
 }
 
 
 /// 
 /// Allocates new string and copies string str to it
-/// Return pointer to allocated memory or quit 
+/// Return pointer to allocated memory or exit 
 /// if allocation went wrong
 ///
 void * xStrDup(const char * str)
 {
 	char * temp;
 
-	if ((temp = (char *) malloc(strlen(str)+1)) == NULL) {
+	if ((temp = calloc(strlen(str)+1, 1)) == NULL) {
 		printf("Out of memory\n");
 		exit(EXIT_FAILURE);
+	} else {
+		strcpy(temp, str);
 	}
-	strcpy(temp, str);
 	return temp;
 }
 
@@ -127,10 +133,7 @@ void * xStrDup(const char * str)
 ///
 char loCase(const char c)
 {
-	if ('A' <= c && c <= 'Z') {
-		return c -'A' + 'a';
-	}
-	return c;
+	return ('A' <= c && c <= 'Z') ? c -'A' + 'a' : c;
 }
 
 
@@ -140,10 +143,7 @@ char loCase(const char c)
 ///
 char upCase(const char c)
 {
-	if ('a' <= c && c <= 'z') {
-		return c - 'a' + 'A';
-	}
-	return c;
+	return ('a' <= c && c <= 'z') ? c - 'a' + 'A' : c;
 }
 
 
@@ -174,6 +174,11 @@ void lowerCase(char * str)
 	}
 }
 
+
+///
+/// Remove all spaces from a given string
+///
+///
 void strTransform(char * line)
 {
 	char * str;
@@ -187,10 +192,11 @@ void strTransform(char * line)
 	lowerCase(line);
 }
 
-
-bool isEmpty(const char line[])
+/// Check if a line is isEmpty
+/// Return true if empty otherwise return false
+bool isEmpty(const char const * line)
 {
-	return line[0] == '\0' ? true : false;
+	return *line == '\0' ? true : false;
 }
 
 // end of el_string.c

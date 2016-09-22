@@ -50,7 +50,7 @@ TOUCH   = touch
 RM     = rm -f
 CM     = chmod
 
-STANDARD= --std=gnu99
+STANDARD= --std=gnu11
 
 CPFLAGS = -g -O0 -save-temps $(STANDARD) -Wall -pedantic -Wextra -Wstrict-prototypes -fno-builtin
 LDFLAGS = 

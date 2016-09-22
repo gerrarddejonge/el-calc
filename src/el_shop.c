@@ -14,10 +14,10 @@
 #include "el_items.h"
 #include "el_string.h"
 
-elState buildShoppingList(List * list, ShoppingCart * cart, char itemname[], int amount)
+enum elState buildShoppingList(struct List * list, struct ShoppingCart * cart, char itemname[], int amount)
 {
-	Item * found;
-	Item * part;
+	struct Item * found;
+	struct Item * part;
 	
 	found = findItemName(list->head, itemname);
 	if ( !found ) {
@@ -57,7 +57,7 @@ elState addToNeededList(NeededItems * list, NeededItems * item)
 }
 */
 
-ShoppingList * isInCart(ShoppingList * item, int id)
+struct ShoppingList * isInCart(struct ShoppingList * item, int id)
 {
 	for ( ; item && item->id != id; item = item->next)
 		;
@@ -65,10 +65,10 @@ ShoppingList * isInCart(ShoppingList * item, int id)
 }
 
 
-elState addToShoppingList(ShoppingCart * cart, Item * item, int amount)
+enum elState addToShoppingList(struct ShoppingCart * cart, struct Item * item, int amount)
 {
-	ShoppingList * shopitem;
-	ShoppingList * temp;
+	struct ShoppingList * shopitem;
+	struct ShoppingList * temp;
 	
 	printf("Adding %d %s to shoppinglist.\n", amount, item->name);
 	
@@ -94,22 +94,22 @@ elState addToShoppingList(ShoppingCart * cart, Item * item, int amount)
 }
 
 
-void printShoppingItem(ShoppingList * item)
+void printShoppingItem(struct ShoppingList * item)
 {
 	printf("%d %s\n", item->amount, item->name);
 }
 
-void    printShoppingList(ShoppingList * shop)
+void    printShoppingList(struct ShoppingList * shop)
 {
 	for ( ; shop; shop = shop->next) {
 		printShoppingItem(shop);
 	}
 }
 
-void freeCart(ShoppingCart * cart)
+void freeCart(struct ShoppingCart * cart)
 {
-	ShoppingList * temp;
-	ShoppingList * head = cart->head;
+	struct ShoppingList * temp;
+	struct ShoppingList * head = cart->head;
 
 	while (head != NULL) {
 		temp = head;

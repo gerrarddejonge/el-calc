@@ -21,7 +21,7 @@ char   upCase(const char c);
 char   loCase(const char c);
 void   upperCase(char * str);
 void   lowerCase(char * str);
-bool   isEmpty(const char line[]);
+bool   isEmpty(const char const * line);
 
 
 #endif  // EL_STRING_H

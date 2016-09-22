@@ -19,11 +19,11 @@
 
 int main(int argc, char * argv[])
 {
-	PState       pstate = {"Unknown", 1, false, "", false, -1};
-	List         itemlist = {NULL, NULL};
-	ShoppingCart cart = {NULL, NULL};
-	char         path[PATHSIZE];
-	Item *       temp;
+	struct PState pstate = {"Unknown", 1, false, "", false, -1};
+	struct List itemlist = {NULL, NULL};
+	struct ShoppingCart cart = {NULL, NULL};
+	char path[PATHSIZE];
+	struct Item * temp;
 	
 //	printf("Pstate->name: %s, Pstate->amount: %d\n", pstate.itemname, pstate.amount);
 	if (argc > 1) {

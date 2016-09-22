@@ -42,7 +42,7 @@ static struct argp argp = {options, el_arg_parser, NULL, pdoc, NULL, NULL, NULL}
 
 error_t el_arg_parser(int key, char * arg, struct argp_state * state)
 {
-	PState * pstate = state->input;
+	struct PState * pstate = state->input;
 	int size;
 	
 	switch (key) {
@@ -81,7 +81,7 @@ error_t el_arg_parser(int key, char * arg, struct argp_state * state)
 }
 
 
-int get_args(int argc, char ** argv, PState * pstate)
+int get_args(int argc, char ** argv, struct PState * pstate)
 {
 	argp_parse(&argp, argc, argv, 0, 0, pstate);
 	return 0;

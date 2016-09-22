@@ -17,7 +17,7 @@
 #define COMMENTCHAR '#'
 
 
-elState getValidLine(char * line, FILE * stream, int * linenumber)
+enum elState getValidLine(char * line, FILE * stream, int * linenumber)
 {
 	char * result;
 	int    valid = 0;
@@ -41,11 +41,11 @@ elState getValidLine(char * line, FILE * stream, int * linenumber)
 }
 
 
-elState loadAllItems(List * list, char filepath[]) 
+enum elState loadAllItems(struct List * list, char filepath[]) 
 {
 	FILE * itemfile;
-	Item * item = NULL;
-	Item   temp;
+	struct Item * item = NULL;
+	struct Item   temp;
 	int    linenumber = 0;
 	
 	if ((itemfile = fopen(filepath, "r")) != NULL) {
@@ -70,12 +70,12 @@ elState loadAllItems(List * list, char filepath[])
 }
 
 
-elState loadSingleItem(FILE * stream, Item * item, int * linenumber)
+enum elState loadSingleItem(FILE * stream, struct Item * item, int * linenumber)
 {
-	char    line[LINESIZE];
-	elState res = EL_SUCCESS;
-	int     elementcount = 0;
-	elState state;
+	char line[LINESIZE];
+	enum elState res = EL_SUCCESS;
+	int elementcount = 0;
+	enum elState state;
 	
 	while ( ((state = getValidLine(line, stream, linenumber)) == EL_SUCCESS) ) {
 		
@@ -112,7 +112,7 @@ elState loadSingleItem(FILE * stream, Item * item, int * linenumber)
 
 
 
-void initItem(Item * item)
+void initItem(struct Item * item)
 {
 	item->marker = 0;
 	item->id = 0;
@@ -126,9 +126,9 @@ void initItem(Item * item)
 }
 	
 	
-Item * cloneItem(const Item * item)
+struct Item * cloneItem(const struct Item * item)
 {
-	Item * clone = NULL;
+	struct Item * clone = NULL;
 	
 	if (item != NULL) {
 		if ((clone = calloc(1, sizeof(*clone))) != NULL) {
@@ -139,9 +139,9 @@ Item * cloneItem(const Item * item)
 }
 
 
-Item * addItem(List * list, Item * item)
+struct Item * addItem(struct List * list, struct Item * item)
 {
-	Item * found;
+	struct Item * found = NULL;
 	
 	if ((found = findItemId(list->head, item->id)) == NULL) {
 		if (list->head == NULL) {
@@ -157,7 +157,7 @@ Item * addItem(List * list, Item * item)
 }
 
 
-Item * findItemId(Item * head, int id)
+struct Item * findItemId(struct Item * head, int id)
 {
 	for ( ; head && (head->id != id); head = head->right) 
 		;
@@ -165,7 +165,7 @@ Item * findItemId(Item * head, int id)
 }
 
 
-Item * findItemName(Item * head, char name[])
+struct Item * findItemName(struct Item * head, char name[])
 {
 	for( ; head && strcmp(head->name, name) != 0; head = head->right)
 		;
@@ -173,7 +173,7 @@ Item * findItemName(Item * head, char name[])
 }
 
 
-void showItem(Item * item)
+void showItem(struct Item * item)
 {
 	if (item) {
 		printf("\n");
@@ -191,9 +191,9 @@ void showItem(Item * item)
 }
 
 
-void printItems(List * list)
+void printItems(struct List * list)
 {
-	Item * item;
+	struct Item * item;
 	
 	for (item = list->head; item; item = item->right) {
 		showItem(item);
@@ -211,9 +211,9 @@ char getHead(char * line)
 }
     
 
-void lookup(List * list, char name[])
+void lookup(struct List * list, char name[])
 {
-	Item * item;
+	struct Item * item;
 	
 	if (strcmp("Unknown", name) != 0) {
 		item = findItemName(list->head, name);
@@ -227,9 +227,9 @@ void lookup(List * list, char name[])
 	}
 }
 
-void searchItem(List * list, char name[])
+void searchItem(struct List * list, char name[])
 {
-	Item * scan;
+	struct Item * scan;
 	
 	if (strcmp("Unknown", name) != 0) {
 		for ( scan = list->head; scan; scan = scan->right) {
@@ -242,10 +242,10 @@ void searchItem(List * list, char name[])
 	}
 }
 
-void freeItemList(List * list)
+void freeItemList(struct List * list)
 {
-	Item * temp;
-	Item * head = list->head;
+	struct Item * temp;
+	struct Item * head = list->head;
 	
 	while (head != NULL) {
 		temp = head;

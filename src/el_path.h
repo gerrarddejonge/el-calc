@@ -13,10 +13,10 @@
 
 #include "el_defs.h"
 
-bool getArgPath(char path[], PState * pstate);
+bool getArgPath(char path[], struct PState * pstate);
 bool getEnvPath(char path[]);
 bool getLocalPath(char path[]);
-void getFilePath(char path[], PState * pstate);
+void getFilePath(char path[], struct PState * pstate);
 
 
 

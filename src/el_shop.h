@@ -10,11 +10,11 @@
 
 #include "el_defs.h"
 
-elState buildShoppingList(List * list, ShoppingCart * cart, char itemname[], int amount);
-elState addToShoppingList(ShoppingCart * cart, Item * item, int amount);
-void    printShoppingList(ShoppingList * shop);
+enum elState buildShoppingList(struct List * list, struct ShoppingCart * cart, char itemname[], int amount);
+enum elState addToShoppingList(struct ShoppingCart * cart, struct Item * item, int amount);
+void    printShoppingList(struct ShoppingList * shop);
 //elState addToNeededList(NeededItems * list, NeededItems * item);
-void freeCart(ShoppingCart * cart);
+void freeCart(struct ShoppingCart * cart);
 
 
 #endif // _EL_SHOP_H

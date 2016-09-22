@@ -17,7 +17,7 @@
 
 const char undefline[] = "%s: Line %d. Item is undefined\n";
 
-elState parseName(char * line, Item * item)
+enum elState parseName(char * line, struct Item * item)
 {
 	strncpy(item->name, trim(line), LINESIZE);
 	lowerCase(item->name);
@@ -28,7 +28,7 @@ elState parseName(char * line, Item * item)
 }
 
 
-elState parseID(char * line, Item * item, int ln)
+enum elState parseID(char * line, struct Item * item, int ln)
 {
 	if (sscanf( line, "%d", &item->id) < 1) {
 		printf("Line: %d. Missing id. Setting to 0\n", ln);
@@ -40,9 +40,9 @@ elState parseID(char * line, Item * item, int ln)
 }
 
 
-elState parseCompound(char * line, Item * item, int ln)
+enum elState parseCompound(char * line, struct Item * item, int ln)
 {
-	elState res = EL_SUCCESS;
+	enum elState res = EL_SUCCESS;
 	int compound = 0;
 
 	if (sscanf(line, "%d", &compound) < 1) {
@@ -59,9 +59,9 @@ elState parseCompound(char * line, Item * item, int ln)
 	return res;
 }
 
-elState parseElement(char * line, Item * item, int ln, int eltcount)
+enum elState parseElement(char * line, struct Item * item, int ln, int eltcount)
 {
-	elState res = EL_SUCCESS;
+	enum elState res = EL_SUCCESS;
 	int  id;
 	int  amount;
 	
